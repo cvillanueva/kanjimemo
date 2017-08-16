@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Kanji Memo</string>
+
+    <string name="main_title">漢字</string>
+    <string name="main_play_button">JUGAR</string>
+    <string name="main_menu_style">Estilo</string>
+    <string name="main_menu_options">Opciones</string>
+
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_select_style">Selecciona Estilo</string>
+
+    <!-- select_style.xml -->
+    <string name="select_style_title">Selecciona Estilo</string>
+    <string name="select_style_rb_kuro"> 黒  Kuro</string>
+    <string name="select_style_rb_midori"> 緑  Midori</string>
+    <string name="select_style_rb_murasaki"> 紫  Murasaki</string>
+
+    <!-- play.xml -->
+    <string name="play_menu_style">Estilo</string>
+    <string name="play_menu_help">Ayuda</string>
+    <string name="play_menu_about">Sobre KanjiMemo</string>
+    <string name="play_menu_options">Opciones</string>
+    <string name="title_activity_play">Jugar</string>
+    <string name="play_img_desc">Muestra el resultado del juego actual</string>
+    <string name="play_play_amount">1/10</string>
+    <string name="play_percentage">0%</string>
+    <string name="play_kanji">漢字</string>
+    <string name="play_hiragana">Kunyomi</string>
+    <string name="play_onyomi">Onyomi</string>
+    <string name="play_first_option">Primera opción</string>
+    <string name="play_second_option">Segunda opción</string>
+    <string name="play_third_option">Tercera opción</string>
+    <string name="play_level">Nivel</string>
+    <string name="play_global_title">Global</string>
+    <string name="play_current_title">Actual</string>
+
+    <!-- help.xml -->
+    <string name="help_title">Ayuda</string>
+    <string name="help_question1">¿Como jugar?</string>
+    <string name="help_question2">¿Porque no puedo avanzar al siguiente nivel?</string>
+    <string name="help_question3">¿Cuantos niveles hay?</string>
+
+    <string name="help_answer1">KanjiMemo es una aplicación que te ayuda a memorizar kanijs. El objetivo es acertar la traducción del kanji mostrado entre tres posibles opciones.</string>
+    <string name="help_answer2">Para avanzar al siguiente nivel, debes acertar cada uno de los kanji del nivel, cinco veces. Si fallas, la cuenta para ese kanji volverá a cero.</string>
+    <string name="help_answer3">KanjiMemo tiene 162 niveles con 12 kanjis cada uno.</string>
+
+    <!-- about.xml -->
+    <string name="about_title">Sobre KanjiMemo</string>
+    <string name="about_kanji">漢字</string>
+    <string name="about_name">KanjiMemo por Ngenko Labs.</string>
+    <string name="about_version">Versión 1.0</string>
+    <string name="about_comments">Envianos tus comentarios a</string>
+    <string name="about_email">ngenkolabs@gmail.com</string>
+</resources>

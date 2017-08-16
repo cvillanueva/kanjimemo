@@ -1,0 +1,1949 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="kanji_english_array">
+		<item>one|a</item>
+		<item>seven</item>
+		<item>three</item>
+		<item>up</item>
+		<item>down</item>
+		<item>medium|half</item>
+		<item>nine</item>
+		<item>two</item>
+		<item>five</item>
+		<item>people</item>
+		<item>rest</item>
+		<item>previous</item>
+		<item>enter|input</item>
+		<item>eight</item>
+		<item>six</item>
+		<item>yen|circle</item>
+		<item>exit</item>
+		<item>power|strength|energy</item>
+		<item>ten</item>
+		<item>thousand</item>
+		<item>mouth</item>
+		<item>right</item>
+		<item>name</item>
+		<item>four</item>
+		<item>earth|soil</item>
+		<item>evening|sunset</item>
+		<item>large|big</item>
+		<item>heaven</item>
+		<item>woman</item>
+		<item>child</item>
+		<item>character</item>
+		<item>study</item>
+		<item>small</item>
+		<item>mountain</item>
+		<item>river</item>
+		<item>left</item>
+		<item>year</item>
+		<item>hand</item>
+		<item>sentence</item>
+		<item>day</item>
+		<item>early</item>
+		<item>month|moon</item>
+		<item>tree</item>
+		<item>book</item>
+		<item>village</item>
+		<item>trees</item>
+		<item>school</item>
+		<item>forest</item>
+		<item>correct</item>
+		<item>spirit</item>
+		<item>water</item>
+		<item>fire</item>
+		<item>dog</item>
+		<item>ball</item>
+		<item>king</item>
+		<item>life</item>
+		<item>rice field</item>
+		<item>man</item>
+		<item>town</item>
+		<item>white</item>
+		<item>hundred</item>
+		<item>eye</item>
+		<item>stone</item>
+		<item>sky</item>
+		<item>standing</item>
+		<item>bamboo</item>
+		<item>thread</item>
+		<item>ear</item>
+		<item>flower</item>
+		<item>grass</item>
+		<item>insect</item>
+		<item>see|look</item>
+		<item>shell</item>
+		<item>red</item>
+		<item>foot</item>
+		<item>car</item>
+		<item>gold</item>
+		<item>rain</item>
+		<item>blue</item>
+		<item>sound</item>
+		<item>ten thousand</item>
+		<item>circle|round</item>
+		<item>exchange</item>
+		<item>capital</item>
+		<item>now</item>
+		<item>association</item>
+		<item>body</item>
+		<item>what|anything</item>
+		<item>work|create</item>
+		<item>origin</item>
+		<item>big brother</item>
+		<item>light</item>
+		<item>public</item>
+		<item>in</item>
+		<item>winter</item>
+		<item>sword</item>
+		<item>minute</item>
+		<item>cut</item>
+		<item>before</item>
+		<item>north</item>
+		<item>midday</item>
+		<item>half</item>
+		<item>soth</item>
+		<item>meadow</item>
+		<item>friend</item>
+		<item>old</item>
+		<item>standing</item>
+		<item>suitable</item>
+		<item>same</item>
+		<item>times</item>
+		<item>figure</item>
+		<item>country</item>
+		<item>garden</item>
+		<item>ground</item>
+		<item>place</item>
+		<item>voice</item>
+		<item>sell</item>
+		<item>summer</item>
+		<item>outside</item>
+		<item>many</item>
+		<item>night</item>
+		<item>fat</item>
+		<item>little sister</item>
+		<item>older sister</item>
+		<item>room</item>
+		<item>home|house</item>
+		<item>temple</item>
+		<item>small</item>
+		<item>rock</item>
+		<item>engineering</item>
+		<item>city</item>
+		<item>back to home</item>
+		<item>with</item>
+		<item>shop|store</item>
+		<item>bow</item>
+		<item>pull</item>
+		<item>little brother</item>
+		<item>weak</item>
+		<item>strong</item>
+		<item>win|hit</item>
+		<item>form</item>
+		<item>later</item>
+		<item>heart</item>
+		<item>think</item>
+		<item>door</item>
+		<item>years old</item>
+		<item>teach</item>
+		<item>number</item>
+		<item>new</item>
+		<item>address</item>
+		<item>bright</item>
+		<item>star</item>
+		<item>spring</item>
+		<item>day time</item>
+		<item>when</item>
+		<item>sunny</item>
+		<item>day of week</item>
+		<item>write</item>
+		<item>morning</item>
+		<item>come</item>
+		<item>east</item>
+		<item>music</item>
+		<item>song</item>
+		<item>stop</item>
+		<item>walk|step</item>
+		<item>mother</item>
+		<item>every</item>
+		<item>hair</item>
+		<item>pond</item>
+		<item>steam</item>
+		<item>life|activity</item>
+		<item>sea</item>
+		<item>point</item>
+		<item>father</item>
+		<item>cow</item>
+		<item>sense|logical</item>
+		<item>use</item>
+		<item>stroke|draw</item>
+		<item>save|protect</item>
+		<item>straight|just|linear</item>
+		<item>arrow</item>
+		<item>knowledge</item>
+		<item>company</item>
+		<item>autumn</item>
+		<item>department</item>
+		<item>answer</item>
+		<item>calculation</item>
+		<item>rice</item>
+		<item>paper</item>
+		<item>thin</item>
+		<item>set</item>
+		<item>picture|paiting</item>
+		<item>line</item>
+		<item>feather</item>
+		<item>think</item>
+		<item>listen</item>
+		<item>meat</item>
+		<item>self</item>
+		<item>boat</item>
+		<item>color</item>
+		<item>tea</item>
+		<item>go</item>
+		<item>west</item>
+		<item>father</item>
+		<item>angle</item>
+		<item>say</item>
+		<item>measure</item>
+		<item>annotate</item>
+		<item>talk|speak</item>
+		<item>language</item>
+		<item>read</item>
+		<item>valley</item>
+		<item>buy</item>
+		<item>run</item>
+		<item>close</item>
+		<item>cross|pass</item>
+		<item>week</item>
+		<item>way</item>
+		<item>far</item>
+		<item>town|village</item>
+		<item>field</item>
+		<item>long|chief</item>
+		<item>door|entry</item>
+		<item>interval|space</item>
+		<item>snow</item>
+		<item>cloud</item>
+		<item>electricity</item>
+		<item>cabeza</item>
+		<item>face</item>
+		<item>wind</item>
+		<item>eat|meal</item>
+		<item>neck</item>
+		<item>horse</item>
+		<item>tall|expensive</item>
+		<item>fish</item>
+		<item>bird</item>
+		<item>sound</item>
+		<item>grain</item>
+		<item>yellow</item>
+		<item>black</item>
+		<item>street</item>
+		<item>world|generation</item>
+		<item>both</item>
+		<item>master|lord</item>
+		<item>mount</item>
+		<item>previous</item>
+		<item>thing</item>
+		<item>serve</item>
+		<item>other</item>
+		<item>replace|substitute</item>
+		<item>residence</item>
+		<item>use</item>
+		<item>duty</item>
+		<item>double</item>
+		<item>total|complete</item>
+		<item>tool|utensil</item>
+		<item>copy</item>
+		<item>row|line</item>
+		<item>help</item>
+		<item>endeavor</item>
+		<item>move</item>
+		<item>win</item>
+		<item>change</item>
+		<item>district|town</item>
+		<item>medicine</item>
+		<item>leave</item>
+		<item>opposite</item>
+		<item>take</item>
+		<item>accept|approve</item>
+		<item>number</item>
+		<item>opposing</item>
+		<item>you|yourself</item>
+		<item>flavor|taste</item>
+		<item>destiny</item>
+		<item>peace</item>
+		<item>goods</item>
+		<item>member</item>
+		<item>sell|negotiate</item>
+		<item>question</item>
+		<item>pending</item>
+		<item>husband</item>
+		<item>start</item>
+		<item>detailed|trust</item>
+		<item>protect</item>
+		<item>cheap|quiet</item>
+		<item>decide|establish</item>
+		<item>truth</item>
+		<item>guest|visitor</item>
+		<item>shinto shrine</item>
+		<item>inn|accommodation</item>
+		<item>cold</item>
+		<item>opposite|contrary</item>
+		<item>office|department</item>
+		<item>shop|root|house</item>
+		<item>beach|coast</item>
+		<item>island</item>
+		<item>state|province|sandbar</item>
+		<item>account book</item>
+		<item>flat|plain</item>
+		<item>happiness</item>
+		<item>degree|turn|times</item>
+		<item>warehouse</item>
+		<item>garden</item>
+		<item>system|method</item>
+		<item>duty|service</item>
+		<item>wait</item>
+		<item>hurry| urgency</item>
+		<item>breath</item>
+		<item>bad</item>
+		<item>sad</item>
+		<item>concept</item>
+		<item>idea</item>
+		<item>feeling</item>
+		<item>place</item>
+		<item>paste</item>
+		<item>across</item>
+		<item>gather|collect</item>
+		<item>hold</item>
+		<item>finger</item>
+		<item>release</item>
+		<item>tidying|organizing</item>
+		<item>trip|jopurney|voyage|travel</item>
+		<item>tribe</item>
+		<item>long time ago</item>
+		<item>light|bright</item>
+		<item>heat| hot</item>
+		<item>dark</item>
+		<item>musical composition</item>
+		<item>have</item>
+		<item>clothing|admit</item>
+		<item>purpose|intent</item>
+		<item>board|table</item>
+		<item>column</item>
+		<item>root</item>
+		<item>plant|planting|growing</item>
+		<item>business|industry</item>
+		<item>Mr|Mrs</item>
+		<item>side|lateral side</item>
+		<item>bridge</item>
+		<item>next</item>
+		<item>tooth</item>
+		<item>death| dying</item>
+		<item>ice</item>
+		<item>decide</item>
+		<item>oil|grease</item>
+		<item>wave|poland</item>
+		<item>concentrate|spill</item>
+		<item>swim</item>
+		<item>ocean</item>
+		<item>creek|stream|spill</item>
+		<item>extinguish|disappear</item>
+		<item>deep</item>
+		<item>warm</item>
+		<item>harbor</item>
+		<item>lake</item>
+		<item>hot water</item>
+		<item>china</item>
+		<item>coal|carbon</item>
+		<item>thing</item>
+		<item>sphere</item>
+		<item>reason|cause</item>
+		<item>say|have the honor of</item>
+		<item>extension|border</item>
+		<item>plantation</item>
+		<item>sickness</item>
+		<item>exhibit|happen</item>
+		<item>climb</item>
+		<item>skin|fur</item>
+		<item>dish</item>
+		<item>aspect| mutually</item>
+		<item>prefecture</item>
+		<item>reality|real|genuine</item>
+		<item>dress</item>
+		<item>short</item>
+		<item>sharpening|polishing</item>
+		<item>courtesy|greeting|thanks</item>
+		<item>god</item>
+		<item>festival</item>
+		<item>luck</item>
+		<item>second</item>
+		<item>investigation</item>
+		<item>chapter</item>
+		<item>boy|child</item>
+		<item>flute</item>
+		<item>ordinal prefix|examination|number</item>
+		<item>writing brush</item>
+		<item>class|like|etc</item>
+		<item>box</item>
+		<item>rank|grade</item>
+		<item>end</item>
+		<item>green</item>
+		<item>training|practice</item>
+		<item>sheep</item>
+		<item>beauty| beautiful</item>
+		<item>learn</item>
+		<item>someone</item>
+		<item>educate|raise</item>
+		<item>suffering| painful</item>
+		<item>package|luggage</item>
+		<item>ose|drop</item>
+		<item>sheet</item>
+		<item>medicine</item>
+		<item>blood</item>
+		<item>show|express</item>
+		<item>poem|poetry</item>
+		<item>check|fix|investigate</item>
+		<item>talk</item>
+		<item>legumes| beans</item>
+		<item>duty|win|be defeated</item>
+		<item>wake</item>
+		<item>road</item>
+		<item>self|standing|body</item>
+		<item>bump|turn|fall</item>
+		<item>lightweight|insignificant</item>
+		<item>agriculture|farmer</item>
+		<item>return|bring back</item>
+		<item>eject|dismiss|pursue</item>
+		<item>send|forward</item>
+		<item>fast</item>
+		<item>advance|progress</item>
+		<item>play</item>
+		<item>transport</item>
+		<item>part|section</item>
+		<item>capital|metropolis</item>
+		<item>distribute|ration</item>
+		<item>alcoholic drink</item>
+		<item>heavy| important</item>
+		<item>iron|steel</item>
+		<item>silver</item>
+		<item>open|inaugurate</item>
+		<item>temple|hospital|institution</item>
+		<item>positive|masculine</item>
+		<item>level|grade|floor</item>
+		<item>gather|collect</item>
+		<item>face|visage</item>
+		<item>topical|subject|matter</item>
+		<item>drink</item>
+		<item>large building|palace</item>
+		<item>station</item>
+		<item>nose</item>
+		<item>negative prefix|dis-|in-</item>
+		<item>fight|discuss</item>
+		<item>adhering|gluing|joining</item>
+		<item>laws| orders</item>
+		<item>but|also that</item>
+		<item>relationship| mediation</item>
+		<item>transmit|communicate</item>
+		<item>position|grade|approximately</item>
+		<item>low|cheap</item>
+		<item>example| compare</item>
+		<item>correspondence| letters| news</item>
+		<item>trust|sincerity</item>
+		<item>cellar| warehouse| barn</item>
+		<item>climate|expect something|explore</item>
+		<item>borrow|rent</item>
+		<item>interrupt|stop</item>
+		<item>force|strength|health</item>
+		<item>row|side</item>
+		<item>work</item>
+		<item>one hundred million</item>
+		<item>omen|symptom|trillion</item>
+		<item>brood|newborn</item>
+		<item>also|both together</item>
+		<item>soldier| troop</item>
+		<item>code|rule</item>
+		<item>cool| cold</item>
+		<item>beginning the first</item>
+		<item>apart|separate</item>
+		<item>gain|profit</item>
+		<item>printed|pattern</item>
+		<item>copy|duplicate|vice-</item>
+		<item>accomplishment|success</item>
+		<item>add|increase</item>
+		<item>strive</item>
+		<item>tiredness|compensation|hard work</item>
+		<item>boldness|courage</item>
+		<item>wrap|cover|package</item>
+		<item>graduation</item>
+		<item>cooperation|collaboration</item>
+		<item>only|single</item>
+		<item>abundant|large</item>
+		<item>symbol|sign|mark</item>
+		<item>attend|be defeated</item>
+		<item>history|chronicle</item>
+		<item>steer|govern</item>
+		<item>each|respectively</item>
+		<item>advertise|inform</item>
+		<item>circumference|around</item>
+		<item>reciting|singing</item>
+		<item>joy|glee</item>
+		<item>container|utensil</item>
+		<item>surround|fence</item>
+		<item>stubborn|hardened</item>
+		<item>model|type|pattern</item>
+		<item>hall|temple</item>
+		<item>salt</item>
+		<item>gentleman|man</item>
+		<item>change|alter|modify</item>
+		<item>center| middle</item>
+		<item>lose|err</item>
+		<item>like|prefer</item>
+		<item>season</item>
+		<item>grandson</item>
+		<item>perfection|final</item>
+		<item>official government</item>
+		<item>damage|injury|obstacle</item>
+		<item>guess|suppose</item>
+		<item>nest|burrow</item>
+		<item>distinction|remaining|put</item>
+		<item>desire|hope|rare|Greece</item>
+		<item>seat</item>
+		<item>belt|stick|region</item>
+		<item>bottom|base|background</item>
+		<item>municipality</item>
+		<item>healthy|calm</item>
+		<item>constructing|building</item>
+		<item>method|diameter|way</item>
+		<item>useless|fellow</item>
+		<item>advantage|benefit|profit</item>
+		<item>necesariamiente|without fail|certainly</item>
+		<item>desire|feeling</item>
+		<item>love|affection|favorite</item>
+		<item>become|be</item>
+		<item>war|fight</item>
+		<item>break|bend</item>
+		<item>raise|lift</item>
+		<item>renew|reform|review</item>
+		<item>save|rescue</item>
+		<item>fail|be defeated</item>
+		<item>scatter|disperse|spill</item>
+		<item>price|material</item>
+		<item>banner|national flag</item>
+		<item>above|prior</item>
+		<item>scene|landscape|panorama</item>
+		<item>extremely|very</item>
+		<item>expect| desire| aspiration</item>
+		<item>yet|still</item>
+		<item>end|even|future|tip</item>
+		<item>ticket|paper money</item>
+		<item>skill|talent|parquet</item>
+		<item>bunch</item>
+		<item>pine</item>
+		<item>end|result</item>
+		<item>prosperity|honor</item>
+		<item>idea|plan</item>
+		<item>plum</item>
+		<item>artifact|machine|gadget</item>
+		<item>pole|extreme</item>
+		<item>signal|indicator|sign</item>
+		<item>machine|mechanism|loom</item>
+		<item>missing|lacking|broken</item>
+		<item>over time|spend</item>
+		<item>balance|stop|rest</item>
+		<item>kill</item>
+		<item>poison|poisonous</item>
+		<item>surname| clan</item>
+		<item>people</item>
+		<item>demand|request</item>
+		<item>rule|reign|cure</item>
+		<item>method|doctrine|law</item>
+		<item>cry</item>
+		<item>superficial</item>
+		<item>showering|bathing</item>
+		<item>pure|clear|purify</item>
+		<item>full|complete</item>
+		<item>fishing</item>
+		<item>lamp|light</item>
+		<item>nothing| nonexistent</item>
+		<item>in that case|thereby</item>
+		<item>bake|broil|burn</item>
+		<item>shine|illuminate|be ashamed</item>
+		<item>heat| fever</item>
+		<item>pasture| graze</item>
+		<item>special</item>
+		<item>property|produce|give birth</item>
+		<item>objective|purpose</item>
+		<item>reflect</item>
+		<item>celebrate|congratulate</item>
+		<item>vote</item>
+		<item>variety|type|class</item>
+		<item>accumulate|stack|stacking</item>
+		<item>compete|rival</item>
+		<item>laugh|smile</item>
+		<item>tube|control|monitor|manage</item>
+		<item>node|joint</item>
+		<item>powder|flour</item>
+		<item>chronic|era|standards</item>
+		<item>promise|approximately</item>
+		<item>tie|bind|finish</item>
+		<item>salary|wages|distribute</item>
+		<item>continue|set|go</item>
+		<item>put</item>
+		<item>old|experienced|aging</item>
+		<item>stomach</item>
+		<item>vein|pulse</item>
+		<item>intestines|viscera</item>
+		<item>servant|subject</item>
+		<item>navigate</item>
+		<item>good|outstanding</item>
+		<item>technique|art</item>
+		<item>bud|germ</item>
+		<item>england|excellent</item>
+		<item>vegetable</item>
+		<item>street|avenue|city</item>
+		<item>clothing|garment</item>
+		<item>need|essentially</item>
+		<item>memorize|remember|understand</item>
+		<item>display|view|look closely</item>
+		<item>lesson|a reading japanese kanji</item>
+		<item>test|experiment</item>
+		<item>theory|opinion</item>
+		<item>section|division|chapter</item>
+		<item>consultation|consideration</item>
+		<item>elephant| imitate</item>
+		<item>currency|goods</item>
+		<item>save|store</item>
+		<item>expenses|costs</item>
+		<item>award|reward</item>
+		<item>army|troops</item>
+		<item>wheel|ring</item>
+		<item>resign|leave</item>
+		<item>neighborhood|environment|surroundings</item>
+		<item>accompany|be with</item>
+		<item>achieve|perform</item>
+		<item>choose|select</item>
+		<item>district|county</item>
+		<item>amount|measured</item>
+		<item>record|annotate|copy</item>
+		<item>mirror|lens</item>
+		<item>relationship|door|fence|barrier</item>
+		<item>land</item>
+		<item>group|band|party</item>
+		<item>quiet|calm</item>
+		<item>obedience|duty|order</item>
+		<item>request|desire|longing</item>
+		<item>similarly|class|variety</item>
+		<item>fly</item>
+		<item>food|meal</item>
+		<item>raising|cultivating</item>
+		<item>test|try</item>
+		<item>long|continued</item>
+		<item>Buddha|France|killed</item>
+		<item>temporary|provisional</item>
+		<item>matter| incident</item>
+		<item>responsibility</item>
+		<item>look like</item>
+		<item>excess|surplus|overrun</item>
+		<item>value|cost</item>
+		<item>preserve|maintain</item>
+		<item>discipline|control</item>
+		<item>sack|bale</item>
+		<item>individual</item>
+		<item>provide|equip|provision</item>
+		<item>statue|figure</item>
+		<item>again|back</item>
+		<item>publish| edit</item>
+		<item>judge|distinguish</item>
+		<item>system|set</item>
+		<item>ticket|certificate</item>
+		<item>rule|regulation|law</item>
+		<item>impact|effectiveness|efficiency</item>
+		<item>duty|obligation|charge</item>
+		<item>power|strength|influence</item>
+		<item>thick</item>
+		<item>sentence|paragraph</item>
+		<item>possible|approval|good</item>
+		<item>manage|control</item>
+		<item>cause|reason</item>
+		<item>group|round|company</item>
+		<item>pressure|stress</item>
+		<item>be|exist</item>
+		<item>average|level</item>
+		<item>base|foundation</item>
+		<item>inform|reward</item>
+		<item>limit|border|edge</item>
+		<item>tomb|grave</item>
+		<item>increase|add</item>
+		<item>dream|vision|illusion</item>
+		<item>wife</item>
+		<item>woman|wife</item>
+		<item>content|easy</item>
+		<item>approach|meet|collaborate</item>
+		<item>abundant|wealthy|enrich</item>
+		<item>guide|be guided</item>
+		<item>reside|live</item>
+		<item>membership|subordination</item>
+		<item>cloth|fabric</item>
+		<item>expert|master</item>
+		<item>normal|usual|ordinary</item>
+		<item>tree trunk|base</item>
+		<item>beginning|preface|precedence</item>
+		<item>identify|distinguish|dialect</item>
+		<item>stretch|exaggerate</item>
+		<item>go|sometimes|formerly</item>
+		<item>again|repeat</item>
+		<item>benevolence|virtue|morality</item>
+		<item>intention|ambition|aspiration|will</item>
+		<item>respond|reply|accept|appropriate</item>
+		<item>nice|pleasant|healing</item>
+		<item>gender|sex|temperament</item>
+		<item>goodness|grace|compassion</item>
+		<item>sympathy|feelings|emotion</item>
+		<item>condition|status|appearance</item>
+		<item>accustomed|customary</item>
+		<item>consent|grant|inheritance</item>
+		<item>technical|skill|art</item>
+		<item>invite|call</item>
+		<item>instruct|teach|grant</item>
+		<item>choose|select|collect</item>
+		<item>contact|close|connect</item>
+		<item>ake|propose|help</item>
+		<item>harm|hurt|loss</item>
+		<item>branch|support|advocacy|interference</item>
+		<item>politics|government</item>
+		<item>circumstances|cause|exceptionally|old</item>
+		<item>enemy|opponent|adversary</item>
+		<item>cut|interrupt|decline</item>
+		<item>old|old days</item>
+		<item>easy|simple|divination</item>
+		<item>disclose|display|violent|rampage</item>
+		<item>clause|treatment</item>
+		<item>branch</item>
+		<item>investigate|examine|inspect</item>
+		<item>rank| position| capacity|status</item>
+		<item>cherry blossom|cherry</item>
+		<item>examine|analyze|investigate</item>
+		<item>build|assemble|interested</item>
+		<item>warrior|courage|weapons</item>
+		<item>Philippines|comparison|proportion</item>
+		<item>eternal|infinite|perpetual</item>
+		<item>stream|river</item>
+		<item>fluid|liquid</item>
+		<item>blend|mix|stir</item>
+		<item>decrease|diminish|dwindle</item>
+		<item>probe|measure|estimate</item>
+		<item>standard|rule|resemble</item>
+		<item>represent|express|perform</item>
+		<item>pure|immaculate|clean|honest</item>
+		<item>catastrophe|disaster|calamity</item>
+		<item>burn</item>
+		<item>print|edition</item>
+		<item>crime|offense</item>
+		<item>status|state|condition</item>
+		<item>only|sole|Germany</item>
+		<item>proportion|rate|lead|command</item>
+		<item>appear|show|manifest</item>
+		<item>stop|remain</item>
+		<item>abbreviation</item>
+		<item>benefit|profit|advantage</item>
+		<item>eye|view|insight</item>
+		<item>rip|tear|damage|break</item>
+		<item>sure|genuine|capable</item>
+		<item>indicate|show|reveal</item>
+		<item>ancestor|founder</item>
+		<item>ban|prohibit|proscription</item>
+		<item>exchange|transfer|infected</item>
+		<item>extension|distance|limits</item>
+		<item>tax|duty</item>
+		<item>constructing|building</item>
+		<item>refining|essence|purifying</item>
+		<item>elemental|raw material|normal</item>
+		<item>direct|long|experience|sutra</item>
+		<item>control|monitor|related</item>
+		<item>suppress|extinguish|eradicate|disappear</item>
+		<item>cotton|thorough|prolonged</item>
+		<item>complete|total|general</item>
+		<item>assemble|compile|edit|weaving</item>
+		<item>spinning|weaving|product</item>
+		<item>knit|weave|weaving</item>
+		<item>guilt|crime|sin</item>
+		<item>group|agglomerate|herd|flock</item>
+		<item>loyalty|morality|artificial|meaning</item>
+		<item>plow|cultivate</item>
+		<item>employment|occupation|since</item>
+		<item>fertilizer|manure|enrich|fatten</item>
+		<item>Japanese theater|skill|talent|fitness</item>
+		<item>interest|popularize|prosper|promote</item>
+		<item>tongue</item>
+		<item>house|cottage|inn</item>
+		<item>art|technique</item>
+		<item>defense|protection|guardian</item>
+		<item>manufacture|fabricate|construct</item>
+		<item>duplicate|repeat|compound</item>
+		<item>rule|measure|standard|compass</item>
+		<item>loose|comb|disentangle</item>
+		<item>establish|construct|equip</item>
+		<item>permit|allow|forgive</item>
+		<item>evidence|test|certificate|testimonial</item>
+		<item>criticism|comment|evaluation</item>
+		<item>conference|speech|assembly</item>
+		<item>apologize|refuse</item>
+		<item>distinguish|discern|discriminate</item>
+		<item>protect|preserve|defend</item>
+		<item>abundant|excellent|rich</item>
+		<item>wealth|property|assets|property</item>
+		<item>poor|poverty</item>
+		<item>blame|condemn|censure</item>
+		<item>loan|rent</item>
+		<item>trade|exchange</item>
+		<item>congratulations|joy</item>
+		<item>resource|capital</item>
+		<item>approval|consent|praise</item>
+		<item>quality|content|substance|simplicity</item>
+		<item>transportation|transfer</item>
+		<item>mention|say|counting</item>
+		<item>lost|stray</item>
+		<item>resign|refuse|rewind</item>
+		<item>inverse|opposite|contrary</item>
+		<item>create|build</item>
+		<item>exceed|overstep|pass</item>
+		<item>adequate|appropriate|adapt</item>
+		<item>acid|sour</item>
+		<item>mineral</item>
+		<item>copper</item>
+		<item>currency|money</item>
+		<item>prevent|withstand|bank|dam</item>
+		<item>limit|restrict|confine</item>
+		<item>inaccessible|steep|dangerous</item>
+		<item>occasion|boundary|border</item>
+		<item>miscellaneous|mixed|several</item>
+		<item>negative|wrong</item>
+		<item>deposit</item>
+		<item>monitor|control|key</item>
+		<item>front|frame|amount of money</item>
+		<item>raise|maintain|tame</item>
+		<item>ordinary|normal|aligned</item>
+		<item>disturbance|tumult|confusion</item>
+		<item>milk|breast</item>
+		<item>deceased|dead|run|perish|escape</item>
+		<item>humanity|kindness|charity</item>
+		<item>offer|give|express|mention</item>
+		<item>actor|interpreter</item>
+		<item>value|price|cost</item>
+		<item>wound|injury|damage|court</item>
+		<item>excel|exceed|excellent|friendly</item>
+		<item>party|faction</item>
+		<item>volume|counter for books</item>
+		<item>dispose|treat|contrive</item>
+		<item>carve|engrave|chisel|sharpening|sad</item>
+		<item>divide|distribute|separate|fracture</item>
+		<item>start|begin|cause|create</item>
+		<item>drama|theater|work|violent</item>
+		<item>duty|diligence|play</item>
+		<item>dangerous|doubtful</item>
+		<item>egg|ovule|embryo</item>
+		<item>strict|severe|austere|solemn</item>
+		<item>acquisition|be obtained|stored</item>
+		<item>empress</item>
+		<item>rejection|negative</item>
+		<item>suck|absorb|suck|smoking</item>
+		<item>call|suck</item>
+		<item>virtue|goodness</item>
+		<item>overwhelmed|grieve|suffer</item>
+		<item>suspend|hang|hanging</item>
+		<item>castle</item>
+		<item>limit|region|range</item>
+		<item>play an instrument|complete</item>
+		<item>enthusiastic|excited|exalted</item>
+		<item>figure|appearance|shape</item>
+		<item>assume|knowing</item>
+		<item>filial duty</item>
+		<item>residence|home|house</item>
+		<item>large building|sky</item>
+		<item>religion|foundation|origin</item>
+		<item>sky|firmament| in the air</item>
+		<item>treasure</item>
+		<item>proclaim|announce|promulgate</item>
+		<item>secret|dense|accurate</item>
+		<item>measure|length</item>
+		<item>specialty|entirely|exclusively</item>
+		<item>shoot|release</item>
+		<item>leader| command</item>
+		<item>reverence|esteem|appreciation|respect</item>
+		<item>conduct|established</item>
+		<item>measure|ruler|measurement unit</item>
+		<item>deliver|send|notify|inform</item>
+		<item>expand|exhibit|display</item>
+		<item>stratum|level</item>
+		<item>I|self</item>
+		<item>scroll|volume|roll</item>
+		<item>curtain|final|act of a play</item>
+		<item>dry|air</item>
+		<item>infancy|childhood|child</item>
+		<item>government office|public building</item>
+		<item>sit</item>
+		<item>postpone|stretch|extend|prolong</item>
+		<item>law|regulation|rule|rhythm</item>
+		<item>obey|follow</item>
+		<item>forgetting|losing</item>
+		<item>loyalty|fidelity</item>
+		<item>rule|law|regulation</item>
+		<item>ego| I| self</item>
+		<item>criticize</item>
+		<item>load|transport</item>
+		<item>worship|pray</item>
+		<item>expand|widen|extend</item>
+		<item>launch|abandon|throw|alms</item>
+		<item>investigate|probe|search|browse</item>
+		<item>infer|guess|suppose</item>
+		<item>display|exhibit|handle</item>
+		<item>handle|manage|manipulate|fidelity</item>
+		<item>respect|respect|honor</item>
+		<item>reflection|reflect|project</item>
+		<item>night|evening|dusk</item>
+		<item>warm|hot|tempered</item>
+		<item>finally|dusk|end|live</item>
+		<item>melodious|sonorous|clear|serene</item>
+		<item>desk|table</item>
+		<item>counter flat objects</item>
+		<item>dyeing|staining|coloring</item>
+		<item>actions|root</item>
+		<item>rod|bar|cane</item>
+		<item>model|imitation|pattern</item>
+		<item>authority|rights|power</item>
+		<item>trees|vegetation</item>
+		<item>desire|longing|craving</item>
+		<item>grade|step</item>
+		<item>border</item>
+		<item>fountain|source</item>
+		<item>washing|cleaning|rinsing</item>
+		<item>division|group|branch</item>
+		<item>finish|terminate|conclude|end</item>
+		<item>origin|source</item>
+		<item>tide|a trend</item>
+		<item>violent|furious</item>
+		<item>ash|cremate</item>
+		<item>mature|think well</item>
+		<item>piece|incomplete|chunk</item>
+		<item>squadron|group|unit</item>
+		<item>strange|weird|unusual</item>
+		<item>doubt|distrust|suspicion</item>
+		<item>pain|hurt|injure</item>
+		<item>emperor</item>
+		<item>prosperous|booming|flourishing</item>
+		<item>alliance|pact|oath</item>
+		<item>watch|look|see</item>
+		<item>sand|gravel</item>
+		<item>magnet|porcelain</item>
+		<item>I|private|secret</item>
+		<item>secret|mystery|hide</item>
+		<item>cereals|grain</item>
+		<item>hole|pit|hollow</item>
+		<item>window|room</item>
+		<item>muscle|fiber|frame</item>
+		<item>scheme|plan|strategy</item>
+		<item>simplicity|content|storage</item>
+		<item>sugar|sweetener</item>
+		<item>lineage|relationship|connection</item>
+		<item>deep red|crimson</item>
+		<item>supply|pay for|deliver|provide</item>
+		<item>genuine|purity|innocence</item>
+		<item>silk</item>
+		<item>vertical</item>
+		<item>shrink|curl|shorten</item>
+		<item>government office|responsible</item>
+		<item>next|after</item>
+		<item>saint|holy|wise</item>
+		<item>lungs</item>
+		<item>back|height|behind</item>
+		<item>chest|feelings|heart</item>
+		<item>brain</item>
+		<item>abdominal|stomach|belly</item>
+		<item>viscera|entrails|internal organs</item>
+		<item>facing|confront</item>
+		<item>climax|height|reach</item>
+		<item>young|possibly|some</item>
+		<item>eminent|remarkable</item>
+		<item>steam|steaming</item>
+		<item>store|warehouse|storage</item>
+		<item>silkworm</item>
+		<item>crowd|masses</item>
+		<item>judge|decide</item>
+		<item>decoration|ornament|dress</item>
+		<item>opposite|reverse|interior</item>
+		<item>supplement|compensate|redress</item>
+		<item>search|inspect|consider</item>
+		<item>look|see</item>
+		<item>attack|assault|shooting</item>
+		<item>visit</item>
+		<item>translate|meaning|causes</item>
+		<item>poetry|words</item>
+		<item>document|written</item>
+		<item>recognize|acknowledge|consent</item>
+		<item>birth|born</item>
+		<item>sincerity|truth|trust</item>
+		<item>error|mistake|wrong</item>
+		<item>theory|argument|discourse</item>
+		<item>many|varied|several</item>
+		<item>admonish|warn</item>
+		<item>precious|valuable|estimate</item>
+		<item>salary|wages|fee</item>
+		<item>forget|bequeath</item>
+		<item>mail|postal service</item>
+		<item>town|hometown</item>
+		<item>needle|pin</item>
+		<item>steel</item>
+		<item>close|end</item>
+		<item>tower|palace|tall building</item>
+		<item>down|get off</item>
+		<item>emperor|your highness</item>
+		<item>exclude|eliminate|remove</item>
+		<item>impede|obstruct|hinder</item>
+		<item>difficult|complicated</item>
+		<item>leather|skin</item>
+		<item>top|summit|receive</item>
+		<item>bone|skeleton</item>
+		<item>length|width</item>
+		<item>give|grant</item>
+		<item>also|further</item>
+		<item>hill</item>
+		<item>third grade|third class</item>
+		<item>red|unadorned</item>
+		<item>scarce|insufficient|limited</item>
+		<item>strange|witty|smart</item>
+		<item>dried|drought|dry</item>
+		<item>finally|complete</item>
+		<item>mutually|jointly|reciprocally</item>
+		<item>city​​|well</item>
+		<item>asia|after</item>
+		<item>care|getting</item>
+		<item>pavilion</item>
+		<item>intervention|boring thing|mediation</item>
+		<item>hermit</item>
+		<item>instructions|admire|respect</item>
+		<item>design|plan|undertake</item>
+		<item>obey|bending|hidden|backward</item>
+		<item>bruised|cut|attack</item>
+		<item>chief|earl</item>
+		<item>accompany|follow|companion</item>
+		<item>expand|stretch|lengthen</item>
+		<item>visit|ask</item>
+		<item>however|but</item>
+		<item>assist|aid|military rank</item>
+		<item>excellent|nice</item>
+		<item>join|merge</item>
+		<item>samurai|servant</item>
+		<item>trust|depend</item>
+		<item>contempt|disdain|disparage</item>
+		<item>marchese|noble|daimyo</item>
+		<item>invade|transfer|violating</item>
+		<item>urge</item>
+		<item>outstanding|genius</item>
+		<item>vulgar|manners</item>
+		<item>remuneration|salary</item>
+		<item>topple|overthrow</item>
+		<item>imitate|emulate</item>
+		<item>ethics|rules|principles</item>
+		<item>frugal|humble|simple</item>
+		<item>admirable|remarkable</item>
+		<item>partial|lateral</item>
+		<item>spy|inquire</item>
+		<item>accidentally|casually</item>
+		<item>falsehood|lies|deceit</item>
+		<item>closeness|proximity|side</item>
+		<item>greatness|excellence</item>
+		<item>parasol|umbrella</item>
+		<item>sponsor|organize|celebrate</item>
+		<item>debt|bond|loan</item>
+		<item>sinking|bending|prejudice|ruin</item>
+		<item>I</item>
+		<item>colleague|companion|friend</item>
+		<item>buddhist monk</item>
+		<item>label|rule|ceremony</item>
+		<item>confucianism</item>
+		<item>compensation|restitution|indemnification</item>
+		<item>assign|award|fill</item>
+		<item>overcome|beat</item>
+		<item>apology|excuse</item>
+		<item>concurrently|also|combined</item>
+		<item>risk|dare|challenge</item>
+		<item>superfluous|excess</item>
+		<item>crown|peerless</item>
+		<item>imitate|allowing|quasi-</item>
+		<item>frozen|icy|numb</item>
+		<item>stiffness|hardening|numbness</item>
+		<item>mediocre|insignificant</item>
+		<item>villain|evil|disaster</item>
+		<item>convex|uneven</item>
+		<item>concave|hollow|sunken</item>
+		<item>blade|edged</item>
+		<item>harvesting|pruning|mowing</item>
+		<item>punishment|sentencing|penalty</item>
+		<item>achieve|attain|reach</item>
+		<item>spine|punching|pinching|stabbing</item>
+		<item>carving|planing|shaping</item>
+		<item>divide|distinguish</item>
+		<item>strong|sturdy|inflexible</item>
+		<item>sword|saber</item>
+		<item>medicine|drug|dose</item>
+		<item>surplus|gain|excess</item>
+		<item>inferiority|weakness|poor quality</item>
+		<item>encourage|stimulate</item>
+		<item>censorship</item>
+		<item>admonish|imperial order</item>
+		<item>intuition|perception</item>
+		<item>recruit|collect|require</item>
+		<item>persuasion|advice|recommending</item>
+		<item>merit</item>
+		<item>bucket|unit area</item>
+		<item>ancient coin|ancient measure of weight</item>
+		<item>artisan|worker</item>
+		<item>equally|balance|confrotar</item>
+		<item>hideaway|retreat</item>
+		<item>box to measure|capacity unit</item>
+		<item>vulgar|vile|despicable</item>
+		<item>eminent|exceed|surpass|table</item>
+		<item>divination|forecast|hold</item>
+		<item>reject|withdraw|inactivity</item>
+		<item>wholesale</item>
+		<item>unfortunate|disaster|bad luck</item>
+		<item>ancient coin| old unit of weight</item>
+		<item>also|other|than</item>
+		<item>reach|extended</item>
+		<item>twin|pair|both</item>
+		<item>uncle|aunt</item>
+		<item>story|narration</item>
+		<item>scream|exclaim|shout</item>
+		<item>seduce|quote|eat|drink</item>
+		<item>good luck|joy</item>
+		<item>official|bureaucrat</item>
+		<item>spitting|vomiting</item>
+		<item>hum|crooning</item>
+		<item>include|understand|comprehend</item>
+		<item>puffing|exhaling</item>
+		<item>exhibit|display|offer</item>
+		<item>giving|receiving</item>
+		<item>blossom|flourish</item>
+		<item>shame|pity|pathetic</item>
+		<item>philosophy|wise|sagacious</item>
+		<item>tempt|seduce|incite</item>
+		<item>lips</item>
+		<item>tang dynasty|lies|exaggeration</item>
+		<item>solely|only|just</item>
+		<item>reveal|clarify</item>
+		<item>shout|scream</item>
+		<item>harsh|scolding</item>
+		<item>long for|losing someone</item>
+		<item>consume|eat|drink</item>
+		<item>heir|successor</item>
+		<item>sigh|lament|moan</item>
+		<item>entrust|trust|request</item>
+		<item>rash|expel|emit</item>
+		<item>threatening|menacing</item>
+		<item>captured|imprisoned|slavery</item>
+		<item>sphere|radio|range</item>
+		<item>kid|child|boy</item>
+		<item>pit|hole</item>
+		<item>two tatami area|unit area</item>
+		<item>fence|siege|wall</item>
+		<item>bury|fill|embed</item>
+		<item>tenacious|direct|take control</item>
+		<item>cultivate|encourage</item>
+		<item>trench|ditch|channel</item>
+		<item>strict|hard|firm</item>
+		<item>degenerate|collapse|fall</item>
+		<item>dike|rock|embankment</item>
+		<item>bear|endure|tolerate|withstand</item>
+		<item>siege|fence|palisade</item>
+		<item>basis|position</item>
+		<item>clump|cluster|mass</item>
+		<item>model|trim</item>
+		<item>pagoda|tower</item>
+		<item>paint|brush|coat|daub</item>
+		<item>mound|hill</item>
+		<item>academy</item>
+		<item>down|lose|shock</item>
+		<item>ink|mexico|black</item>
+		<item>grave|tomb|mausoleum</item>
+		<item>innovative|growing</item>
+		<item>wall</item>
+		<item>podium|platform|tribune</item>
+		<item>demolition|destruction|collapse</item>
+		<item>soil|ground</item>
+		<item>strong|powerful|influential</item>
+		<item>one|I</item>
+		<item>weird|strange|suspicious</item>
+		<item>compliance|obedience|reverence</item>
+		<item>commitment|promise|vote</item>
+		<item>hurry|run</item>
+		<item>wife|interior</item>
+		<item>exhortation|encouragement</item>
+		<item>steal|snatch|usurp</item>
+		<item>slave|serf|servant</item>
+		<item>like|similar|equal to</item>
+		<item>queen|princess|empress</item>
+		<item>deception|illusion|unnecessarily</item>
+		<item>pregnancy|conception</item>
+		<item>exquisite|lovely|admirable</item>
+		<item>gentle|quiet|friendly</item>
+		<item>disturb|hinder|obstruct</item>
+		<item>surname</item>
+		<item>princess</item>
+		<item>marriage|married</item>
+		<item>intimidate|threaten|majesty</item>
+		<item>daughter|girl</item>
+		<item>pregnancy|conception</item>
+		<item>recreation|amusement|pleasure</item>
+		<item>old woman|grandmother</item>
+		<item>marriage|wedding</item>
+		<item>groom|son in law</item>
+		<item>intermediary|matchmaker</item>
+		<item>marriage|daughter in law|bride</item>
+		<item>aversion|antipathy|dislike</item>
+		<item>heir|descendant</item>
+		<item>girl|lady</item>
+		<item>cavity|crack|hole</item>
+		<item>orphan|alone</item>
+		<item>best regards|appropriate|correct</item>
+		<item>manage|supervise|direct</item>
+		<item>banquet|party</item>
+		<item>dusk|night|evening</item>
+		<item>loneliness|lonely|dying</item>
+		<item>tolerant|be comfortable</item>
+		<item>lie down|sleep</item>
+		<item>widowed|single</item>
+		<item>quiet|peaceful</item>
+		<item>examined|detailed|clear|judgment</item>
+		<item>bedroom|residence|hostel</item>
+		<item>longevity|congratulations</item>
+		<item>seal|close|preventing</item>
+		<item>military officer|rank|jailer</item>
+		<item>learn| ask| request</item>
+		<item>estimate|estimated|desire|yet</item>
+		<item>nun</item>
+		<item>exhausted|exhaust|spend|strive</item>
+		<item>tail|end</item>
+		<item>urine</item>
+		<item>twist|bend|submit|surrender</item>
+		<item>footwear|do it yourself</item>
+		<item>barracks|quarters|camp</item>
+		<item>deviate|fork|division</item>
+		<item>cape|point|promontory</item>
+		<item>high mountain|peak</item>
+		<item>gorge|crisis|splendor</item>
+		<item>canyon|gorge|ravine</item>
+		<item>top|summit|peak</item>
+		<item>worship|respect|revere</item>
+		<item>promontory|cape</item>
+		<item>crumble|crashing down|collapse</item>
+		<item>patrol|circular|spinning</item>
+		<item>clever|witty|skilled</item>
+		<item>giant|big|large</item>
+		<item>sail|sail boat</item>
+		<item>sovereign|emperor</item>
+		<item>commander|commanding troops</item>
+		<item>cap|hat</item>
+		<item>width|breadth|roll|scroll</item>
+		<item>cash|wealth</item>
+		<item>ghost|vision|illusion</item>
+		<item>solitary|confine|detain|the afterlife</item>
+		<item>many|some</item>
+		<item>bed|bedroom|hairdresser</item>
+		<item>lot|several</item>
+		<item>common|ordinary|hiring</item>
+		<item>abolish|discard|obsolete|discarded</item>
+		<item>honest|sincere|pure</item>
+		<item>hallway|corridor</item>
+		<item>tribunal|court</item>
+		<item>abuse|wear|get tired</item>
+		<item>two (documents)</item>
+		<item>condolences|mourning|funeral</item>
+		<item>string (arc)|hypotenuse</item>
+		<item>arc|circumference</item>
+		<item>snapping|bullet|thud</item>
+		<item>color|colorful|coloring</item>
+		<item>carve|chiseling</item>
+		<item>manifest|patent|clear</item>
+		<item>shadow|silhouette|shape|back</item>
+		<item>him|that|another person</item>
+		<item>subdue|subjugate|tax receivables</item>
+		<item>gradually|slowly</item>
+		<item>honorable|manipulate</item>
+		<item>sequential|turn</item>
+		<item>delicate|tiny|small</item>
+		<item>recruit| call| gather| symptom</item>
+		<item>penetrate|through</item>
+		<item>mourning|detest|hate</item>
+		<item>bear|endure|resist|hide</item>
+		<item>busy|occupied</item>
+		<item>angry|anger</item>
+		<item>afraid|fear|terrible|awful</item>
+		<item>negligence|carelessness|laziness</item>
+		<item>suspicious|suspicion|distrust|doubt</item>
+		<item>romance|falling in love|love|loved</item>
+		<item>fear|afraid</item>
+		<item>constancy|eternal</item>
+		<item>shame|dishonor|blush</item>
+		<item>bitterness|resentment|hatred</item>
+		<item>respect|reverence</item>
+		<item>behalf|goodness|grace</item>
+		<item>repent|regret|feeling</item>
+		<item>explanation|clarification|noticing</item>
+		<item>permanence|distant</item>
+		<item>afflicted|distressed|anxious</item>
+		<item>ecstasy|elation|joy</item>
+		<item>problem|suffering|distressed|grief</item>
+		<item>mourn|grieve|condole</item>
+		<item>cajole|captivate|seduce</item>
+		<item>shame|pity</item>
+		<item>miserable|disastrous|cruel|horrible</item>
+		<item>sloth|laziness|neglect</item>
+		<item>anguish|grief|melancholy</item>
+		<item>fun|joy|pleasure</item>
+		<item>silly|stupid</item>
+		<item>piety|mercy|fond</item>
+		<item>confused|confusion|worry</item>
+		<item>humility|modesty|discretion|prudence</item>
+		<item>desire|longing|yearning</item>
+		<item>ridiculous|loitering|neglecting</item>
+		<item>regret|repent</item>
+		<item>prudence|consideration|deliberation</item>
+		<item>consolation|comfort|ease</item>
+		<item>glee|joy|fun</item>
+		<item>melancholy|grief|restlessness</item>
+		<item>hate|detest</item>
+		<item>anger|resentment|wrath|rage</item>
+		<item>suspension|break|rest|tranquility</item>
+		<item>one hundred million</item>
+		<item>remorse|regret</item>
+		<item>sociable|kind|cordial</item>
+		<item>longing|nostalgia|thinking</item>
+		<item>punishment|discipline</item>
+		<item>hang|depend|suspend</item>
+		<item>order|instruct|warn</item>
+		<item>joke|fun|theater</item>
+		<item>go back|return|refund</item>
+		<item>cluster|bunch</item>
+		<item>ventilator|fan</item>
+		<item>front door</item>
+		<item>pay|pay off|pay taxes</item>
+		<item>manage|play</item>
+		<item>help|assistance|relief</item>
+		<item>extract|summary|remove</item>
+		<item>bring|cluster|bunch|bundle</item>
+		<item>suppress|restrict|brake</item>
+		<item>confront|resist|oppose</item>
+		<item>escape|skip|take</item>
+		<item>choose|select|pick</item>
+		<item>exhibit|open</item>
+		<item>embrace|hug</item>
+		<item>resist|bumping</item>
+		<item>rub|erase|grinding</item>
+		<item>push|press|hold</item>
+		<item>pluck|pull|draw</item>
+		<item>clap</item>
+		<item>kidnapping|abducting</item>
+		<item>repel|refuse|reject|decline</item>
+		<item>clarify|trace</item>
+		<item>arrest|disrupt|grab</item>
+		<item>clumsy|inexperienced</item>
+		<item>fulcrum|authority|firmness</item>
+		<item>tie|bind|fasten</item>
+		<item>torturing|beating</item>
+		<item>challenge|dare</item>
+		<item>interject|interpose|insert</item>
+		<item>shake|agitate|wave</item>
+		<item>insert|graft</item>
+		<item>catching|trap</item>
+		<item>search|browse|locate</item>
+		<item>put|place|install|establish</item>
+		<item>sweep| brush</item>
+		<item>manipulate|control</item>
+		<item>repudiate|exclude|reject</item>
+		<item>drilling|digging|rummage</item>
+		<item>hanging|hook|depend</item>
+		<item>point|annotate|moderate|containment</item>
+		<item>away|excepting</item>
+		<item>publish|display|lift</item>
+		<item>sketch|outline|describe</item>
+		<item>hoist|lift|raise</item>
+		<item>exchange|replace|substitute</item>
+		<item>grab|grasp|grip</item>
+		<item>help|aid|mentioning</item>
+		<item>rolling|shuddering|oscillation|rocking</item>
+		<item>transporting|carrying</item>
+		<item>board|get on</item>
+		<item>portable|carry in hand</item>
+		<item>tighten| compress| squeeze</item>
+		<item>take|grow|replace</item>
+		<item>pinching|disclose|noted</item>
+		<item>touch|caress|friction</item>
+		<item>strike|attack|conquer|defeat</item>
+		<item>remove|retire|dismantle</item>
+		<item>take pictures|collect</item>
+		<item>slap|poke|punch</item>
+		<item>embrace|protect</item>
+		<item>grinding|scraping|scrubbing|rubbing</item>
+		<item>mime|imitate|resemble</item>
+		<item>aggression|assault|attack</item>
+		<item>intelligent|witty|agile</item>
+		<item>bold|daring</item>
+		<item>extend|pave</item>
+		<item>same|equivalent|such</item>
+		<item>purification</item>
+		<item>measure of capacity</item>
+		<item>diagonal|oblique|inclined</item>
+		<item>ax|old measure of weight</item>
+		<item>reject|repel|scare</item>
+		<item>distribute|give first aid</item>
+		<item>rotate|spin|spinning</item>
+		<item>above|prior|past</item>
+		<item>delicious|first|skilled</item>
+		<item>period of 10 days|decameron</item>
+		<item>descendents|progeny</item>
+		<item>rise|raise|lift</item>
+		<item>this|just|right</item>
+		<item>universal|broad|general</item>
+		<item>spark|glint|shine|crystallize</item>
+		<item>sunrise|dawn|early morning</item>
+		<item>leisure|rest</item>
+		<item>calendar|almanac</item>
+		<item>temporarily|for a while|a moment</item>
+		<item>cloudy</item>
+		<item>renew|change|dusk</item>
+		<item>cadet|friend</item>
+		<item>exchange|replace|convert</item>
+		<item>us|we</item>
+		<item>vermilion|dark red</item>
+		<item>simple|easy|natural</item>
+		<item>decay|rot</item>
+		<item>cedar</item>
+		<item>glass|cup|cups counter|octopus counter</item>
+		<item>cut|split|break</item>
+		<item>rame|framework|scope|range</item>
+		<item>hinge|pivot|axis</item>
+		<item>wither|molograr|decay|dry</item>
+		<item>shelf|assemble|build|hang</item>
+		<item>design|pattern|figure</item>
+		<item>such|a certain person|guy</item>
+		<item>cute|mild|soft</item>
+		<item>willow|wicker</item>
+		<item>cork|cap|pin|plug</item>
+		<item>core|center|seed</item>
+		<item>planting|seeding</item>
+		<item>peach</item>
+		<item>blackberry</item>
+		<item>spring|frame|scaffolding</item>
+		<item>abandon|discard</item>
+		<item>chess piece|chess Japanese</item>
+		<item>rack|shelf</item>
+		<item>eaves</item>
+		<item>casket|coffin</item>
+		<item>lookout|tower|oriel</item>
+		<item>situation|condition|about</item>
+		<item>tank|tub</item>
+		<item>newspaper column|space|handrails</item>
+		<item>europe</item>
+		<item>deception|cheating|lying</item>
+		<item>reputation|honesty|contract</item>
+		<item>delight|joy|happiness</item>
+		<item>age|year</item>
+		<item>martyrdom|sacrifice</item>
+		<item>particularly|exceptionally|especially</item>
+		<item>increase|expand|augment</item>
+		<item>assaulting|beating</item>
+		<item>shell|hull</item>
+		<item>Mr.|Ms.</item>
+		<item>soup|broth|sauce</item>
+		<item>breathability|sweat</item>
+		<item>dirty|stained|defame</item>
+		<item>bay|cove|great river</item>
+		<item>sunk|depressed|discouraged|submerged</item>
+		<item>high seas|offshore|ascend</item>
+		<item>drowning|sinking|dying|exclude</item>
+		<item>swamp|benefit|brightness|many</item>
+		<item>seethe|boil|bake</item>
+		<item>marsh|pond|lake</item>
+		<item>of course|situation|condition</item>
+		<item>stay|overnight</item>
+		<item>secrete|seep</item>
+		<item>bubble|foam</item>
+		<item>mud|silt|clay</item>
+		<item>thailand|peaceful|calm|quiet</item>
+		<item>den|hole|excavation</item>
+		<item>port|flooded|ferry</item>
+		<item>flood|deluge|current</item>
+		<item>clean|pure|innocent</item>
+		<item>coast|littoral|beach</item>
+		<item>bay|gulf|cove</item>
+		<item>wander|jitter|wave</item>
+		<item>float|rise to the surface</item>
+		<item>immersed|soak|drench</item>
+		<item>tear|compassion</item>
+		<item>horizon|limit|end|edge</item>
+		<item>refreshing|cool|nice</item>
+		<item>funny|gentle</item>
+		<item>diluted|pale|fleeting</item>
+		<item>attached|annex|add</item>
+		<item>thirst|dry</item>
+		<item>across|wade|explore|relate</item>
+		<item>austere|reluctantly|stingy</item>
+		<item>valley|mountain stream</item>
+		<item>transit|cross|migrate</item>
+		<item>swirl|vortex</item>
+		<item>gulf|bay|cove</item>
+		<item>wet|moisten</item>
+		<item>sewer|drain|ditch</item>
+		<item>melt|thaw|dissolve</item>
+		<item>destroy|demolish|spoil</item>
+		<item>nutritious|flourish</item>
+		<item>slip|slide</item>
+		<item>waterfall|cataracts|rapids</item>
+		<item>stagnate|lag</item>
+		<item>dripping|drip</item>
+		<item>drift|float|wander</item>
+		<item>lacquer|varnish</item>
+		<item>filtration|leak|escape|dripping</item>
+		<item>desert|empty|uncertain|vague</item>
+		<item>relaxed|loose|involuntarily</item>
+		<item>pickle|pickling|soaking</item>
+		<item>regularly|gradually|steadily</item>
+		<item>hide|mute</item>
+		<item>lagoon</item>
+		<item>wet|profit|glamor</item>
+		<item>lucid|clear|settle</item>
+		<item>turbidity|dirt|distort</item>
+		<item>concentrated|thick|dense</item>
+		<item>excessive|overflow|arbitrary</item>
+		<item>wash|rinse</item>
+		<item>rapid|torrent|stream</item>
+		<item>foundry|oven|fireplace</item>
+		<item>cooking|baking|boiling</item>
+		<item>inflammation|flare|burn</item>
+		<item>cause|reason|happen|do</item>
+		<item>violent|cruel|angry</item>
+		<item>char|scorch|burn</item>
+		<item>smoke|plume</item>
+		<item>distress|anxiety|trouble|worry</item>
+		<item>boil|cook</item>
+		<item>dry|resect</item>
+		<item>explode|burst</item>
+		<item>lineage|nobility title</item>
+		<item>sacrifice|victim|offering</item>
+		<item>sacrifice|victim|scapegoat</item>
+		<item>lunatic|mad|madness</item>
+		<item>hunting|hunt</item>
+		<item>tight|narrow</item>
+		<item>fierce|wild|brave</item>
+		<item>hunting|hunt</item>
+		<item>cat</item>
+		<item>offering|offer|dedicate|drink counter</item>
+		<item>additionally|still|doubt</item>
+		<item>monkey|ape</item>
+		<item>prison|jail</item>
+		<item>animal|beast|beef</item>
+		<item>grab|get|acquire</item>
+		<item>mysterious| hidden| dark</item>
+		<item>weird|strange|abnormal</item>
+		<item>pearl|gem|jewel</item>
+		<item>japanese harp</item>
+		<item>link|ring|rotation</item>
+		<item>imperial seal</item>
+		<item>bottle|flask|jug</item>
+		<item>sweet|tasty|pamper</item>
+		<item>tremendously|intense|serious</item>
+		<item>armor|shell|loud</item>
+		<item>dam|shore</item>
+		<item>livestock|farm animal</item>
+		<item>groove|ridge|rib</item>
+		<item>tatami mat|stack|heap|counter mats</item>
+		<item>neglect|shunning|alienating</item>
+		<item>epidemic</item>
+		<item>tired|fatigue|exhausted</item>
+		<item>disease|violent|quickly</item>
+		<item>symptom|sign|disease</item>
+		<item>smallpox|syphilis</item>
+		<item>diarrhea</item>
+		<item>silly|stupid</item>
+		<item>heal|cure</item>
+		<item>healing|curing</item>
+		<item>habit|addiction|mania</item>
+		<item>however|all</item>
+		<item>bowl|tray</item>
+		<item>stealing|theft</item>
+		<item>monitor|manage|control</item>
+		<item>tray|board|large plate</item>
+		<item>blind|illiterate|irresponsible</item>
+		<item>shield|excuse</item>
+		<item>sleepy|somnolent|sleep</item>
+		<item>watch|observe|scrutinize</item>
+		<item>sleepiness|doze</item>
+		<item>instruct|monitor|train|order</item>
+		<item>time|instant</item>
+		<item>weapons|halberd</item>
+		<item>rectify|correct|straighten</item>
+		<item>crush|shred|tear</item>
+		<item>cannon|gun</item>
+		<item>nitrate|gunpowder</item>
+		<item>sulfur|sulfuric acid</item>
+		<item>hard|stiff|rigid</item>
+		<item>go game</item>
+		<item>gravestone|mausoleum</item>
+		<item>polishing|brushing teeth</item>
+		<item>cliff|reef</item>
+		<item>cornerstone|foundation</item>
+		<item>pray|orison</item>
+		<item>being|happiness|blessing</item>
+		<item>promising|good omen</item>
+		<item>zen|meditation</item>
+		<item>calamity|misfortune|ill</item>
+		<item>excellence|outstanding</item>
+		<item>fee|taxes|tribute</item>
+		<item>regularity|order|range</item>
+		<item>nickname|call|name|praise</item>
+		<item>immature|children|young</item>
+		<item>rice plant</item>
+		<item>profits|salary|earning a living</item>
+		<item>outline|draft|manuscript</item>
+		<item>spike|wave crest</item>
+		<item>calm|quiet|moderate|silent</item>
+		<item>harvest|collect</item>
+		<item>collision|pushing|sudden</item>
+		<item>sigil|stealth|theft</item>
+		<item>nitrogen|obstruct|clog</item>
+		<item>finish|end|lead to the end</item>
+		<item>oven</item>
+		<item>dragon</item>
+		<item>edge|edged|extreme|just|right</item>
+		<item>talismansign|signal</item>
+		<item>cylinder|tube</item>
+		<item>object counter</item>
+		<item>pattern|model|example</item>
+		<item>earnest|genuine|sincere|serious</item>
+		<item>record|notebook</item>
+		<item>enlistment|enrollment|membership</item>
+		<item>style|elegance|chic</item>
+		<item>drop|grain|particle counter</item>
+		<item>coarse|rude</item>
+		<item>perseverance|sticky|tenacity</item>
+		<item>solemn|respectful|severe</item>
+		<item>cosmetics|makeup|beautify</item>
+		<item>supplies|groceries|food</item>
+		<item>twist|tangle|investigate|examine</item>
+		<item>escutcheon|insignia</item>
+		<item>confuse|distract|ambiguous|blurred</item>
+		<item>spinning|spun|yarn</item>
+		<item>cord|rope|spread</item>
+		<item>purple|violet</item>
+		<item>accumulate|stack|repeatedly</item>
+		<item>gent|gentleman|noble</item>
+		<item>enter|submit|inherit</item>
+		<item>indigo|navy blue</item>
+		<item>squeezing|contracting|twisting</item>
+		<item>entangle|tangle|be wrapped</item>
+		<item>inheritance|succession|in law</item>
+		<item>fiber|rope|emphasis</item>
+		<item>cord|string|rope|category</item>
+		<item>net|mesh|ambush</item>
+		<item>tighten|squeezing|tight|urgent</item>
+		<item>yarn|string musical instrument|beginning</item>
+		<item>tight|tie|fasten|bundle</item>
+		<item>loose|decrease|alleviated|relieved</item>
+		<item>horizontal|latitude|parallel</item>
+		<item>affinity|connection|relationship|boundary</item>
+		<item>rope|cord</item>
+		<item>tie|restrain|arrest</item>
+		<item>embroidery|darning|sewing</item>
+		<item>luxurious|lush|prosperous|complex</item>
+		<item>slender|slim|thin|thread</item>
+		<item>darning|mending|repair|restore</item>
+		<item>cocoon|silkworm</item>
+		<item>winding|rewinding|spooling</item>
+		<item>tin|container|boiler</item>
+		<item>penalty|punishment</item>
+		<item>withdraw|leave|abandon</item>
+		<item>gauze|pad|roma</item>
+		<item>old man|elder</item>
+		<item>flip|invert|change|change your mind</item>
+		<item>wing|help</item>
+		<item>resist|endure|withstand</item>
+		<item>decrease|diminish|spent</item>
+		<item>listen</item>
+		<item>texture|leather|fur|skin</item>
+		<item>likeness|like|imitate|copy</item>
+		<item>liver|mind|vital point</item>
+		<item>limbs|arms and legs</item>
+		<item>shoulder</item>
+		<item>obese|fat|thick</item>
+		<item>agreement|admit|assent|consent</item>
+		<item>nerve|gall bladder</item>
+		<item>uterus|fetus|conceived</item>
+		<item>placenta|pod</item>
+		<item>torso|trunk</item>
+		<item>fat|tallow|rosin</item>
+		<item>threaten|coerce</item>
+		<item>foot|leg|position</item>
+		<item>undress|take off|skip</item>
+		<item>dilate|bloat|exceed</item>
+		<item>rot|decompose|sour</item>
+		<item>arm|talent|skill</item>
+		<item>hips|rump|loin</item>
+		<item>skin|complexion|texture</item>
+		<item>membrane</item>
+		<item>swell|inflate</item>
+		<item>stink|smell bad|reek</item>
+		<item>cause|exercise|do</item>
+		<item>pavement|shop|store</item>
+		<item>dancing|fluttering</item>
+		<item>boat|ship</item>
+		<item>generally|similar|time</item>
+		<item>ship|boat|transatlantic</item>
+		<item>rowing boat</item>
+		<item>warship|battleship</item>
+		<item>potato|potatoes</item>
+		<item>lawn|grass</item>
+		<item>aroma|fragrance</item>
+		<item>shoot|stem|seed</item>
+		<item>bushy|leafy|lush</item>
+		<item>cane|root|stem</item>
+		<item>wild|violent|rough|laid waste</item>
+		<item>village|inn|solemn</item>
+		<item>chrysanthemum</item>
+		<item>germ|bacteria|fungus</item>
+		<item>sweets|caramels|candy|cakes</item>
+		<item>petal|flower|splendor</item>
+		<item>burial|bury</item>
+		<item>collect|save|store</item>
+		<item>diluted|fade|weaken|grow pale</item>
+		<item>recommend|advise</item>
+		<item>fuel|firewood</item>
+		<item>aromatic|fragrance</item>
+		<item>feudal clan</item>
+		<item>kelp</item>
+		<item>tyrannize|oppress</item>
+		<item>null|empty|vain</item>
+		<item>captive|prisoner|arrest</item>
+		<item>anxiety|worry|apprehension</item>
+		<item>mosquito</item>
+		<item>snake</item>
+		<item>firefly</item>
+		<item>barbaric|violent|stranger</item>
+		<item>dissolve|melt</item>
+		<item>collide|crash|key</item>
+		<item>balance|weight|scale</item>
+		<item>decline|wane</item>
+		<item>sincerity|heart</item>
+		<item>bag|sack</item>
+		<item>cause|uploaded|go astray</item>
+		<item>tearing|cleavage|excision</item>
+		<item>abundant|fertile|rich</item>
+		<item>naked|discovered</item>
+		<item>brownish|brown</item>
+		<item>commend|praise</item>
+		<item>mind|heart|lapel|neck</item>
+		<item>attack|surprise|advance</item>
+		<item>dump|overthrow|cover</item>
+		<item>hegemony| supremacy| leadership</item>
+		<item>contact|touch|feel|announce</item>
+		<item>review|correct</item>
+		<item>slogan|trust something</item>
+		<item>sue|accuse|declare</item>
+		<item>accuse|denounce|sue</item>
+		<item>review|examine|diagnose</item>
+		<item>lie|cheat|fake|false</item>
+		<item>imperial edict</item>
+		<item>recite|poetry|composition</item>
+		<item>packing|filling|rebuke|reprove</item>
+		<item>cited above|the above</item>
+		<item>detailed|thorough</item>
+		<item>brag|boast|pride</item>
+		<item>reputation|credit|glory</item>
+		<item>came|vote|oath</item>
+		<item>invite|tempt|attract</item>
+		<item>solicit|beg|request</item>
+		<item>reprove|admonish|persuade</item>
+		<item>consult with|counsel</item>
+		<item>consent|agreement</item>
+		<item>conspire|plan|stratagem</item>
+		<item>audience</item>
+		<item>copy|transcribe</item>
+		<item>modest|humble</item>
+		<item>noh chant</item>
+		<item>discreet|humble|respectful</item>
+		<item>musical scale|note|registry</item>
+		<item>defer|transfer|grant</item>
+		<item>pig|pork</item>
+		<item>powerful|overwhelming</item>
+		<item>just|righteous|constant</item>
+		<item>taxed|finance</item>
+		<item>market|trade|sell</item>
+		<item>transfer|drill|meet|play</item>
+		<item>bribery|kickbacks</item>
+		<item>robber|thief|traitor</item>
+		<item>v.i.p</item>
+		<item>concede|grant</item>
+		<item>compensation|indemnification</item>
+		<item>intelligent|wise|witty</item>
+		<item>tax|duty|tribute</item>
+		<item>subscription|purchase</item>
+		<item>give|offer</item>
+		<item>forgiveness|forgive</item>
+		<item>proceed|rushing|becoming</item>
+		<item>transcend|exceed|excel</item>
+		<item>cross|move|exceed</item>
+		<item>essential|meaning|significance</item>
+		<item>long distance|distant|separate</item>
+		<item>footprint|sign|mark</item>
+		<item>jump|fly</item>
+		<item>tread|step</item>
+		<item>dancing|jumping</item>
+		<item>stepping|stomping</item>
+		<item>hopping|skipping|rearing</item>
+		<item>groove|via|example</item>
+		<item>high|counter for houses</item>
+		<item>soft|weak|lazy</item>
+		<item>axis|pivot|pendulum</item>
+		<item>contrast|compare</item>
+		<item>drive|carry|put on</item>
+		<item>radiation|glare|flash</item>
+		<item>comrade|companion|colleague</item>
+		<item>control|direction</item>
+		<item>spicy|sour|severe</item>
+		<item>embarrass|humiliate|disgrace</item>
+		<item>cram|fill|including|scoring</item>
+		<item>quick|fast</item>
+		<item>welcome|receive|go to receive</item>
+		<item>harass|close|tormenting</item>
+		<item>transfer|alternation|turn</item>
+		<item>escape|flee|run away</item>
+		<item>penetrate|filter|transparent</item>
+		<item>pursue|hunt</item>
+		<item>relay|in turn|alternately</item>
+		<item>route|highway|road</item>
+		<item>dead|dying|die</item>
+		<item>apprehend|detain|prosecute</item>
+		<item>deflect|evade|outstanding|excellent</item>
+		<item>consummate|fulfill|carry out</item>
+		<item>slow|delayed|late</item>
+		<item>interview|hospitality|meeting by chance</item>
+		<item>everywhere|broad|general|sometimes counter</item>
+		<item>disagree|defer|alter</item>
+		<item>post|send|donate</item>
+		<item>encounter|meet|run into</item>
+		<item>intercept|obstruct|disrupt</item>
+		<item>abide by|comply|follow</item>
+		<item>transition|transference|translation</item>
+		<item>evade|dodge|shirk</item>
+		<item>return|back</item>
+		<item>country of origin|native land</item>
+		<item>evil|injustice|wrong</item>
+		<item>residence|mansion</item>
+		<item>outskirts|suburbs|rural areas</item>
+		<item>son|man|servant</item>
+		<item>enclosure|fence|fortification</item>
+		<item>work as a waiter|serving sake|pumping</item>
+		<item>drunk|dizzy</item>
+		<item>vinegar|sour|acid</item>
+		<item>dairy products|daily use products</item>
+		<item>pay|reward|retribution</item>
+		<item>fermentation</item>
+		<item>crueltyinjustice|atrocity</item>
+		<item>ugly|shame|poor appearance</item>
+		<item>create|do|brewing</item>
+		<item>explanation|understanding|forgiveness|buddha</item>
+		<item>fishing|hang</item>
+		<item>lumsy|heavy|jam|obtuse</item>
+		<item>bell|ringer</item>
+		<item>lead|plumb</item>
+		<item>bowl|bowl|head butt</item>
+		<item>gun|pistol|rifle</item>
+		<item>iron ingot|mineral</item>
+		<item>registration|artisan firm</item>
+		<item>pointed|sharp|edge</item>
+		<item>melt|minting</item>
+		<item>lead|weight|spindle</item>
+		<item>lock|shackles|pill</item>
+		<item>discipline|polish|refine</item>
+		<item>confused|make mistakes|mixed</item>
+		<item>training|discipline|forging</item>
+		<item>chain|connection|close</item>
+		<item>reassure|calm|calmed</item>
+		<item>bell</item>
+		<item>specimen|pattern|illustration|stamp</item>
+		<item>leisure|time off</item>
+		<item>band|clan|gang|faction</item>
+		<item>examination|review|inspection</item>
+		<item>fight|struggle|combat</item>
+		<item>frustrate|impede|obstruct</item>
+		<item>append|attach|adhere</item>
+		<item>army|military rank</item>
+		<item>collapse|fall|sink</item>
+		<item>follow|accompany|companion</item>
+		<item>shadow|hidden|negative</item>
+		<item> exhibit|exhibit|display</item>
+		<item>mausoleum|tomb|summit</item>
+		<item>pottery|porcelain|fun</item>
+		<item>corner|nook</item>
+		<item>mound|hump|prosperous|flourishing</item>
+		<item>follow|however|please|accompany</item>
+		<item>isolating|ostracizing|separation|remain outside</item>
+		<item>hide|cover|conceal</item>
+		<item>adjoining|neighboring</item>
+		<item>slave|servant</item>
+		<item>boats|boat counter</item>
+		<item>male|masculine</item>
+		<item>elegant|refined|graceful</item>
+		<item>employ|contract</item>
+		<item>feminine|female</item>
+		<item>separate|apart</item>
+		<item>atmosphere|fog|feeling</item>
+		<item>nothing|small|zero|spill</item>
+		<item>lightning|thunder|ray</item>
+		<item>demanda|petición|application</item>
+		<item>quake|shake|tremble|shiver</item>
+		<item>soul|spirit|god</item>
+		<item>frost|white|weather</item>
+		<item>fog|haze</item>
+		<item>display|show|dew|russia</item>
+		<item>shoes</item>
+		<item>rhythm|rhyme|tone|elegance</item>
+		<item>vibrate|resonate|echo</item>
+		<item>paragraph|article|clause|topic</item>
+		<item>stubborn|obstinate</item>
+		<item>divide|distribute</item>
+		<item>often|repeatedly</item>
+		<item>depend on|rely on|request</item>
+		<item>appear|clear|distinguished</item>
+		<item>reflected|reflection|review|look back</item>
+		<item>hungry|hunger</item>
+		<item>bored|tired of|satiated</item>
+		<item>decorate|adorn|ornament</item>
+		<item>hungry|hunger</item>
+		<item>aroma|fragrance|perfume|incense</item>
+		<item>load|boring</item>
+		<item>gallop|forward</item>
+		<item>park|remain in</item>
+		<item>equestrian|rider|riding</item>
+		<item>bustle|tumult|make noise</item>
+		<item>up|ascend</item>
+		<item>wonder|surprised</item>
+		<item>marrow|core</item>
+		<item>hair</item>
+		<item>ogre|demon|ghost</item>
+		<item>soul|spirit|heart</item>
+		<item>fascination|charm</item>
+		<item>demon|evil spirit</item>
+		<item>fresh| recent|korea</item>
+		<item>whale</item>
+		<item>hen|chicken|rooster</item>
+		<item>cute|pretty|lovely</item>
+		<item>hemp|flax|numb</item>
+		<item>silence|shut up</item>
+		<item>drum|encourage|hit</item>
+		<item>age|years</item>
+	</string-array>
+</resources>

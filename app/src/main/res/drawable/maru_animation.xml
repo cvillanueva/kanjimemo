@@ -1,0 +1,12 @@
+<animation-list  xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="true">
+    <item android:drawable="@drawable/maru1" android:duration="50" />
+    <item android:drawable="@drawable/maru2" android:duration="50" />
+    <item android:drawable="@drawable/maru3" android:duration="50" />
+    <item android:drawable="@drawable/maru4" android:duration="50" />
+    <item android:drawable="@drawable/maru5" android:duration="50" />
+    <item android:drawable="@drawable/maru6" android:duration="50" />
+    <item android:drawable="@drawable/maru7" android:duration="50" />
+    <item android:drawable="@drawable/maru8" android:duration="150" />
+    <item android:drawable="@drawable/end_anim_transp" android:duration="10" />
+ </animation-list>
+ 

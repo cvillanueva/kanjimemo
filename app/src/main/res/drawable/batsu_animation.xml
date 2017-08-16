@@ -1,0 +1,12 @@
+<animation-list  xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="true">
+    <item android:drawable="@drawable/batsu1" android:duration="50" />
+    <item android:drawable="@drawable/batsu2" android:duration="50" />
+    <item android:drawable="@drawable/batsu3" android:duration="50" />
+    <item android:drawable="@drawable/batsu4" android:duration="50" />
+    <item android:drawable="@drawable/batsu5" android:duration="50" />
+    <item android:drawable="@drawable/batsu6" android:duration="50" />
+    <item android:drawable="@drawable/batsu7" android:duration="50" />
+    <item android:drawable="@drawable/batsu8" android:duration="150" />
+    <item android:drawable="@drawable/end_anim_transp" android:duration="10" />
+ </animation-list>
+ 

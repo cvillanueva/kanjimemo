@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ngenko.kanjimemo" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <!-- <activity -->
+        <!-- android:name=".Main" -->
+        <!-- android:label="@string/app_name" > -->
+
+
+        <!-- &lt;!&ndash; <intent-filter> &ndash;&gt; -->
+        <!-- &lt;!&ndash; <action android:name="android.intent.action.MAIN" /> &ndash;&gt; -->
+        <!-- &lt;!&ndash; <category android:name="android.intent.category.LAUNCHER" /> &ndash;&gt; -->
+        <!-- &lt;!&ndash; </intent-filter> &ndash;&gt; -->
+        <!-- </activity> -->
+        <activity
+            android:name=".Play"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <!-- <meta-data -->
+            <!-- android:name="android.support.PARENT_ACTIVITY" -->
+            <!-- android:value="com.ngenko.kanjimemo.Main" /> -->
+        </activity>
+        <activity
+            android:name=".SelectStyle"
+            android:label="@string/title_activity_select_style"
+            android:parentActivityName=".Play" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.ngenko.kanjimemo.Main" />
+        </activity>
+        <activity
+            android:name=".Help"
+            android:label="@string/help_title"
+            android:parentActivityName=".Play" >
+        </activity>
+        <activity android:name=".About"
+                  android:label="@string/about_title"
+                  android:parentActivityName=".Play">
+        </activity>
+    </application>
+
+</manifest>

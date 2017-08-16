@@ -1,0 +1,8 @@
+Notes by Claudio Villanueva
+
+There is 1945 kanjis, by 12 kanjis per level, we have 162 levels.
+To aprove a level it is necesary get 5 consecutives hits.
+
+Dev Notes:
+Show an alert when reach a new level.
+Detection of repeated alternatives due to synonyms.

@@ -1,0 +1,1949 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="kanji_spanish_array">
+		<item>uno|un|primero</item>
+		<item>siete|séptimo</item>
+		<item>tres|tercero</item>
+		<item>arriba|encima</item>
+		<item>debajo|abajo</item>
+		<item>medio|mitad|en medio</item>
+		<item>nueve|noveno</item>
+		<item>dos|segundo</item>
+		<item>cinco|quinto</item>
+		<item>persona</item>
+		<item>descanso</item>
+		<item>anterior|antes</item>
+		<item>entrar</item>
+		<item>ocho|octavo</item>
+		<item>seis|sexto</item>
+		<item>yen|círculo</item>
+		<item>salida</item>
+		<item>poder|fuerza|energía</item>
+		<item>diez|décimo</item>
+		<item>mil</item>
+		<item>boca</item>
+		<item>derecha</item>
+		<item>nombre</item>
+		<item>cuatro|cuarto</item>
+		<item>tierra|suelo</item>
+		<item>tarde|atardecer</item>
+		<item>gran|grande</item>
+		<item>cielo|divino</item>
+		<item>mujer</item>
+		<item>niño</item>
+		<item>letra</item>
+		<item>estudiar</item>
+		<item>pequeño</item>
+		<item>montaña</item>
+		<item>arroyo|río</item>
+		<item>izquierda</item>
+		<item>año</item>
+		<item>mano</item>
+		<item>oración|frase</item>
+		<item>día</item>
+		<item>temprano|rápido</item>
+		<item>mes|luna</item>
+		<item>árbol</item>
+		<item>libro</item>
+		<item>villa</item>
+		<item>árboles</item>
+		<item>escuela</item>
+		<item>bosque|selva</item>
+		<item>correcto|justo|arreglar|enderezar</item>
+		<item>espíritu</item>
+		<item>agua</item>
+		<item>fuego</item>
+		<item>perro</item>
+		<item>bola</item>
+		<item>rey|magnate</item>
+		<item>vida</item>
+		<item>campo de arroz</item>
+		<item>macho|masculino</item>
+		<item>barrio</item>
+		<item>blanco</item>
+		<item>cien</item>
+		<item>ojo</item>
+		<item>piedra</item>
+		<item>cielo|firmamento</item>
+		<item>ponerse de pie</item>
+		<item>bambú</item>
+		<item>hilo|madeja</item>
+		<item>oreja</item>
+		<item>flor</item>
+		<item>hierba</item>
+		<item>insecto</item>
+		<item>mirar</item>
+		<item>molusco</item>
+		<item>rojo</item>
+		<item>pie</item>
+		<item>vehiculo|automóvil|carro</item>
+		<item>oro</item>
+		<item>lluvia</item>
+		<item>azul</item>
+		<item>sonido</item>
+		<item>diez mil</item>
+		<item>círculo|redondo</item>
+		<item>intercambio</item>
+		<item>capital</item>
+		<item>ahora</item>
+		<item>asociación</item>
+		<item>cuerpo</item>
+		<item>cuál|cuántos|qué</item>
+		<item>hacer</item>
+		<item>origen|principio</item>
+		<item>hermano mayor</item>
+		<item>luz</item>
+		<item>público</item>
+		<item>adentro</item>
+		<item>invierno</item>
+		<item>espada</item>
+		<item>minuto</item>
+		<item>cortar</item>
+		<item>antes|en frente</item>
+		<item>norte</item>
+		<item>medio día</item>
+		<item>mitad</item>
+		<item>sur</item>
+		<item>prado</item>
+		<item>amigo</item>
+		<item>viejo</item>
+		<item>pedestal</item>
+		<item>adecuado</item>
+		<item>él mismo</item>
+		<item>veces</item>
+		<item>diagrama</item>
+		<item>país</item>
+		<item>jardín</item>
+		<item>suelo</item>
+		<item>lugar</item>
+		<item>voz</item>
+		<item>vender</item>
+		<item>verano</item>
+		<item>parte de afuera</item>
+		<item>muchos</item>
+		<item>noche</item>
+		<item>gordo</item>
+		<item>hermana menor</item>
+		<item>hermana mayor</item>
+		<item>habitación</item>
+		<item>casa</item>
+		<item>templo budista</item>
+		<item>poco</item>
+		<item>roca</item>
+		<item>construcción|fabricación</item>
+		<item>ciudad</item>
+		<item>regresar a casa</item>
+		<item>ancho</item>
+		<item>tienda</item>
+		<item>arco</item>
+		<item>tirar</item>
+		<item>hermano pequeño</item>
+		<item>débil</item>
+		<item>fuerte</item>
+		<item>ganar|acertar</item>
+		<item>forma</item>
+		<item>atrás|antes</item>
+		<item>corazón</item>
+		<item>pensar</item>
+		<item>puerta</item>
+		<item>genio|talento|años de edad</item>
+		<item>enseñar</item>
+		<item>número</item>
+		<item>nuevo</item>
+		<item>dirección</item>
+		<item>claro(brillante)</item>
+		<item>estrella</item>
+		<item>primavera</item>
+		<item>medio dia</item>
+		<item>cuando</item>
+		<item>soleado</item>
+		<item>día de la semana</item>
+		<item>escribir</item>
+		<item>mañana</item>
+		<item>venir</item>
+		<item>este</item>
+		<item>música</item>
+		<item>canción</item>
+		<item>detenerse</item>
+		<item>caminar|paso</item>
+		<item>madre</item>
+		<item>cada</item>
+		<item>pelo</item>
+		<item>estanque</item>
+		<item>vapor</item>
+		<item>vida|actividad</item>
+		<item>mar</item>
+		<item>punto</item>
+		<item>padre</item>
+		<item>vaca|buey</item>
+		<item>razón|lógica</item>
+		<item>usar</item>
+		<item>trazo|dibujo</item>
+		<item>guardar|proteger</item>
+		<item>derecho|correcto|reparar</item>
+		<item>flecha</item>
+		<item>saber</item>
+		<item>compañía|sociedad</item>
+		<item>otoño</item>
+		<item>materia|curso|departamento|sección|delito</item>
+		<item>respuesta</item>
+		<item>cálculo</item>
+		<item>arroz</item>
+		<item>papel</item>
+		<item>delgado</item>
+		<item>equipo|juntar|asociación</item>
+		<item>pintura</item>
+		<item>línea</item>
+		<item>pluma</item>
+		<item>pensar</item>
+		<item>oír</item>
+		<item>carne</item>
+		<item>uno mismo</item>
+		<item>bote</item>
+		<item>color</item>
+		<item>té</item>
+		<item>ir</item>
+		<item>oeste</item>
+		<item>padre</item>
+		<item>ángulo</item>
+		<item>decir</item>
+		<item>medir</item>
+		<item>anotar|escribir|memorizar</item>
+		<item>hablar</item>
+		<item>lenguaje</item>
+		<item>leer</item>
+		<item>valle</item>
+		<item>comprar</item>
+		<item>correr</item>
+		<item>cercano</item>
+		<item>atravesar</item>
+		<item>semana</item>
+		<item>camino</item>
+		<item>lejos</item>
+		<item>aldea|pueblo</item>
+		<item>campo</item>
+		<item>largo|jefe|sobresaliente</item>
+		<item>puerta|entrada</item>
+		<item>intervalo|espacio</item>
+		<item>nieve</item>
+		<item>nube</item>
+		<item>electricidad</item>
+		<item>head</item>
+		<item>cara|rostro|semblante</item>
+		<item>viento</item>
+		<item>comer</item>
+		<item>cuello</item>
+		<item>caballo</item>
+		<item>alto|caro</item>
+		<item>pescado</item>
+		<item>pájaro</item>
+		<item>sonar</item>
+		<item>trigo</item>
+		<item>amarillo</item>
+		<item>negro</item>
+		<item>calle</item>
+		<item>mundo|generación</item>
+		<item>ambos|juntos</item>
+		<item>maestro|señor</item>
+		<item>montar</item>
+		<item>previo</item>
+		<item>cosa</item>
+		<item>servir</item>
+		<item>otro</item>
+		<item>reemplazar|sustituir</item>
+		<item>residencia</item>
+		<item>usar</item>
+		<item>deber|concernir|afectar|cargo</item>
+		<item>doble</item>
+		<item>total|completo</item>
+		<item>herramienta|utensilio</item>
+		<item>copiar</item>
+		<item>fila|linea|hilera</item>
+		<item>ayudar|auxiliar|ser ayudado</item>
+		<item>esforzarse|ejercitarse</item>
+		<item>mover</item>
+		<item>ganar</item>
+		<item>cambio</item>
+		<item>distrito|barrio|sección</item>
+		<item>medicina</item>
+		<item>dejar|abandonar|pasado</item>
+		<item>opuesto|anti-|reflejar</item>
+		<item>tomar</item>
+		<item>aceptar|aprobar exámen</item>
+		<item>número</item>
+		<item>hacer frente|oponerse|volverse</item>
+		<item>tu|usted|tu mismo</item>
+		<item>sabor|gusto</item>
+		<item>destino</item>
+		<item>paz</item>
+		<item>mercancías</item>
+		<item>miembro|empleado</item>
+		<item>vender|negociar</item>
+		<item>pregunta</item>
+		<item>pendiente</item>
+		<item>esposo</item>
+		<item>empezar</item>
+		<item>detallado|confiar|confianza</item>
+		<item>proteger</item>
+		<item>barato|tranquilo</item>
+		<item>decidir|establecer</item>
+		<item>verdad</item>
+		<item>huésped|visitante</item>
+		<item>santuario shintoista</item>
+		<item>posada|alojamiento</item>
+		<item>frío</item>
+		<item>opuesto|contrario</item>
+		<item>oficina|departamento</item>
+		<item>tienda|tejado|casa</item>
+		<item>playa|orilla|costa</item>
+		<item>isla</item>
+		<item>estado|provincia|banco de arena</item>
+		<item>libro de cuentas</item>
+		<item>plano|liso|llanura</item>
+		<item>felicidad</item>
+		<item>grado|vez|veces</item>
+		<item>bodega|almacén</item>
+		<item>jardín</item>
+		<item>sistema|método</item>
+		<item>deber|servicio</item>
+		<item>esperar</item>
+		<item>apresurarse|urgencia</item>
+		<item>aliento|respiro</item>
+		<item>malo</item>
+		<item>triste</item>
+		<item>concepto</item>
+		<item>idea</item>
+		<item>sentimiento</item>
+		<item>lugar</item>
+		<item>pegar</item>
+		<item>a través</item>
+		<item>recoger|recolectar</item>
+		<item>sostener</item>
+		<item>dedo</item>
+		<item>liberar|poner en libertad</item>
+		<item>poner en orden|organizar</item>
+		<item>viaje</item>
+		<item>tribu</item>
+		<item>hace mucho tiempo</item>
+		<item>luminoso|brillante</item>
+		<item>calor|caliente</item>
+		<item>oscuro</item>
+		<item>composición musical</item>
+		<item>tener</item>
+		<item>ropa|admitir</item>
+		<item>propósito|intención</item>
+		<item>placa|tablero|tabla</item>
+		<item>pilar|poste|columna</item>
+		<item>raíz</item>
+		<item>planta|plantar|crecer</item>
+		<item>negocio|industria</item>
+		<item>señor|señora</item>
+		<item>lado|lateral|costado</item>
+		<item>puente</item>
+		<item>próximo|siguiente</item>
+		<item>diente</item>
+		<item>muerte|morir</item>
+		<item>hielo</item>
+		<item>decidir</item>
+		<item>aceite|grasa</item>
+		<item>ola|onda|polonia</item>
+		<item>concentrarse|derramar</item>
+		<item>nadar</item>
+		<item>océano</item>
+		<item>arroyo|corriente|derramar|verter</item>
+		<item>apagar|extinguir|desaparecer</item>
+		<item>profundo</item>
+		<item>cálido|templado</item>
+		<item>puerto|muelle</item>
+		<item>lago</item>
+		<item>agua caliente</item>
+		<item>china</item>
+		<item>carbón</item>
+		<item>cosa</item>
+		<item>esfera</item>
+		<item>razón|causa</item>
+		<item>decir|tener el honor de</item>
+		<item>extensión|borde|frontera</item>
+		<item>plantación</item>
+		<item>enfermedad</item>
+		<item>exponer|suceder</item>
+		<item>escalar|ascender</item>
+		<item>piel|pelaje</item>
+		<item>plato</item>
+		<item>aspecto|mutuamente</item>
+		<item>prefectura</item>
+		<item>realidad|verdadero|genuino</item>
+		<item>vestir</item>
+		<item>corto</item>
+		<item>afilar|pulir</item>
+		<item>cortesia|saludo|gracias</item>
+		<item>dios</item>
+		<item>festival</item>
+		<item>suerte</item>
+		<item>segundo</item>
+		<item>investigación</item>
+		<item>capítulo</item>
+		<item>chiquillo|niño</item>
+		<item>flauta</item>
+		<item>prefijo ordinal|examen|número</item>
+		<item>pincel de escritura</item>
+		<item>clase|igual que|etcétera</item>
+		<item>caja</item>
+		<item>rango|grado</item>
+		<item>fin|final</item>
+		<item>verde</item>
+		<item>entrenamiento|práctica</item>
+		<item>oveja</item>
+		<item>belleza|bello</item>
+		<item>aprender</item>
+		<item>alguien</item>
+		<item>educar|criar</item>
+		<item>sufrimiento|doloroso</item>
+		<item>bulto|equipaje</item>
+		<item>perder|dejar caer</item>
+		<item>hoja</item>
+		<item>medicina</item>
+		<item>sangre</item>
+		<item>mostrar|expresar</item>
+		<item>poema|poesía</item>
+		<item>comprobar|arreglar|investigar</item>
+		<item>conversar|hablar</item>
+		<item>legumbres|fríjoles</item>
+		<item>deber|vencer|ser derrotado</item>
+		<item>despertar</item>
+		<item>camino</item>
+		<item>uno mismo|posición|cuerpo</item>
+		<item>tropezar|girar|caer</item>
+		<item>liviano|insignificante</item>
+		<item>agricultura|granjero</item>
+		<item>devolver</item>
+		<item>expulsar|despedir|perseguir</item>
+		<item>enviar|remitir</item>
+		<item>veloz</item>
+		<item>avanzar|progresar</item>
+		<item>jugar</item>
+		<item>transportar</item>
+		<item>parte|sección</item>
+		<item>capital|metrópoli</item>
+		<item>distribuir|racionar</item>
+		<item>bebida alcohólica</item>
+		<item>pesado|importante</item>
+		<item>hierro|acero</item>
+		<item>plata</item>
+		<item>abrir|inaugurar</item>
+		<item>templo|hospital|institución</item>
+		<item>positivo|masculino</item>
+		<item>nivel|grado|piso</item>
+		<item>reunir|coleccionar</item>
+		<item>cara|semblante</item>
+		<item>tópico|tema|materia</item>
+		<item>beber</item>
+		<item>gran edificio|palacio</item>
+		<item>estación</item>
+		<item>nariz</item>
+		<item>prefijo negativo|des-|in-</item>
+		<item>pelear|discutir</item>
+		<item>adherir|pegar|unir</item>
+		<item>leyes|órdenes</item>
+		<item>más que|además que</item>
+		<item>relación|mediación</item>
+		<item>transmitir|comunicar</item>
+		<item>posición|grado|aproximadamente</item>
+		<item>bajo|barato</item>
+		<item>ejemplo|comparar</item>
+		<item>correspondencia|carta|noticias</item>
+		<item>confianza|sinceridad</item>
+		<item>bodega|almacén|granero</item>
+		<item>clima|esperar algo|explorar</item>
+		<item>pedir prestado|alquilar</item>
+		<item>interrupción|parada</item>
+		<item>vigor|fuerza|salud</item>
+		<item>fila|lado</item>
+		<item>trabajo</item>
+		<item>cien millones</item>
+		<item>augurio|sintoma|billón</item>
+		<item>cría|recién nacido</item>
+		<item>también|ambos|juntos</item>
+		<item>soldado|tropa</item>
+		<item>código|regla</item>
+		<item>enfriarse|frío</item>
+		<item>comienzo|primero</item>
+		<item>aparte|separar</item>
+		<item>ganancia|beneficio</item>
+		<item>impreso|estampado</item>
+		<item>copia|duplicado|vice-</item>
+		<item>logro|éxito</item>
+		<item>agregar|incrementar</item>
+		<item>esforzarse</item>
+		<item>cansancio|compensación|trabajo duro</item>
+		<item>audacia|valentía</item>
+		<item>envolver|cubrir|empaquetar</item>
+		<item>graduación</item>
+		<item>cooperación|colaboración</item>
+		<item>sólo|único</item>
+		<item>abundante|amplio</item>
+		<item>símbolo|signo|marca</item>
+		<item>asistir|ser derrotado</item>
+		<item>historia|crónica</item>
+		<item>dirigir|gobernar</item>
+		<item>cada uno|respectivamente</item>
+		<item>anunciar|informar</item>
+		<item>circunferencia|vuelta</item>
+		<item>recitar|cantar</item>
+		<item>júbilo|alegría</item>
+		<item>envase|utensilio</item>
+		<item>rodear|cercar</item>
+		<item>terco|testarudo|endurecer</item>
+		<item>modelo|tipo|patrón</item>
+		<item>salón|templo</item>
+		<item>sal</item>
+		<item>caballero|hombre</item>
+		<item>cambiar|alterar|modificar</item>
+		<item>centro|en medio</item>
+		<item>perder|errar</item>
+		<item>gustar|preferir</item>
+		<item>estación del año</item>
+		<item>nieto</item>
+		<item>perfección|final</item>
+		<item>gobierno oficial</item>
+		<item>daño|lesión|obstáculo</item>
+		<item>adivinar|suponer</item>
+		<item>nido|madriguera</item>
+		<item>distinción|remanente|poner|echar</item>
+		<item>deseo|esperanza|raro|Grecia</item>
+		<item>asiento</item>
+		<item>cinturón|faja|ceñirse|región|zona</item>
+		<item>parte inferior|base|fondo</item>
+		<item>municipio</item>
+		<item>sano|calmado</item>
+		<item>construir|edificar</item>
+		<item>método|diámetro|camino</item>
+		<item>inútil|compañero</item>
+		<item>ventaja|provecho|beneficio</item>
+		<item>necesariamiente|sin falta|ciertamente</item>
+		<item>deseo|sentimiento</item>
+		<item>amor|afecto|favorito</item>
+		<item>llegar a ser|hacerse|convertirse</item>
+		<item>guerra|lucha|combatir</item>
+		<item>quebrar|doblar|romper</item>
+		<item>elevar|levantar</item>
+		<item>renovar|reformar|revisar</item>
+		<item>salvar|rescatar</item>
+		<item>fracasar|ser derrotado</item>
+		<item>esparcir|dispersar|derramar</item>
+		<item>precio|material</item>
+		<item>estandarte|bandera nacional</item>
+		<item>anterior|previo</item>
+		<item>escena|paisaje|panorama</item>
+		<item>extremadamente|sumamente</item>
+		<item>esperar|desear|aspiración</item>
+		<item>aún no|todavía</item>
+		<item>final|aún|futuro|punta</item>
+		<item>billete|papel moneda</item>
+		<item>habilidad|talento|leño</item>
+		<item>manojo|racimo</item>
+		<item>pino</item>
+		<item>finalizar|resultado|fruto</item>
+		<item>prosperidad|honor|florecer</item>
+		<item>idea|plan</item>
+		<item>ciruela|ciruelo</item>
+		<item>artilugio|máquina|aparato</item>
+		<item>polo|extremo</item>
+		<item>señal|indicador|signo</item>
+		<item>máquina|mecanismo|telar</item>
+		<item>faltar|carecer|romperse</item>
+		<item>paso del tiempo|pasar</item>
+		<item>balance|dejar|resto</item>
+		<item>matar</item>
+		<item>veneno|venenoso</item>
+		<item>apellido|clan</item>
+		<item>gente|pueblo</item>
+		<item>demanda|petición</item>
+		<item>gobernar|reinar|curar</item>
+		<item>método|doctrina|ley</item>
+		<item>llorar</item>
+		<item>superficial</item>
+		<item>ducharse|bañarse</item>
+		<item>puro|claro|purificar</item>
+		<item>lleno|completo</item>
+		<item>pesca</item>
+		<item>lámpara|luz</item>
+		<item>nada|inexistente</item>
+		<item>en ese caso| de ese modo</item>
+		<item>hornear|asar|quemar</item>
+		<item>brillar|iluminar|tener vergüenza</item>
+		<item>calor|fiebre</item>
+		<item>pastorear|pastar</item>
+		<item>especial</item>
+		<item>propiedad|producir|dar a luz</item>
+		<item>objetivo|propósito</item>
+		<item>reflexionar</item>
+		<item>celebrar|felicitar</item>
+		<item>voto</item>
+		<item>variedad|tipo|clase</item>
+		<item>acumular|apilar|amontonar</item>
+		<item>competir|rivalizar</item>
+		<item>risa|sonrisa|reír|sonreír</item>
+		<item>tubo|control|controlar|administrar</item>
+		<item>nodo|unión|articulación</item>
+		<item>polvo|harina</item>
+		<item>crónica|era|normas</item>
+		<item>promesa|aproximadamente</item>
+		<item>amarrar|atar|unir|finalizar</item>
+		<item>salario|sueldo|distribuir</item>
+		<item>comtinuar|serie|seguir</item>
+		<item>poner|colocar|situar</item>
+		<item>viejo|experimentado|envejecer</item>
+		<item>estómago</item>
+		<item>vena|pulso</item>
+		<item>intestinos|visceras</item>
+		<item>criado|súbdito</item>
+		<item>navegar</item>
+		<item>bueno|sobresaliente</item>
+		<item>técnica|arte</item>
+		<item>brote|germen</item>
+		<item>inglaterra|excelente</item>
+		<item>vegetal|verdura</item>
+		<item>calle|avenida|ciudad</item>
+		<item>ropa|prenda</item>
+		<item>necesidad|esencia</item>
+		<item>memorizar|recordar|comprender</item>
+		<item>mostrar|punto de vista|mirar atentamente</item>
+		<item>lección|lectura japonesa de kanji</item>
+		<item>prueba|experimento|ensayo</item>
+		<item>teoría|opinión</item>
+		<item>sección|división|capitulo</item>
+		<item>consulta|consideración</item>
+		<item>elefante|imitar</item>
+		<item>moneda|bienes</item>
+		<item>ahorrar|almacenar</item>
+		<item>gasto|coste</item>
+		<item>premio|recompensa</item>
+		<item>ejército|tropas</item>
+		<item>rueda|aro|anillo</item>
+		<item>renunciar|dimitir|abandonar</item>
+		<item>vecindad|entorno|alrededores</item>
+		<item>acompañar| estar junto</item>
+		<item>conseguir|realizar|alcanzar</item>
+		<item>escoger|elegir|seleccionar</item>
+		<item>distrito|condado</item>
+		<item>cantidad|medida</item>
+		<item>registro|anotar|copia</item>
+		<item>espejo|lente</item>
+		<item>relación|puerta|valla|barrera</item>
+		<item>tierra</item>
+		<item>grupo|banda|partido</item>
+		<item>tranquilo|calmado</item>
+		<item>obedecer|turno|orden</item>
+		<item>petición|deseo|anhelo</item>
+		<item>parecido|clase|variedad</item>
+		<item>volar</item>
+		<item>comida|alimento</item>
+		<item>criar|cultivar</item>
+		<item>prueba|intento</item>
+		<item>largo tiempo|continuado</item>
+		<item>Buda|Francia|muerto</item>
+		<item>temporal|provisional</item>
+		<item>asunto|incidente</item>
+		<item>responsabilidad</item>
+		<item>parecerse</item>
+		<item>exceso|remanente|sobrar</item>
+		<item>valor|costo</item>
+		<item>preservar|mantener</item>
+		<item>disciplina|controlar</item>
+		<item>saco|fardo</item>
+		<item>individual|individuo</item>
+		<item>proveer|equipar|aprovisionar</item>
+		<item>estatua|figura</item>
+		<item>otra vez|de nuevo</item>
+		<item>publicar|editar</item>
+		<item>juzgar|distinguir</item>
+		<item>sitema|establecer</item>
+		<item>billete|certificado</item>
+		<item>regla|norma|ley</item>
+		<item>efecto|eficacia.eficiencia</item>
+		<item>deber|obligaciones|cargo</item>
+		<item>poder|fuerza|influencia</item>
+		<item>espeso|grueso</item>
+		<item>frase|párrafo|oración</item>
+		<item>posible|aprobación|bueno</item>
+		<item>administrar|controlar</item>
+		<item>causa|razón</item>
+		<item>grupo|redondo|compañia</item>
+		<item>presión|stress</item>
+		<item>ser|existir</item>
+		<item>promedio|nivel</item>
+		<item>base|fundamento</item>
+		<item>informar|recompensar</item>
+		<item>límite|frontera|borde</item>
+		<item>tumba|sepultura</item>
+		<item>incrementar|añadir|aumentar</item>
+		<item>sueño|visión|ilusión</item>
+		<item>esposa</item>
+		<item>señora|esposa|mujer</item>
+		<item>contenido|fácil</item>
+		<item>acercarse|reunirse|colaborar</item>
+		<item>abundante|rico|enriquecer</item>
+		<item>guiar|ser guiado</item>
+		<item>residir|vivir</item>
+		<item>pertenencia|subordinación</item>
+		<item>paño|tela</item>
+		<item>experto|maestro</item>
+		<item>normal|usual|ordinario</item>
+		<item>tronco del árbol|base</item>
+		<item>inicio|prefacio|precedencia</item>
+		<item>identificar|distinguir|dialecto</item>
+		<item>estirar|ensanchar|exagerar</item>
+		<item>ir|a veces| antiguamente</item>
+		<item>volver|repetir</item>
+		<item>benevolencia|virtud|moralidad</item>
+		<item>intención|ambición|aspiración|voluntad</item>
+		<item>responder|contestar|aceptar|adecuado</item>
+		<item>agradable|placentero|curarse</item>
+		<item>género|sexo|temperamento</item>
+		<item>bondad|gracia|compasión</item>
+		<item>simpatía|sentimientos|emoción</item>
+		<item>condición|situación|apariencia</item>
+		<item>acostumbrar|costumbre</item>
+		<item>consentir|conceder|heredar</item>
+		<item>técnica|habilidad|arte</item>
+		<item>invitar|convocar</item>
+		<item>instruir|impartir|conceder</item>
+		<item>elegir|seleccionar|recoger|recolectar</item>
+		<item>contactar|acercarse|conectar</item>
+		<item>tomar|proponer|ayudarse</item>
+		<item>dañar|herir|perdida</item>
+		<item>rama|apoyo|soporte|interferencia</item>
+		<item>política|gobierno</item>
+		<item>circunstancias|causa|excepcional|antiguo</item>
+		<item>enemigo|oponente|adversario</item>
+		<item>cortar|interrumpir|declinar</item>
+		<item>viejo|antiguo|viejos tiempos</item>
+		<item>fácil|simple|adivinación</item>
+		<item>revelar|exponer|violento|alborotar</item>
+		<item>cláusula|trato</item>
+		<item>rama|bifurcación</item>
+		<item>investigar|examinar|inspeccionar</item>
+		<item>rango|posición|capacidad|estatus</item>
+		<item>flor de cerezo|cerezo</item>
+		<item>examinar|analizar|investigar</item>
+		<item>construir|ensamblar|interesarse por</item>
+		<item>guerrero|valor|armas</item>
+		<item>Filipinas|comparación|proporción</item>
+		<item>eterno|infinito|perpetuo</item>
+		<item>corriente|río</item>
+		<item>fluido|líquido</item>
+		<item>mezclarse|mezclar|agitar</item>
+		<item>decrecer|disminuir|menguar</item>
+		<item>sondear|medir|estimar</item>
+		<item>estándar|norma|asemejar</item>
+		<item>representar|expresar|realizar</item>
+		<item>puro|inmaculado|limpio|honrado</item>
+		<item>catástrofe|desastre|calamidad</item>
+		<item>quemar|arder</item>
+		<item>impresión|edición</item>
+		<item>crimen|delito|ofensa</item>
+		<item>situación|estado|condición</item>
+		<item>sólo|único|Alemania</item>
+		<item>proporción|tasa|liderar|mandar</item>
+		<item>aparecer|mostrarse|manifestar</item>
+		<item>detener|parar|permanecer</item>
+		<item>abreviatura|abreviación</item>
+		<item>beneficio|ganancia|ventaja</item>
+		<item>ojo|vista|perspicacia</item>
+		<item>rasgar|desgarrar|dañar|romper</item>
+		<item>certeza|seguro|genuino|capaz</item>
+		<item>indicar|mostrar|revelar</item>
+		<item>ancestro|fundador|antepasado</item>
+		<item>prohibición|prohibir|proscripción</item>
+		<item>cambio|traslado|infectado</item>
+		<item>extensión|distancia|límites</item>
+		<item>impuesto|arancel</item>
+		<item>construir|edificar</item>
+		<item>refinar|esencia|purificar</item>
+		<item>elemental|materia prima|normal</item>
+		<item>dirigir|longitud|experimentar|sutra</item>
+		<item>controlar|supervisar|relacionado</item>
+		<item>suprimir|extinguirse|erradicar|desaparecer</item>
+		<item>algodón|minucioso|prolongado</item>
+		<item>completo|total|general</item>
+		<item>ensamblar|compilar|editar|tejer</item>
+		<item>hilar|hilado|producto</item>
+		<item>tejer|tramar|tejido</item>
+		<item>culpa|crimen|pecado</item>
+		<item>grupo|aglomerarse|manada|rebaño</item>
+		<item>lealtad|moralidad|artificial|significado</item>
+		<item>arado|arar|labrar|cultivar</item>
+		<item>empleo|ocupación|puesto</item>
+		<item>fertilizante|abono|enruiquecer|engordar</item>
+		<item>teatro japonés|habilidad|talento|aptitud</item>
+		<item>interés|popularizar|prosperar|promover</item>
+		<item>lengua</item>
+		<item>casa|cabaña|posada</item>
+		<item>arte|técnica</item>
+		<item>defensa|protección|guardián</item>
+		<item>manufactura|fabricar|construir</item>
+		<item>duplicar|repetir|compuesto</item>
+		<item>regla|medida|norma|compás</item>
+		<item>desatar|peinarse|desenredar|aflojar</item>
+		<item>establecer|instalar|equipar</item>
+		<item>permitir|dejar|perdonar</item>
+		<item>evidencia|prueba|certificado|testimonio</item>
+		<item>crítica|comentario|evaluación</item>
+		<item>conferencia|discurso|reunión</item>
+		<item>disculparse|rehusar</item>
+		<item>distinguir|discernir|discriminar</item>
+		<item>proteger|salvaguardar|defender</item>
+		<item>abundante|excelente|rico</item>
+		<item>riqueza|fortuna|activos|propiedad</item>
+		<item>pobre|pobreza|escaso</item>
+		<item>culpar|condena|censura</item>
+		<item>prestar|alquilar|préstamo</item>
+		<item>comercio|intercambio</item>
+		<item>felicitaciones|alegría</item>
+		<item>recurso|capital</item>
+		<item>aprobar|consentir|elogiar</item>
+		<item>calidad|contenido|substancia|simplicidad</item>
+		<item>transportar|trasladar</item>
+		<item>mencionar|expresar|contar</item>
+		<item>perderse|extraviarse</item>
+		<item>renunciar|dimitir|rechazar|retroceder</item>
+		<item>inverso|opuesto|contrario</item>
+		<item>crear|construir</item>
+		<item>excederse|extralimitarse|traspasar</item>
+		<item>adecuado|apropiado|adaptarse</item>
+		<item>ácido|agrio</item>
+		<item>mineral</item>
+		<item>cobre</item>
+		<item>moneda|dinero</item>
+		<item>prevenir|aguantar|banco|presa</item>
+		<item>limitar|restringir|confinar</item>
+		<item>inaccesible|escarpado|peligroso</item>
+		<item>ocasión|límite|frontera</item>
+		<item>misceláneo|mezclado|varios</item>
+		<item>negativo|equivocado</item>
+		<item>depósito</item>
+		<item>controlar|control|punto clave</item>
+		<item>frente|marco|monto de dinero</item>
+		<item>criar|mantener|domesticar</item>
+		<item>corriente|normal|alinearse</item>
+		<item>disturbio|tumulto|confusión</item>
+		<item>leche|pecho</item>
+		<item>difunto|muerto|huir|perecer|escapar</item>
+		<item>humanidad|bondad|caridad</item>
+		<item>ofrecer|entregar|expresar|mencionar</item>
+		<item>actor|intérprete</item>
+		<item>valor|precio.coste</item>
+		<item>herida|lesión|daño|corte</item>
+		<item>sobresalir|sobrepasar|excelente|amable</item>
+		<item>partido|facción</item>
+		<item>volumen|tomo|contador para libros</item>
+		<item>desechar|tratar|ingeniárselas</item>
+		<item>esculpir|grabar|cincelar|afilar|triste</item>
+		<item>dividir|distribuir|separar|fracturar</item>
+		<item>fundar|comenzar|originar|crear</item>
+		<item>drama|teatro|obra|violento</item>
+		<item>deber|diligencia|desempeñar</item>
+		<item>peligroso|dudoso</item>
+		<item>huevo|óvulo|embrión</item>
+		<item>estricto|severo|austero|solemne</item>
+		<item>adquisición|ser obtenido|almacenar</item>
+		<item>emperatriz</item>
+		<item>rechazo|negativa</item>
+		<item>chupar|absorber|aspirar|fumar</item>
+		<item>llamar|aspirar</item>
+		<item>virtud|bondad</item>
+		<item>agobiarse|afligirse|sufrir</item>
+		<item>suspender|colgar|estar colgado</item>
+		<item>castillo</item>
+		<item>límite|región|rango</item>
+		<item>tocar un instrumento|completar</item>
+		<item>entusiasmado|excitado|agitado|exaltado</item>
+		<item>figura|apariencia|forma</item>
+		<item>suponer|conocer|asumir</item>
+		<item>deber filial</item>
+		<item>residencia|hogar|casa</item>
+		<item>Edificio grande</item>
+		<item>religión|fundamento|origen</item>
+		<item>cielo|firmamento|en el aire</item>
+		<item>tesoro</item>
+		<item>proclamar|anunciar|promulgar</item>
+		<item>secreto|denso|preciso</item>
+		<item>medida|longitud</item>
+		<item>especialidad|enteramente|exclusivo</item>
+		<item>disparar|tirar|liberar</item>
+		<item>lider|mandar|cargo</item>
+		<item>reverencia|estimar|aprecio|respeto</item>
+		<item>realizar|establecerse</item>
+		<item>medida|regla|unidad de medida</item>
+		<item>entregar|enviar|notificar|informar</item>
+		<item>expandir|exhibir|desplegar</item>
+		<item>estrato|nivel</item>
+		<item>yo|uno mismo</item>
+		<item>rollo|pergamino|tomo|enrrollar</item>
+		<item>cortina|final|acto de una obra</item>
+		<item>secar|airear|secarse</item>
+		<item>infancia|niñez|infantil</item>
+		<item>oficina del gobierno|edificio público</item>
+		<item>sentarse</item>
+		<item>aplazar|estirar|extender|prolongar</item>
+		<item>ley|regulación|regla|ritmo</item>
+		<item>obedecer|seguir</item>
+		<item>olvidar|perder</item>
+		<item>lealtad|fidelidad</item>
+		<item>norma|ley|regulación</item>
+		<item>ego|yo|uno mismo</item>
+		<item>criticar</item>
+		<item>cargar|transportar</item>
+		<item>adorar|culto|suplicar</item>
+		<item>ampliar|ensanchar|extender</item>
+		<item>lanzar|abandonar|arrojar|limosna</item>
+		<item>indagar|sondear|buscar|explorar</item>
+		<item>inferir|deducir|adivinar|suponer</item>
+		<item>exhibir|exponer|manejar</item>
+		<item>maniobrar|dirigir|manipular|fidelidad</item>
+		<item>respetar|respeto|honor</item>
+		<item>reflejo|reflejar|proyectar</item>
+		<item>noche|tarde|anochecer</item>
+		<item>cálido|caliente|templado</item>
+		<item>finalizar|anochecer|acabar|vivir</item>
+		<item>melodioso|sonoro|claro|sereno</item>
+		<item>escritorio|mesa</item>
+		<item>contador objetos planos</item>
+		<item>tintura|teñir|manchar|colorear</item>
+		<item>acciones|raiz</item>
+		<item>varilla|barra|bastón</item>
+		<item>modelo|imitación|patrón</item>
+		<item>autoridad|derechos|poder</item>
+		<item>árboles|vegetación</item>
+		<item>deseo|anhelo|ansia</item>
+		<item>grado|escalón</item>
+		<item>bordear</item>
+		<item>fuente|manantial</item>
+		<item>lavar|limpiar|aclarar</item>
+		<item>división|grupo|rama</item>
+		<item>finalizar|terminar|concluir|acabar</item>
+		<item>origen|fuente</item>
+		<item>marea|tendencia</item>
+		<item>violento|furioso</item>
+		<item>ceniza|cremar</item>
+		<item>madurar|pensar bien</item>
+		<item>pedazo|incompleto|trozo</item>
+		<item>escuadrón|grupo|unidad</item>
+		<item>extraño|raro|inusual</item>
+		<item>duda|desconfianza|sospecha</item>
+		<item>dolor|daño|herir</item>
+		<item>emperador</item>
+		<item>próspero|auge|florecer</item>
+		<item>alianza|pacto|juramento</item>
+		<item>vigilar|cuidar|ver</item>
+		<item>arena|gravilla</item>
+		<item>imán|porcelana</item>
+		<item>yo|privado|secreto</item>
+		<item>secreto|misterio|esconder</item>
+		<item>cereales|grano</item>
+		<item>agujero|hoyo|hueco</item>
+		<item>ventana|habitación</item>
+		<item>músculo|fibra|trama</item>
+		<item>esquema|plan|estrategia</item>
+		<item>simplicidad|contenido|depósito</item>
+		<item>azúcar|edulcorante</item>
+		<item>linaje|relación|conexión</item>
+		<item>rojo intenso| carmesí</item>
+		<item>suministrar|pagar|entregar|proveer</item>
+		<item>genuino|pureza|inocencia</item>
+		<item>seda</item>
+		<item>vertical</item>
+		<item>encoger|reducir|rizar|acortar</item>
+		<item>oficina gubernamental|cargo</item>
+		<item>siguiente|después</item>
+		<item>santo|sagrado|sabio</item>
+		<item>pulmones</item>
+		<item>espalda|estatura|detrás</item>
+		<item>pecho|sentimientos|corazón</item>
+		<item>cerebro</item>
+		<item>abdomen|estómago|barriga</item>
+		<item>vísceras|entrañas|órganos internos</item>
+		<item>enfrentarse|confrontar|encarar</item>
+		<item>clímax|apogeo|alcanzar</item>
+		<item>joven|posiblemente|algunos</item>
+		<item>eminente|notable</item>
+		<item>vapor|echar vapor</item>
+		<item>guardar|almacén|depósito</item>
+		<item>gusano de seda</item>
+		<item>multitud|masas</item>
+		<item>juzgar|decidir</item>
+		<item>decorar|adorno|vestido</item>
+		<item>opuesto|reverso|interior</item>
+		<item>suplemento|compensar|resarcir</item>
+		<item>buscar|inspeccionar|considerar</item>
+		<item>mirar|ver</item>
+		<item>atacar|asaltar|disparar</item>
+		<item>visitar</item>
+		<item>traducir|significado|causa</item>
+		<item>poesía|palabras</item>
+		<item>documento|escrito</item>
+		<item>reconocer|admitir|consentir</item>
+		<item>nacimiento|nacer</item>
+		<item>sinceridad|verdad|confianza</item>
+		<item>error|equivocarse</item>
+		<item>teoría|argumento|discurso</item>
+		<item>diversos|variados|varios</item>
+		<item>amonestar|advertir</item>
+		<item>precioso|valioso|estimar</item>
+		<item>salario|sueldo|tarifa</item>
+		<item>olvidar|legar</item>
+		<item>correo|servicio postal</item>
+		<item>pueblo|ciudad natal</item>
+		<item>aguja|alfiler</item>
+		<item>acero</item>
+		<item>cerrar|finalizar</item>
+		<item>torre|palacio|edificio alto</item>
+		<item>descender|bajarse|bajar</item>
+		<item>emperador|alteza</item>
+		<item>excluir|eliminar|quitar</item>
+		<item>impedir|obstaculizar|estorbar</item>
+		<item>dificil|complicado</item>
+		<item>cuero|piel</item>
+		<item>cima|cumbre|recibir</item>
+		<item>hueso|esqueleto</item>
+		<item>longitud|largo</item>
+		<item>dar|otorgar|conceder</item>
+		<item>también|además</item>
+		<item>colina</item>
+		<item>tercer grado|tercera clase</item>
+		<item>rojo|sin adornos</item>
+		<item>escaso|insuficiente|limitado</item>
+		<item>extraño|ingenioso|elegante</item>
+		<item>secarse|sequía|seco</item>
+		<item>finalizar|completar</item>
+		<item>mutuamente|conjuntamente|reciprocamente</item>
+		<item>ciudad|pozo</item>
+		<item>asia|después de</item>
+		<item>recibir atención|conseguir</item>
+		<item>pabellón</item>
+		<item>intervención| cosa aburrida| mediación</item>
+		<item>ermitaño</item>
+		<item>instrucciones|admirar|respetar</item>
+		<item>diseñar|planificar|emprender</item>
+		<item>obedecer|agacharse|oculto|al revés</item>
+		<item>golpear|cortar|atacar</item>
+		<item>jefe|conde</item>
+		<item>acompañar|seguir|acompañante</item>
+		<item>expandir|estirar|prolongar|alargar</item>
+		<item>visitar|preguntar por</item>
+		<item>sin embargo|pero</item>
+		<item>asistir|ayuda|rango militar</item>
+		<item>excelente|bonito</item>
+		<item>unir|combinar</item>
+		<item>samurái|sirviente</item>
+		<item>confiar|depender</item>
+		<item>desprecio|desdén|menospreciar</item>
+		<item>marqués|noble|daimyo</item>
+		<item>invadir|traspasar|violar</item>
+		<item>urgir|apremiar</item>
+		<item>sobresaliente|genio</item>
+		<item>vulgar|modales|ordinario</item>
+		<item>remuneración|salario</item>
+		<item>derribar|derrocar</item>
+		<item>imitar|emular</item>
+		<item>ética|reglas|principios</item>
+		<item>frugal|humilde|sencillo</item>
+		<item>admirable|notable</item>
+		<item>parcial|lateral</item>
+		<item>espiar|inquirir</item>
+		<item>accidentalmente|casualmente</item>
+		<item>falsedad|mentira|engaño</item>
+		<item>cercanía|proximidad|lado</item>
+		<item>grandeza|excelencia</item>
+		<item>sombrilla|paraguas</item>
+		<item>patrocinar|organizar|celebrar</item>
+		<item>deuda|lazo|prestamo</item>
+		<item>hundimiento|inclinarse|prejuicio|arruinar</item>
+		<item>yo</item>
+		<item>colega|compañero|amigo</item>
+		<item>monje budista</item>
+		<item>etiqueta|regla|ceremonia</item>
+		<item>confucionismo</item>
+		<item>compensación|reparación|indemnización</item>
+		<item>asignar|adjudicar|llenar</item>
+		<item>vencer|superar</item>
+		<item>disculpar|excusa</item>
+		<item>concurrentemente|además|combinarse</item>
+		<item>riesgo|atreverse|desafío</item>
+		<item>supérfluo|sobrante</item>
+		<item>corona|incomparable</item>
+		<item>imitar|permitir|cuasi-</item>
+		<item>congelado|helado|entumido</item>
+		<item>rigidez|endurecerse|entumecimiento</item>
+		<item>mediocre|insignificante</item>
+		<item>villano|maldad|desastre</item>
+		<item>convexo|desigual</item>
+		<item>cóncavo|hueco|hundido</item>
+		<item>hoja|cuchilla|filo</item>
+		<item>cosechar|podar|segar</item>
+		<item>castigo|sentencia|pena</item>
+		<item>lograr|alcanzar|llegar</item>
+		<item>espina|punzar|pinchar|apuñalar</item>
+		<item>tallar|cepillar|modelar</item>
+		<item>dividir|distinguir</item>
+		<item>fuerte|robusto|inflexible</item>
+		<item>espada|sable</item>
+		<item>medicina|droga|dosis</item>
+		<item>excedente|ganancia|sobrante</item>
+		<item>inferioridad|debilidad|mala calidad</item>
+		<item>alentar|animar|estimular</item>
+		<item>censura</item>
+		<item>amonestar|orden imperial</item>
+		<item>intuición|percepción</item>
+		<item>reclutar|recolectar|requerir</item>
+		<item>persuasión|consejo|recomendar</item>
+		<item>mérito</item>
+		<item>cucharón|unidad de área</item>
+		<item>moneda antigua|antigua medida de peso</item>
+		<item>artesano|trabajador</item>
+		<item>igual|equilibrar|confrotar</item>
+		<item>escondite|refugio</item>
+		<item>caja para medir|unidad de capacidad</item>
+		<item>vulgar|vil|despreciable</item>
+		<item>eminente|exceder|sobrepasar|mesa</item>
+		<item>adivinación|pronosticar|poseer</item>
+		<item>rechazar|retirarse|inactividad</item>
+		<item>mayoreo|venta al por mayor</item>
+		<item>desafortunado|desastre|mala suerte</item>
+		<item>antigua moneda|antigua unidad de peso</item>
+		<item>además|otro|distinto</item>
+		<item>alcanzar|extenderse</item>
+		<item>gemelo|par|ambos</item>
+		<item>tío|tía</item>
+		<item>relato|narración</item>
+		<item>gritar|exclamar</item>
+		<item>seducir|citar|comer|beber</item>
+		<item>buena suerte|alegría</item>
+		<item>funcionario|burócrata</item>
+		<item>escupir|vomitar</item>
+		<item>tararear|canturrear</item>
+		<item>incluir|entender|comprender</item>
+		<item>soplar|exhalar</item>
+		<item>exponer|mostrar|ofrecer</item>
+		<item>dar|recibir</item>
+		<item>florecer</item>
+		<item>pena|lástima|patético</item>
+		<item>filosofía|sabio|sagaz</item>
+		<item>tentar|seducir|incitar</item>
+		<item>labios</item>
+		<item>dinastía tang|mentira|exageración</item>
+		<item>únicamente|solamente|simplemente</item>
+		<item>revelar|aclarar</item>
+		<item>grito|alarido</item>
+		<item>ronco|regañar</item>
+		<item>extrañar|perder a alguien</item>
+		<item>consumir|comer|beber</item>
+		<item>heredero|sucesor</item>
+		<item>suspirar|lamentar|gemir</item>
+		<item>encomendar|confiar|solicitar</item>
+		<item>erupción|expeler|emitir</item>
+		<item>amenazador|amenzante</item>
+		<item>capturado|encarcelar|esclavitud</item>
+		<item>esfera|radio|rango</item>
+		<item>chico|niño|muchacho</item>
+		<item>fosa|hoyo|agujero</item>
+		<item>área de dos tatami|unidad de superficie</item>
+		<item>valla|cerco|muro</item>
+		<item>enterrar|rellenar|incrustar</item>
+		<item>tenaz|dirigir|tomar el control</item>
+		<item>cultivar|fomentar</item>
+		<item>zanja|foso|canal</item>
+		<item>estricto|duro|firme</item>
+		<item>degenerar|derrumbarse|caer</item>
+		<item>dique|escollo|terraplén</item>
+		<item>soportar|aguantar|tolerar|resistir</item>
+		<item>cerco|valla|empalizada</item>
+		<item>base|fuerte|puesto</item>
+		<item>terrón|conglomerado|masa</item>
+		<item>modelo|moldura|modelar</item>
+		<item>pagoda|torre</item>
+		<item>pintar|untar|recubrir|embadurnar</item>
+		<item>montículo|loma</item>
+		<item>academia</item>
+		<item>caer|perder|choque</item>
+		<item>tinta|méxico|negro</item>
+		<item>sepulcro|tumba|mausoleo</item>
+		<item>innovador|cultivar</item>
+		<item>pared|muro</item>
+		<item>podio|tarima|tribuna</item>
+		<item>demolición|destrucción|derrumbe</item>
+		<item>suelo|tierra</item>
+		<item>robusto|poderoso|influyente</item>
+		<item>uno|yo</item>
+		<item>raro|extraño|sospechoso</item>
+		<item>cumplimiento|obedecer|reverenciar</item>
+		<item>compromiso|promesa|voto</item>
+		<item>apresurarse|apurarse|correr</item>
+		<item>esposa|interior</item>
+		<item>exhortar|aliento|ánimo</item>
+		<item>robar|arrebatar|usurpar</item>
+		<item>esclavo|siervo|criado</item>
+		<item>parecido|análogo|igual a</item>
+		<item>reina|princesa|emperatriz</item>
+		<item>engaño|ilusión|innecesariamente</item>
+		<item>embarazo|concepción</item>
+		<item>exquisito|encantador|admirable</item>
+		<item>suave|tranquilo|amable</item>
+		<item>molestar|estorbar|obstruir</item>
+		<item>apellido</item>
+		<item>princesa</item>
+		<item>matrimonio|casarse</item>
+		<item>intimidar|amenazar|majestad</item>
+		<item>hija|muchacha|chica</item>
+		<item>embarazo|concepción</item>
+		<item>recreación|diversión|placer</item>
+		<item>anciana|abuela</item>
+		<item>matrimonio|boda</item>
+		<item>novio|yerno</item>
+		<item>intermediario|casamentero</item>
+		<item>casarse|nuera|novia</item>
+		<item>aversión|antipatía|detestar</item>
+		<item>heredero|descendiente</item>
+		<item>muchacha|señorita|chica</item>
+		<item>cavidad|grieta|agujero</item>
+		<item>húerfano|sólo</item>
+		<item>cordiales saludos|apropiado|correcto</item>
+		<item>administrar|supervisar|dirigir</item>
+		<item>banquete|fiesta</item>
+		<item>anochecer|noche|tarde</item>
+		<item>soledad|solitario|morir</item>
+		<item>tolerante|estar a gusto</item>
+		<item>acostarse|dormir</item>
+		<item>viudo|solo</item>
+		<item>tranquilo|pacífico</item>
+		<item>examinar|detallado|claro|juicio</item>
+		<item>dormitorio|residencia|hostal</item>
+		<item>longevidad|felicitaciones</item>
+		<item>sellar|cerrar|prevenir</item>
+		<item>oficial militar|rango|carcelero</item>
+		<item>informarse|preguntar|pedir</item>
+		<item>estimar|estimado|desear|todavía</item>
+		<item>monja</item>
+		<item>exhausto|agotar|gastar|esforzarse</item>
+		<item>cola|final</item>
+		<item>orina</item>
+		<item>torcer|doblar|someter|rendirse</item>
+		<item>calzado|hacer uno mismo</item>
+		<item>barracones|cuartel|campamento</item>
+		<item>desviarse|bifurcación|división</item>
+		<item>cabo|punta|promontorio</item>
+		<item>montaña alta|pico</item>
+		<item>desfiladero|crisis|esplendor</item>
+		<item>cañón|desfiladero|barranco</item>
+		<item>cima|cumbre|apogeo</item>
+		<item>adorar|respetar|reverenciar</item>
+		<item>promontorio|cabo</item>
+		<item>desmenuzar|desmoronar|derrumbe</item>
+		<item>patrullar|circular|dar vueltas</item>
+		<item>hábil|ingenioso|diestro</item>
+		<item>gigante|grande|gran</item>
+		<item>navegar|vela de barco</item>
+		<item>soberano|emperador</item>
+		<item>comandante|dirigir tropas</item>
+		<item>gorra|sombrero</item>
+		<item>anchura|amplitud|rollo|pergamino</item>
+		<item>dinero en efectivo|riqueza</item>
+		<item>fantasma|visión|ilusión</item>
+		<item>solitario|confinar|recluir|el más allá</item>
+		<item>cuántos|algunos</item>
+		<item>cama|alcoba|peluquería</item>
+		<item>mucho|varios</item>
+		<item>común|ordinario|contratar</item>
+		<item>abolir|descartar|obsoleto|desechar</item>
+		<item>honrado|sincero|puro</item>
+		<item>pasillo|corredor</item>
+		<item>tribunal|corte</item>
+		<item>abusar|desgastarse|cansarse</item>
+		<item>dos (documentos)</item>
+		<item>pésame|luto|funeral</item>
+		<item>cuerda (de arco)|hipotenusa</item>
+		<item>arco|circunferencia</item>
+		<item>chasquido|bala|golpe seco</item>
+		<item>color|colorido|colorear</item>
+		<item>tallar|cincelar|esculpir</item>
+		<item>manifiesto|patente|claro</item>
+		<item>sombra|silueta|forma|reverso</item>
+		<item>él|eso|aquello|otra persona</item>
+		<item>subyugar|someter|cobrar impuesto</item>
+		<item>gradualmente|lentamente</item>
+		<item>honorable|manipular</item>
+		<item>secuencial|girar</item>
+		<item>delicado|diminuto|pequeño</item>
+		<item>reclutar|llamar|reunir|síntoma</item>
+		<item>penetrar|atravesar</item>
+		<item>luto|detestar|aborrecer</item>
+		<item>soportar|aguantar|resistir|esconderse</item>
+		<item>ocupado|atareado</item>
+		<item>enfadado|enojo</item>
+		<item>temor|miedo|terrible|espantoso</item>
+		<item>negligencia|descuido|pereza</item>
+		<item>suspicaz|sospechar|desconfiar|dudar</item>
+		<item>romance|enamorarse|amor|querido</item>
+		<item>temor|temer</item>
+		<item>constancia|eterno</item>
+		<item>vergüenza|deshonor|sonrojarse</item>
+		<item>rencor|resentimiento|odio</item>
+		<item>respeto|reverencia</item>
+		<item>favor|bondad|gracia</item>
+		<item>arrepentirse|lamentar|sentir</item>
+		<item>explicación|aclaración|percatarse</item>
+		<item>permanencia|distante</item>
+		<item>aquejado|afligido|ansiedad</item>
+		<item>éxtasis|júbilo|alegría</item>
+		<item>problema|sufrimiento|angustiarse|pena</item>
+		<item>lamentar|afligirse|condolerse</item>
+		<item>engatusar|cautivar|seducir</item>
+		<item>pena|lástima</item>
+		<item>desgraciado|desastroso|cruel|horrible</item>
+		<item>flojera|pereza|descuido</item>
+		<item>angustia|aflicción|melancolía</item>
+		<item>diversión|regocijo|placer</item>
+		<item>tonto|estupidez</item>
+		<item>piedad|misericordia|encariñarse</item>
+		<item>desconcertado|confusión|preocupación</item>
+		<item>humildad|modestia|discreción|prudencia</item>
+		<item>deseo|añoranza|anhelo</item>
+		<item>ridículo|holgazanear|descuidar</item>
+		<item>lamentar|arrepentirse</item>
+		<item>prudencia|consideración|deliberación</item>
+		<item>consolación|confortar|aliviar</item>
+		<item>jubilo|diversión|regocijo</item>
+		<item>melancolía|pesadumbre|inquietud</item>
+		<item>odio|detestar</item>
+		<item>ira|resentimiento|cólera|rabia</item>
+		<item>suspensión|receso|reposo|tranquilidad</item>
+		<item>cien millones</item>
+		<item>remordimiento|arrepentimiento</item>
+		<item>sociable|amable|cordial</item>
+		<item>añoranza|nostalgia|pensar</item>
+		<item>castigo|disciplinar</item>
+		<item>colgar||depender|suspender</item>
+		<item>orden|instruir|advertir</item>
+		<item>broma|diversión|teatro</item>
+		<item>volver|regresar|devolución</item>
+		<item>racimo|manojo</item>
+		<item>ventilador|abanico</item>
+		<item>puerta principal</item>
+		<item>pagar|saldar|tributar</item>
+		<item>manejar|desempeñar</item>
+		<item>ayuda|asistencia|socorro</item>
+		<item>extracto|resumen|extirpar</item>
+		<item>llevar|racimo|manojo|haz</item>
+		<item>reprimir|restringir|freno</item>
+		<item>confrontar|resistir|oponerse</item>
+		<item>escapar|omitir|echar|sacar</item>
+		<item>elegir|seleccionar|escoger</item>
+		<item>exponer|abrir</item>
+		<item>abrazar|abrazo</item>
+		<item>resistir|chocar</item>
+		<item>frotar|borrar|moler</item>
+		<item>empujar|presionar|contener</item>
+		<item>arrancar|sacar|extraer</item>
+		<item>aplaudir</item>
+		<item>secuestro|raptar</item>
+		<item>repeler|rehusar|rechazar|declinar</item>
+		<item>aclarar|calcar</item>
+		<item>arrestar|afectar|agarrar</item>
+		<item>torpe|inexperto</item>
+		<item>punto de apoyo|autoridad|firmeza</item>
+		<item>amarrar|atar|abrochar</item>
+		<item>torturar|golpear</item>
+		<item>reto|desafiar</item>
+		<item>intercalar|interponer|insertar</item>
+		<item>sacudir|agitar|ondear</item>
+		<item>insertar|injertar</item>
+		<item>capturar|atrapar</item>
+		<item>buscar|explorar|localizar</item>
+		<item>colocar|situar|instalar|establecer</item>
+		<item>barrer|cepillo</item>
+		<item>manipular|controlar</item>
+		<item>repudiar|excluir|rechazar</item>
+		<item>taladrar|cavar|hurgar</item>
+		<item>colgar|enganchar|depender</item>
+		<item>apuntar|anotar|moderarse|contención</item>
+		<item>apartar|exceptuar</item>
+		<item>publicar|exhibir|levantar</item>
+		<item>bosquejo|esbozo|describir</item>
+		<item>izar|levantar|alzar</item>
+		<item>intercambiar|reemplazar|sustituir</item>
+		<item>agarrar|empuñar|asir</item>
+		<item>ayudar|auxiliar|mencionar</item>
+		<item>balanceo|estremecimiento|oscilación|mecerse</item>
+		<item>transportar|llevar</item>
+		<item>embarcar|subir a</item>
+		<item>portátil|llevar en mano</item>
+		<item>apretar|comprimir|estrujar</item>
+		<item>tomar|cultivar|sustituir</item>
+		<item>pellizcar|revelar|señalar</item>
+		<item>roce|caricia|fricción</item>
+		<item>golpear|atacar|conquistar|derrotar</item>
+		<item>remover|retirar|desmantelar</item>
+		<item>tomar fotos|recoger</item>
+		<item>bofetada|atizar|golpear</item>
+		<item>abrazo|proteger</item>
+		<item>rechinar|raspar|restregar|frotar</item>
+		<item>mímica|imitar|parecerse</item>
+		<item>agredir|asaltar|atacar</item>
+		<item>inteligente|ingenioso|ágil</item>
+		<item>atrevido|osado</item>
+		<item>extender|pavimentar</item>
+		<item>igual|equivalente|semejante</item>
+		<item>purificación</item>
+		<item>medida de capacidad</item>
+		<item>diagonal|oblicuo|inclinado</item>
+		<item>hacha|antigua medida de peso</item>
+		<item>rechazar|repeler|ahuyentar</item>
+		<item>distribuir|dar primeros auxilios</item>
+		<item>rotar|girar|dar vueltas</item>
+		<item>anteriormente|previo|pasado</item>
+		<item>delicioso|principio|habilidoso</item>
+		<item>periodo de 10 días|decamerón</item>
+		<item>descendientes|progenie</item>
+		<item>elevarse|levantar|alzar</item>
+		<item>esto|justo|correcto</item>
+		<item>universal|amplio|general</item>
+		<item>chispa|destello|brillo|cristalizar</item>
+		<item>amanecer|aurora|madrugada</item>
+		<item>tiempo libre|descanso|ocio</item>
+		<item>calendario|almanaque</item>
+		<item>temporalmente|un rato|un momento</item>
+		<item>nublado</item>
+		<item>renovar|cambiar|anochecerse</item>
+		<item>cadete|amigo</item>
+		<item>intercambio|sustituir|convertir</item>
+		<item>nosotros|nos</item>
+		<item>bermellón|rojo oscuro</item>
+		<item>simple|sencillo|natural</item>
+		<item>decadencia|descomponerse|pudrirse</item>
+		<item>cedro</item>
+		<item>vaso|taza|contador de tazas|contador de pulpos</item>
+		<item>cortar|dividir|romper</item>
+		<item>marco|armazón|alcance|rango</item>
+		<item>bisagra|pivote|eje</item>
+		<item>marchitar|molograr|decaer|secarse</item>
+		<item>estante|montar|construir|colgar</item>
+		<item>diseño|patrón|figura</item>
+		<item>tal|cierta persona|fulano</item>
+		<item>tierno|blando|suave</item>
+		<item>sauce|mimbre</item>
+		<item>corcho|tapón|perno|enchufe</item>
+		<item>núcleo|centro|semilla</item>
+		<item>plantación|siembra</item>
+		<item>durazno|melocotón</item>
+		<item>mora</item>
+		<item>muelle|armazón|andamio</item>
+		<item>abandonar|desechar|descartar</item>
+		<item>pieza de ajedrez|ajedrez japonés</item>
+		<item>estante|repisa</item>
+		<item>alero de tejado</item>
+		<item>ataúd|féretro</item>
+		<item>atalaya|torreón|mirador</item>
+		<item>situación|condición|aproximadamente</item>
+		<item>tanque|cisterna|tina</item>
+		<item>columna de periódico|espacio|pasamanos</item>
+		<item>europa</item>
+		<item>engaño|trampa|mentir</item>
+		<item>renombre|sinceridad|contrato</item>
+		<item>delicia|alegría|felicidad</item>
+		<item>edad|año</item>
+		<item>martirio|sacrificio</item>
+		<item>particularmente|excepcionalmente|especialmente</item>
+		<item>incrementar|expandir|aumentar</item>
+		<item>asaltar|golpear</item>
+		<item>cáscara|casco|concha</item>
+		<item>Sr.|Sra.</item>
+		<item>sopa|caldo|salsa</item>
+		<item>transpiración|sudor</item>
+		<item>sucio|manchado|difamar</item>
+		<item>bahía|ensenada|gran río</item>
+		<item>hundido|deprimido|desanimado|sumergido</item>
+		<item>alta mar|costa afuera|ascender</item>
+		<item>ahogarse|hundirse|morir|excluir</item>
+		<item>pantano|beneficio|brillo|muchos</item>
+		<item>hervir|bullir|cocer</item>
+		<item>pantano|estanque|lago</item>
+		<item>por supuesto|situación|condición</item>
+		<item>alojarse|pernoctar|hospedarse</item>
+		<item>secretar|rezumar</item>
+		<item>burbuja|espuma</item>
+		<item>fango|cieno|barro</item>
+		<item>tailandia|pacífico|calma|tranquilidad</item>
+		<item>guarida|hueco|excavación</item>
+		<item>puerto|inundado|transbordador</item>
+		<item>inundación|diluvio|corriente</item>
+		<item>limpio|puro|inocente</item>
+		<item>costa|litoral|playa</item>
+		<item>bahía|golfo|ensenada</item>
+		<item>vagar|fluctuación|onda|ola</item>
+		<item>flotar|salir a la superficie</item>
+		<item>inmerso|remojar|empapar</item>
+		<item>lágrima|compasión</item>
+		<item>horizonte|límite|extremo|orilla</item>
+		<item>refrescante|fresco|agradable</item>
+		<item>gracioso|gentil</item>
+		<item>diluido|pálido|fugaz</item>
+		<item>adjunto|anexo|añadir</item>
+		<item>sed|seco|reseco</item>
+		<item>cruzar|vadear|indagar|relacionar</item>
+		<item>austero|renuente|tacaño</item>
+		<item>valle|arroyo de montaña</item>
+		<item>transitar|cruzar|emigrar</item>
+		<item>remolino|vórtice</item>
+		<item>golfo|bahía|ensenada</item>
+		<item>mojar|humedecer</item>
+		<item>alcantarilla|desagüe|zanja</item>
+		<item>fundir|derretir|disolver</item>
+		<item>destruir|demoler|estropear</item>
+		<item>nutritivo|florecer</item>
+		<item>resbalar|deslizar</item>
+		<item>cascada|catarata|rápidos</item>
+		<item>estancarse|atrasarse</item>
+		<item>goteo|gotear</item>
+		<item>ir a la deriva|flotar|divagar</item>
+		<item>laca|barniz</item>
+		<item>filtración|fuga|escape|gotera</item>
+		<item>desierto|vacío|incierto|vago</item>
+		<item>relajado|flojo|involuntariamente</item>
+		<item>pepinillo|encurtir|remojar</item>
+		<item>regularmente|gradualmente|constantemente</item>
+		<item>ocultarse|esconderse|silenciar</item>
+		<item>laguna</item>
+		<item>húmedo|provecho|encanto</item>
+		<item>lucidez|aclarar|asentarse</item>
+		<item>turbiedad|suciedad|tergiversar</item>
+		<item>concentrado|espeso|tupido</item>
+		<item>excesivo|desbordamiento|arbitrariamente</item>
+		<item>lavar|enjuagar</item>
+		<item>rápidos|torrente|corriente de agua</item>
+		<item>fundición|horno|chimenea</item>
+		<item>cocinar|cocer|hervir</item>
+		<item>inflamación|llamarada|quemar</item>
+		<item>causa|razón|ocurrir|hacer</item>
+		<item>violento|cruel|furioso</item>
+		<item>carbonizar|chamuscar|quemar</item>
+		<item>humo|humear|fumarola</item>
+		<item>angustia|ansiedad|problema|preocupación</item>
+		<item>hervir|cocer</item>
+		<item>secar|resecar</item>
+		<item>explotar|estallar|reventar</item>
+		<item>linaje|título nobiliario</item>
+		<item>sacrificio|víctima|ofrenda</item>
+		<item>sacrificio|víctima|chivo expiatorio</item>
+		<item>lunático|loco|demente|locura</item>
+		<item>caza|cacería</item>
+		<item>apretado|estrecho|angosto</item>
+		<item>fiereza|salvaje|valiente</item>
+		<item>caza|cacería</item>
+		<item>gato</item>
+		<item>ofrenda|oferta|dedicar|contador de bebidas</item>
+		<item>además|todavía|dudar</item>
+		<item>mono|simio</item>
+		<item>prisión|cárcel</item>
+		<item>animal|bestia|res</item>
+		<item>agarrar|conseguir|adquirir</item>
+		<item>misterioso|oculto|oscuro</item>
+		<item>raro|extraño|anormal</item>
+		<item>perla|gema|joya</item>
+		<item>arpa japonesa</item>
+		<item>eslabón|anillo|giro</item>
+		<item>sello imperial</item>
+		<item>botella|frasco|jarra</item>
+		<item>dulce|sabroso|consentir|mimar</item>
+		<item>tremendamente|intenso|grave</item>
+		<item>armadura|caparazón|voz alta</item>
+		<item>dique|orilla</item>
+		<item>ganado|animal de granja</item>
+		<item>surco|cordillera|costilla</item>
+		<item>esterilla de tatami|apilar|montón|contador de tatamis</item>
+		<item>descuidar|rehuir|alienar</item>
+		<item>epidémico|epidemia</item>
+		<item>cansarse|fátiga|exhausto</item>
+		<item>enfermedad|violento|rápidamente</item>
+		<item>síntoma|señal|enfermedad</item>
+		<item>viruela|sífilis</item>
+		<item>diarrea</item>
+		<item>tonto|estúpido</item>
+		<item>cicatrizar|sanar|curar</item>
+		<item>cicatrización|curación</item>
+		<item>hábito|vicio|manía</item>
+		<item>todo|todos</item>
+		<item>cuenco|bandeja</item>
+		<item>robar|robo</item>
+		<item>supervisar|administrar|controlar</item>
+		<item>bandeja|tablero|plato grande</item>
+		<item>ciego|analfabeto|irresponsable</item>
+		<item>escudo|pretexto</item>
+		<item>tener sueño|somnoliento|dormir</item>
+		<item>mirar|observar|escudriñar</item>
+		<item>somnolencia|dormitar</item>
+		<item>instruir|controlar|entrenar|ordenar</item>
+		<item>momento|instante</item>
+		<item>armas|alabarda</item>
+		<item>rectificar|corregir|enderezar</item>
+		<item>aplastar|destrozar|despedazar</item>
+		<item>cañón|pistola</item>
+		<item>nitrato|pólvora</item>
+		<item>azufre|ácido sulfúrico</item>
+		<item>duro|tieso|rígido</item>
+		<item>juego de go</item>
+		<item>lápida|mausoleo</item>
+		<item>pulir|lavarse los dientes|abrillantar</item>
+		<item>acantilado|arrecife|escollo</item>
+		<item>piedra angular|fundamento</item>
+		<item>rezar|plegaria|orar</item>
+		<item>bienestar|felicidad|bendición</item>
+		<item>prometedor|buen augurio</item>
+		<item>zen|meditación</item>
+		<item>calamidad|desgracia|infortunio</item>
+		<item>excelencia|sobresaliente</item>
+		<item>tarifa|impuestos|tributo</item>
+		<item>regularidad|orden|rango</item>
+		<item>apelativo|llamar|nombrar|alabar</item>
+		<item>inmaduro|niñez|joven</item>
+		<item>planta de arroz</item>
+		<item>ganancias|sueldo|ganarse lav vida</item>
+		<item>esbozo|borrador|manuscrito</item>
+		<item>espiga|cresta de la ola</item>
+		<item>calma|tranquilo|moderación|silencioso</item>
+		<item>cosecha|recolectar</item>
+		<item>colisión|empujar|repentino|súbito</item>
+		<item>sigilo|cautela|robo</item>
+		<item>nitrógeno|obstruir|taponar</item>
+		<item>finalizar|acabar|llevar al extremo</item>
+		<item>horno</item>
+		<item>dragón</item>
+		<item>borde|filo|extremo|justo|correcto</item>
+		<item>talismán|signo|señal</item>
+		<item>cilindro|tubo</item>
+		<item>contador de objetos</item>
+		<item>patrón|modelo|ejemplo</item>
+		<item>ferviente|genuino|sincero|serio</item>
+		<item>registrar|libro de notas</item>
+		<item>alistarse|inscripción|membresía</item>
+		<item>estilo|elegancia|chic</item>
+		<item>gota|grano|contador de partículas</item>
+		<item>tosco|burdo|rudo</item>
+		<item>perseverancia|pegajoso|tenacidad</item>
+		<item>solemne|respetuoso|severo</item>
+		<item>cosméticos|maquillarse|embellecerse</item>
+		<item>provisiones|comestibles|alimento</item>
+		<item>retorcer|enredar|investigar|examinar</item>
+		<item>blasón|insignia</item>
+		<item>confundir|distraer|ambiguo|difuminado</item>
+		<item>hilar|hilado</item>
+		<item>cordón|soga|disperso</item>
+		<item>púrpura|violeta</item>
+		<item>acumular|apilar|repetidamente</item>
+		<item>señor|caballero|noble</item>
+		<item>introducir|presentar|heredar</item>
+		<item>índigo|azul marino</item>
+		<item>estrujar|contraer|torcer</item>
+		<item>entrelazar|enredar|ser envuelto</item>
+		<item>heredar|sucesión|pariente político</item>
+		<item>fibra|cuerda|soga|énfasis</item>
+		<item>cordón|cuerda|soga|categoría</item>
+		<item>redes|mallas|emboscada</item>
+		<item>tensar|apretar|estricto|urgente</item>
+		<item>hilo|cuerda de instrumento musical|principio</item>
+		<item>apretado|amarrar|abrochar|liar</item>
+		<item>aflojarse|disminuir|mitigado|aliviado</item>
+		<item>horizontal|latitud|paralelo</item>
+		<item>afinidad|conexión|relación|frontera</item>
+		<item>soga|cordón</item>
+		<item>atar|amarrar|contener|arrestar</item>
+		<item>bordar|zurcir|coser</item>
+		<item>lujoso|exuberante|próspero|complejo</item>
+		<item>esbelto|delgado|fino|hilo</item>
+		<item>zurcido|remendar|reparar|restaurar</item>
+		<item>capullo|gusano de seda</item>
+		<item>sinuoso|ovillar|devanar</item>
+		<item>lata|envase|hervidor</item>
+		<item>penalidad|castigo</item>
+		<item>retirar|dejar|abandonar</item>
+		<item>gasa|compresa|roma</item>
+		<item>anciano</item>
+		<item>voltear|invertir|modificar|cambiar de opinión</item>
+		<item>ala|ayudar</item>
+		<item>resistir|soportar|aguantar</item>
+		<item>decrecer|disminuir|gastarse</item>
+		<item>escuchar</item>
+		<item>textura|cuero|piel|cutis</item>
+		<item>semejanza|parecido|imitar|copiar</item>
+		<item>hígado|ánimo|punto vital</item>
+		<item>extremidades|brazos y piernas</item>
+		<item>hombro</item>
+		<item>obeso|gordo|grueso</item>
+		<item>acuerdo|admitir|asentir|consentimiento</item>
+		<item>nervio|vesícula biliar</item>
+		<item>útero|feto|concebir</item>
+		<item>placenta|vaina</item>
+		<item>torso|tronco</item>
+		<item>grasa|sebo|resina</item>
+		<item>amenazar|coaccionar</item>
+		<item>pie|pierna|posición</item>
+		<item>desvestirse|quitarse|omitir</item>
+		<item>dilatar|hinchar|exceder</item>
+		<item>pudrirse|descomponerse|agriarse</item>
+		<item>brazo|talento|habilidad</item>
+		<item>caderas|anca|lomo</item>
+		<item>piel|cutis|textura</item>
+		<item>membrana</item>
+		<item>hincharse|inflarse</item>
+		<item>apestar|oler mal|hedor</item>
+		<item>causar|ejercer|hacer</item>
+		<item>pavimento|tienda|almacén</item>
+		<item>danza|baile|revoloteo</item>
+		<item>bote|barco</item>
+		<item>generalmente|similar|tiempo</item>
+		<item>buque|barco|trasatlántico</item>
+		<item>bote de remos</item>
+		<item>barco de guerra|acorazado</item>
+		<item>papa|patata</item>
+		<item>césped|hierba</item>
+		<item>perfume|aroma|fragancia</item>
+		<item>retoño|vastago|siembra</item>
+		<item>tupido|frondoso|exuberante</item>
+		<item>caña|raíz|tallo</item>
+		<item>salvaje|violento|rudo|áspero</item>
+		<item>villa|posada|solemne</item>
+		<item>crisantemo</item>
+		<item>germen|bacteria|hongo</item>
+		<item>dulces|caramelos|confites|pasteles</item>
+		<item>pétalo|flor|esplendor</item>
+		<item>entierro|enterrar</item>
+		<item>acumular|ahorrar|almacenar</item>
+		<item>diluirse|desvanecerse|debilitarse|palidecer</item>
+		<item>recomendar|aconsejar</item>
+		<item>combustible|leña</item>
+		<item>aromático|fragancia</item>
+		<item>clan feudal</item>
+		<item>alga marina</item>
+		<item>tiranizar|oprimir</item>
+		<item>nulo|vacío|vano</item>
+		<item>cautivo|prisionero|apresar</item>
+		<item>desasosiego|preocupación|aprensión</item>
+		<item>mosquito</item>
+		<item>serpiente</item>
+		<item>luciérnaga</item>
+		<item>bárbaro|violento|extranjero</item>
+		<item>disolver|derretir</item>
+		<item>colisionar|chocar|punto clave</item>
+		<item>balanza|peso|escala</item>
+		<item>declinar|rehusar|menguar</item>
+		<item>sinceridad|corazón</item>
+		<item>bolsa|saco</item>
+		<item>provocar|cargarse|sufrir perdidas</item>
+		<item>desgarrar|hendidura|escisión</item>
+		<item>abundante|fértil|rico</item>
+		<item>desnudo|descubierto</item>
+		<item>pardo|marrón</item>
+		<item>elogiar|alabar</item>
+		<item>pensamiento|corazón|solapa|cuello</item>
+		<item>atacar|sorprender|avance</item>
+		<item>volcar|tumbar|cubrir</item>
+		<item>hegemonía|supremacía|liderazgo</item>
+		<item>contacto|tocar|percibir|anunciar</item>
+		<item>revisar|corregir</item>
+		<item>consigna|confiar algo a</item>
+		<item>demandar|acusar|declarar</item>
+		<item>acusar|denunciar|demandar</item>
+		<item>revisar|examinar|diagnosticar</item>
+		<item>mentira|engañar|fingir|falsedad</item>
+		<item>edicto imperial</item>
+		<item>recitar|poesía|composición</item>
+		<item>empacar|rellenar|reprender|reprobar</item>
+		<item>citado anteriormente|lo dicho</item>
+		<item>detallado|minucioso</item>
+		<item>presumir|ostentar|alardear|orgullo</item>
+		<item>reputación|crédito|gloria</item>
+		<item>venia|voto|juramento</item>
+		<item>invitar|tentar|atraer</item>
+		<item>solicitar|rogar|pedir</item>
+		<item>reprender|amonestar|persuadir</item>
+		<item>consultar con|consejo</item>
+		<item>consentimiento|acuerdo</item>
+		<item>conspirar|planear|estratagema</item>
+		<item>audiencia</item>
+		<item>copiar|transcribir</item>
+		<item>modesto|humilde</item>
+		<item>canto noh</item>
+		<item>discreto|humilde|respetuoso</item>
+		<item>escala musical|nota|registro</item>
+		<item>aplazar|transferir|conceder</item>
+		<item>cerdo|puerco|cochino</item>
+		<item>poderoso|avallasador|agobiante</item>
+		<item>justo|recto|constante</item>
+		<item>tributar|financiar</item>
+		<item>mercado|comerciar|vender</item>
+		<item>traspasar|perforar|cumplir|desempeñar</item>
+		<item>soborno|cohecho</item>
+		<item>asaltante|ladrón|traidor</item>
+		<item>persona importante|invitado importante</item>
+		<item>conceder|otorgar</item>
+		<item>compensación|indemnización</item>
+		<item>inteligente|sabio|ingenioso</item>
+		<item>impuesto|arancel|tributo</item>
+		<item>suscripción|compra</item>
+		<item>regalar|ofrecer</item>
+		<item>perdón|perdonar</item>
+		<item>proceder|apresurarse|convertirse en</item>
+		<item>trascender|sobrepasar|sobresalir</item>
+		<item>cruzar|moverse|exceder</item>
+		<item>esencial|sentido|significado</item>
+		<item>larga distancia|distante|separar</item>
+		<item>huella|señal|marca</item>
+		<item>saltar|volar</item>
+		<item>pisar|dar un paso</item>
+		<item>bailar|saltar</item>
+		<item>pisar|pisotear</item>
+		<item>saltar|brincar|alzarse</item>
+		<item>surco|vía|ejemplo</item>
+		<item>alto|contador para casas</item>
+		<item>suave|débil|flojo</item>
+		<item>eje|pivote|péndulo</item>
+		<item>contraste|comparar</item>
+		<item>conducir|llevar|poner sobre</item>
+		<item>radiación|resplandor|destello</item>
+		<item>camarada|compañero|colega</item>
+		<item>control|dirección</item>
+		<item>picante|amargo|severo</item>
+		<item>avergonzar|humillar|desgracia</item>
+		<item>abarrotar|llenarse|incluir|meter</item>
+		<item>veloz|rápido</item>
+		<item>bienvenida|recibir|ir a recibir</item>
+		<item>acosar|acercarse|atormentar</item>
+		<item>transferir|alternacia|turno</item>
+		<item>escaparse|huir|fugarse</item>
+		<item>penetrar|filtrar|transparente</item>
+		<item>perseguir|cazar</item>
+		<item>relevo|por turnos|alternadamente</item>
+		<item>ruta|carretera|camino</item>
+		<item>difunto|fallecer|morir</item>
+		<item>apresar|detener|perseguir</item>
+		<item>desviar|eludir|excepcional|excelente</item>
+		<item>consumar|cumplir|llevar a cabo</item>
+		<item>lento|retrasado|llegar tarde</item>
+		<item>entrevista|hospitalidad|encuentro por casualidad</item>
+		<item>por doquier|amplio|general|contador de veces</item>
+		<item>discrepar|diferir|alterar</item>
+		<item>despachar|enviar|donar</item>
+		<item>encuentro|reunirse|toparse</item>
+		<item>interceptar|obstruir|interrumpir</item>
+		<item>acatar|obedecer|seguir</item>
+		<item>transición|transferencia|traslado</item>
+		<item>evadir|esquivar|eludir</item>
+		<item>devolver|volver|regresar</item>
+		<item>país de origen|tierra natal</item>
+		<item>malvado|injusticia|equivocación</item>
+		<item>residencia|mansión</item>
+		<item>afueras|suburbios|área rural</item>
+		<item>hijo|hombre|sirviente</item>
+		<item>recinto|cerco|fortificación</item>
+		<item>trabajar de camarero|servir sake|bombear</item>
+		<item>borracho|marearse</item>
+		<item>vinagre|agrio|ácido</item>
+		<item>productos lácteos|productos de uso diario</item>
+		<item>pagar|recompensa|retribución</item>
+		<item>fermentación</item>
+		<item>crueldad|injusticia|atrocidad</item>
+		<item>feo|vergüenza|mal aspecto</item>
+		<item>fabricar|hacer|elaborar cerveza</item>
+		<item>explicación|interpretación|perdón|buda</item>
+		<item>pesca con caña|colgar</item>
+		<item>torpe|pesado|atascarse|obtuso</item>
+		<item>campanilla|timbre</item>
+		<item>plomo</item>
+		<item>tazón|cuenco|chique de cabezas</item>
+		<item>arma|pistola|rifle</item>
+		<item>lingote de hierro|mineral</item>
+		<item>inscripción|firma de artesano</item>
+		<item>puntiagudo|afilado|borde</item>
+		<item>fundir|acuñar</item>
+		<item>plomo|peso|huso</item>
+		<item>cerradura|grilletes|pastilla</item>
+		<item>disciplinar|pulir|refinar</item>
+		<item>confundirse|equivocarse|mezclarse</item>
+		<item>entrenar|disciplinar|forjar</item>
+		<item>cadena|conexión|cerrar</item>
+		<item>tranquilizar|calmar|calmado</item>
+		<item>campana</item>
+		<item>especimen|modelo|ejemplo|sello</item>
+		<item>ocio|tiempo libre</item>
+		<item>banda|clan|pandilla|facción</item>
+		<item>examen|revisión|inspección</item>
+		<item>pelear|luchar|combatir</item>
+		<item>frustrar|impedir|obstruir</item>
+		<item>anexar|adjuntar|adherir</item>
+		<item>ejército|rango militar</item>
+		<item>colapsar|derrumbarse|caer|hundirse</item>
+		<item>seguir|acompañar|compañero</item>
+		<item>sombra|oculto|negativo</item>
+		<item>exhibir|exponer|desplegar</item>
+		<item>mausoleo|tumba|cumbre</item>
+		<item>alfarería|porcelana|diversión</item>
+		<item>esquina|rincón</item>
+		<item>montículo|giba|próspero|floreciente</item>
+		<item>seguir|sin embargo|complacer|acompañar</item>
+		<item>aislar|excluir|separación|quedar fuera</item>
+		<item>esconder|cubrir|ocultar</item>
+		<item>colindar|vecino</item>
+		<item>esclavo|sirviente</item>
+		<item>embarcaciones|contador para barcos</item>
+		<item>macho|masculino|varón</item>
+		<item>elegante|refinado|gracioso</item>
+		<item>emplear|contratar</item>
+		<item>femenino|hembra</item>
+		<item>separar|apartar</item>
+		<item>atmósfera|niebla|sensación</item>
+		<item>nada|pequeño|cero|derramar</item>
+		<item>relámpago|trueno|rayo</item>
+		<item>demanda|petición|solicitud</item>
+		<item>sacudir|temblar|estremecerse</item>
+		<item>alma|espíritu|dios</item>
+		<item>escarcha|blanco|tiempo</item>
+		<item>niebla|neblina</item>
+		<item>exponer|mostrar|rocío|rusia</item>
+		<item>zapatos</item>
+		<item>ritmo|rima|tono|elegancia</item>
+		<item>vibrar|resonar|eco</item>
+		<item>párrafo|articulo|cláusula|tema</item>
+		<item>terco|testarudo|obstinado</item>
+		<item>dividir|distribuir</item>
+		<item>frecuentemente|repetidamente</item>
+		<item>depender de|confiar en|solicitar</item>
+		<item>aparecer|aclararse|distinguido</item>
+		<item>reflejarse|reflexionar|repasar|revisar|mirar hacia atrás</item>
+		<item>hambriento|hambre</item>
+		<item>aburrirse|cansarse de|saciarse</item>
+		<item>decorar|adornar|ornamentar</item>
+		<item>hambriento|hambre</item>
+		<item>aroma|fragancia|perfume|incienso</item>
+		<item>carga|aburrido</item>
+		<item>galopar|avanzar</item>
+		<item>aparcar|permanecer en</item>
+		<item>ecuestre|jinete|montar a caballo</item>
+		<item>bullicio|tumulto|hacer ruido</item>
+		<item>levantar|ascender</item>
+		<item>maravilla|sorprenderse|asombro</item>
+		<item>médula|meollo</item>
+		<item>cabello|pelo</item>
+		<item>ogro|demonio|fantasma</item>
+		<item>alma|espíritu|corazón</item>
+		<item>fascinación|encanto</item>
+		<item>demonio|espíritu maligno</item>
+		<item>fresco|reciente|corea</item>
+		<item>ballena</item>
+		<item>gallina|pollo|gallo</item>
+		<item>lindo|bonito|precioso</item>
+		<item>cáñamo|lino|entumecerse</item>
+		<item>silencio|callarse</item>
+		<item>tambor|animar|golpeo</item>
+		<item>edad|años</item>
+	</string-array>
+</resources>

@@ -1,0 +1,1949 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="kanji_kunyomi_array">
+		<item>ひと|ひとつ</item>
+		<item>なな|ななつ|なの</item>
+		<item>みつ</item>
+		<item>うえ|かみ|うわ</item>
+		<item>した|しも</item>
+		<item>なか</item>
+		<item>ここのつ</item>
+		<item>ふたつ</item>
+		<item>いつつ</item>
+		<item>ひと</item>
+		<item>やす.む</item>
+		<item>さき</item>
+		<item>いる|はいる</item>
+		<item>やつ|よう</item>
+		<item>むつ</item>
+		<item>まるい</item>
+		<item>でる</item>
+		<item>ちから</item>
+		<item>とお</item>
+		<item>ち</item>
+		<item>くち</item>
+		<item>みぎ</item>
+		<item>な</item>
+		<item>よん|よ</item>
+		<item>つち</item>
+		<item>ゆう</item>
+		<item>おおきい</item>
+		<item>あま</item>
+		<item>おんな</item>
+		<item>こ</item>
+		<item>あざ</item>
+		<item>まなぶ</item>
+		<item>ちさい.い</item>
+		<item>やま</item>
+		<item>かわがわ.</item>
+		<item>ひだり</item>
+		<item>とし</item>
+		<item>て</item>
+		<item>ふみ</item>
+		<item>ひ|か</item>
+		<item>はやい|はや.める|はや.まる</item>
+		<item>つき</item>
+		<item>き|こ</item>
+		<item>もと</item>
+		<item>むら</item>
+		<item>はやし</item>
+		<item> </item>
+		<item>もり</item>
+		<item>ただ.し|まさ.に|まさ|ただ.す</item>
+		<item>いき</item>
+		<item>みず</item>
+		<item>ひ</item>
+		<item>いぬ</item>
+		<item>たま|たま-|-だま</item>
+		<item> </item>
+		<item>なま|いき.る|うまれ.る|お.う</item>
+		<item>た</item>
+		<item>おとこ</item>
+		<item>まち</item>
+		<item>しろ.い</item>
+		<item>もも</item>
+		<item>め</item>
+		<item>いし</item>
+		<item>そら|から|ける</item>
+		<item>た.つ</item>
+		<item>たけ</item>
+		<item>いと</item>
+		<item>みみ</item>
+		<item>はな</item>
+		<item>くさ</item>
+		<item>むし</item>
+		<item>み.る</item>
+		<item>かい</item>
+		<item>あか</item>
+		<item>あし</item>
+		<item>くるま</item>
+		<item>かね</item>
+		<item>あめ</item>
+		<item>あお</item>
+		<item>おと</item>
+		<item>よろず</item>
+		<item>まる</item>
+		<item>まじ.わる|まじ.える</item>
+		<item>みやこ</item>
+		<item>いま</item>
+		<item>あ.う</item>
+		<item>からだ</item>
+		<item>なに|なん</item>
+		<item>つく.る</item>
+		<item>もと</item>
+		<item>あに</item>
+		<item>ひかり</item>
+		<item>おおやけ</item>
+		<item>うち</item>
+		<item>ふゆ</item>
+		<item>かたな</item>
+		<item>わける</item>
+		<item>きる</item>
+		<item>まえ</item>
+		<item>きた</item>
+		<item>うま</item>
+		<item>なかば</item>
+		<item>みなみ</item>
+		<item>はら</item>
+		<item>とも</item>
+		<item>ふるい</item>
+		<item>われ|うてな|つかさ</item>
+		<item>あ.う</item>
+		<item>おな.じ</item>
+		<item>まわる</item>
+		<item>はか.る|え</item>
+		<item>くに</item>
+		<item>その</item>
+		<item>どま</item>
+		<item>ば</item>
+		<item>こえ</item>
+		<item>うる</item>
+		<item>なつ</item>
+		<item>そと|ほか</item>
+		<item>おおい</item>
+		<item>よる</item>
+		<item>ふと.い</item>
+		<item>いもおと</item>
+		<item>あね</item>
+		<item>むろ</item>
+		<item>いえ|うち</item>
+		<item>てら</item>
+		<item>すこ.し</item>
+		<item>いわ</item>
+		<item> </item>
+		<item>いち</item>
+		<item>かえ.る|とつ.ぐ</item>
+		<item>ひろ</item>
+		<item>みせ</item>
+		<item>ゆみ</item>
+		<item>ひ.く</item>
+		<item>おとおと</item>
+		<item>よわ.い|よわ.る</item>
+		<item>つよ.い</item>
+		<item>あ.たる|まさ.に</item>
+		<item>かた|かたら|なり</item>
+		<item>うしろ|のち</item>
+		<item>こころ</item>
+		<item>おもう</item>
+		<item>と</item>
+		<item> </item>
+		<item>おし.える|おそ.わる</item>
+		<item>かず|かぞ.える</item>
+		<item>にい‐|あたら.しい|あら.た　</item>
+		<item>かた</item>
+		<item>あかるい|あかす|あける|あきらか|あけ</item>
+		<item>ほし</item>
+		<item>はる</item>
+		<item>ひる</item>
+		<item>とき</item>
+		<item>はらす|はれる</item>
+		<item> </item>
+		<item>か.く</item>
+		<item>あさ</item>
+		<item>く.る</item>
+		<item>ひがし|あずま</item>
+		<item>たの.しい|たの.しむ</item>
+		<item>うた</item>
+		<item>とま.る</item>
+		<item>ある.く</item>
+		<item>はは.も</item>
+		<item>ごと</item>
+		<item>け</item>
+		<item>いけ</item>
+		<item> </item>
+		<item>い.かす|い.ける|い.きる</item>
+		<item>うみ</item>
+		<item>つ.ける|とば.す|た.てる|さ.す|つ.く</item>
+		<item>ちち</item>
+		<item>うし</item>
+		<item>ことわり</item>
+		<item>もち.いる</item>
+		<item>はか.る|えが.く|かく.する|かぎ.る</item>
+		<item>つが.い</item>
+		<item>す.ぐ|なお.る|なお.す|ただ.ちに</item>
+		<item>や</item>
+		<item>し.る|し.らせる</item>
+		<item>やしる</item>
+		<item>あき|とき</item>
+		<item> </item>
+		<item>こた.え</item>
+		<item>そろ</item>
+		<item>こめ</item>
+		<item>かみ</item>
+		<item>ほそ.い|こま.かい</item>
+		<item>くみ</item>
+		<item> </item>
+		<item>すじ</item>
+		<item>はね|は|わ</item>
+		<item>かんがえる</item>
+		<item>き.く</item>
+		<item>しし</item>
+		<item>みずから</item>
+		<item>ふね|ふな</item>
+		<item>いろ</item>
+		<item>ちゃ</item>
+		<item>い.く|おこな.う|ゆ.く</item>
+		<item>にし</item>
+		<item>した.しむ|おや|した.しい</item>
+		<item>つの|かど</item>
+		<item>い.う</item>
+		<item>はか.る|はか.らう</item>
+		<item>しる.す</item>
+		<item>はな.す</item>
+		<item>かた.らう|かた.る</item>
+		<item>よ.む</item>
+		<item>たに|きわ.まる</item>
+		<item>か.う</item>
+		<item>はし.る</item>
+		<item>ちか.い</item>
+		<item>とお.る|かよ.う</item>
+		<item> </item>
+		<item>みち</item>
+		<item>とお.い</item>
+		<item>さと</item>
+		<item>の</item>
+		<item>なが.い|おさ</item>
+		<item>と|かど</item>
+		<item>あいだ|ま|あい</item>
+		<item>ゆき</item>
+		<item>くも</item>
+		<item> </item>
+		<item>あたま</item>
+		<item>かお</item>
+		<item>かぜ</item>
+		<item>た.べる</item>
+		<item>くび</item>
+		<item>うま|ま</item>
+		<item>たか|たか.い|たか.まる|たか.める</item>
+		<item>さかな</item>
+		<item>とり</item>
+		<item>な.らす|な.く|な.る</item>
+		<item>むぎ</item>
+		<item>き|こ</item>
+		<item>くろ.い</item>
+		<item>ひのと</item>
+		<item>よ</item>
+		<item>ふた.つ</item>
+		<item>おも|ぬし</item>
+		<item>の.る|の.せる</item>
+		<item>あらかじ.め</item>
+		<item>こと</item>
+		<item>つか.える</item>
+		<item>ほか</item>
+		<item>か.わる|よ</item>
+		<item>すむ</item>
+		<item>つか.う</item>
+		<item>かか.る</item>
+		<item> </item>
+		<item>まったく|すべて</item>
+		<item>そな.える|つぶさ.に</item>
+		<item>うつ.る</item>
+		<item> </item>
+		<item>たす.ける</item>
+		<item>つと.める</item>
+		<item>うご.く</item>
+		<item>か.つ</item>
+		<item>ばけ.る</item>
+		<item> </item>
+		<item>くすし|い.やす|い.する</item>
+		<item>さ.る</item>
+		<item>そ.る|かえ.る</item>
+		<item>とる</item>
+		<item>う.ける</item>
+		<item>よびな|さけ.ぶ</item>
+		<item>む.く|むか.える</item>
+		<item>きみ</item>
+		<item>あじ</item>
+		<item>いのち</item>
+		<item>やわらぐ</item>
+		<item>しな</item>
+		<item>いな</item>
+		<item>おきな.う</item>
+		<item>と.う</item>
+		<item>さか</item>
+		<item>おっと</item>
+		<item>はじめる</item>
+		<item>ゆだ.ねる</item>
+		<item>まもる</item>
+		<item>やすい</item>
+		<item>さだ.か|さだ.まる</item>
+		<item>みの.る|み</item>
+		<item> </item>
+		<item>みや</item>
+		<item>やど</item>
+		<item>さむ.い</item>
+		<item>こた.える|なら.ぶ|そろ.い|むか.う|おいて|つれお.い</item>
+		<item>つぼね</item>
+		<item>や</item>
+		<item>きし</item>
+		<item>しま</item>
+		<item>す</item>
+		<item>とばり</item>
+		<item>ひら|たい.ら</item>
+		<item>しあわ.せ|さち|さいわ.い</item>
+		<item>たぶ|-たい</item>
+		<item>くら</item>
+		<item>にわ</item>
+		<item> </item>
+		<item> </item>
+		<item>まつ</item>
+		<item>いそ.ぐ</item>
+		<item>いき</item>
+		<item>わる.い</item>
+		<item>かな.しい</item>
+		<item>おも.う</item>
+		<item> </item>
+		<item>かん.じる</item>
+		<item>ところ</item>
+		<item>う.つ|ぶつ</item>
+		<item>なげる</item>
+		<item>ひろ.う</item>
+		<item>も.つ|も.てる</item>
+		<item>ゆび</item>
+		<item>はな.つ</item>
+		<item>ととの.える|ととの.う</item>
+		<item>たび</item>
+		<item> </item>
+		<item>むかし</item>
+		<item> </item>
+		<item>あつ.い</item>
+		<item>くら.い</item>
+		<item>まが.る</item>
+		<item>あ.る</item>
+		<item> </item>
+		<item> </item>
+		<item>いた</item>
+		<item>はじら</item>
+		<item>ね</item>
+		<item>う.える|う.わる</item>
+		<item>わざ</item>
+		<item>さん|さま</item>
+		<item>よく</item>
+		<item>はし</item>
+		<item>つぎ|つぐ</item>
+		<item>よわい|は</item>
+		<item>し.ぬ</item>
+		<item>こおり|ひ</item>
+		<item>き.まる|さ.く</item>
+		<item>あぶら</item>
+		<item>なみ</item>
+		<item>さ.す|そそ.ぐ|つ.ぐ</item>
+		<item>およ.ぐ</item>
+		<item> </item>
+		<item>なが.す|なが.れる|なが.れ</item>
+		<item>き.える|け.す</item>
+		<item>ぶか.まる|み-|ふか.い</item>
+		<item>あたた.か|あたた.かい|あたた.まる|あたた.める</item>
+		<item>みなと</item>
+		<item>みずうみ</item>
+		<item>ゆ</item>
+		<item> </item>
+		<item>すみ</item>
+		<item>もの</item>
+		<item>たま</item>
+		<item>よし|よ.る</item>
+		<item>もう.す|さる</item>
+		<item> </item>
+		<item>はた|はたけ</item>
+		<item>やまい|や.む</item>
+		<item>はな.つ|あば.く|こ.る|た.つ|つか.わす</item>
+		<item>あ.がる|のば|る</item>
+		<item>かわ</item>
+		<item>さら</item>
+		<item>あい-</item>
+		<item>か.ける</item>
+		<item>まこと|ま</item>
+		<item>き.る|つ.ける|つ.く</item>
+		<item>みじか.い</item>
+		<item>と.ぐ</item>
+		<item> </item>
+		<item>かみ</item>
+		<item>まつり</item>
+		<item> </item>
+		<item> </item>
+		<item>きわ.める</item>
+		<item> </item>
+		<item>わらべ</item>
+		<item>ふえ</item>
+		<item> </item>
+		<item>ぶで</item>
+		<item>など|ひと.しい</item>
+		<item>はこ</item>
+		<item> </item>
+		<item>お.わる|わらべ</item>
+		<item>みどり</item>
+		<item>ね.り|ね.る</item>
+		<item>ひつじ</item>
+		<item>うつく.しい</item>
+		<item>なら.う</item>
+		<item>もの</item>
+		<item>はぐく.む|そた.ち|そだ.てる</item>
+		<item>にが.る|くる.しい</item>
+		<item>に</item>
+		<item>お.とす|お.ちる</item>
+		<item>は</item>
+		<item>くすり</item>
+		<item>ち</item>
+		<item>あらわ.す|おもて</item>
+		<item>うた</item>
+		<item>しら.べ|ととの.う</item>
+		<item> </item>
+		<item>まめ</item>
+		<item>お.う|ま.がす</item>
+		<item>おき.る|た.つ</item>
+		<item>みち</item>
+		<item>み</item>
+		<item>ころ.ぶ|まる.ぶ|うつ.る|くる.めく</item>
+		<item>かる.い</item>
+		<item> </item>
+		<item>かえ.る</item>
+		<item>お.う</item>
+		<item>おく.る</item>
+		<item>はや.い|すみ.やか</item>
+		<item>すす.む</item>
+		<item>あそ.ぶ</item>
+		<item>はこ.ぶ</item>
+		<item>-べ</item>
+		<item>みやこ</item>
+		<item>くば.る</item>
+		<item>さけ</item>
+		<item>おも.い|かさ.なる</item>
+		<item>くろがね</item>
+		<item>しろがね</item>
+		<item>あ.ける|ひら.く</item>
+		<item> </item>
+		<item>ひ</item>
+		<item>きざはし</item>
+		<item>あつ.まる|つど.う</item>
+		<item>つら|おもて|おも</item>
+		<item> </item>
+		<item>の.む</item>
+		<item>たて|やかた</item>
+		<item> </item>
+		<item>はな</item>
+		<item> </item>
+		<item>あらそ.う</item>
+		<item>つ.ける|つ.ぐ</item>
+		<item> </item>
+		<item>もっ.て</item>
+		<item>なか</item>
+		<item>つた.える</item>
+		<item>ぐらい|くらい</item>
+		<item>ひく.い</item>
+		<item>たと.えば|たと.える</item>
+		<item>たよ.り</item>
+		<item> </item>
+		<item>くら</item>
+		<item>そうろう</item>
+		<item>か.りる</item>
+		<item>と.まる|と.める</item>
+		<item>すこ.やか</item>
+		<item>そば|かわ</item>
+		<item>はたら.く</item>
+		<item> </item>
+		<item>きざ.す</item>
+		<item>こ</item>
+		<item>とも</item>
+		<item>つわもの</item>
+		<item> </item>
+		<item>つめ.たい|ひ.える|さ.ます</item>
+		<item>はじ.め|はつ</item>
+		<item>わか.れる</item>
+		<item>き.く</item>
+		<item>す.る|は.く</item>
+		<item> </item>
+		<item>いさお</item>
+		<item>くわ.える</item>
+		<item>つと.める</item>
+		<item>つか.れる|ねぎら|いたわ.る|ろう.する</item>
+		<item>いさ.む</item>
+		<item>つつ.む|くる.む</item>
+		<item>ついに|お.わる|にわか|そっ.する</item>
+		<item> </item>
+		<item>ひとえ</item>
+		<item> </item>
+		<item>しるし</item>
+		<item>みつ|まじわる|まい.る</item>
+		<item> </item>
+		<item>つかさど.る</item>
+		<item>おのおの</item>
+		<item>つ.げる</item>
+		<item>まわ.り</item>
+		<item>とな.える</item>
+		<item>よろこ.ぶ</item>
+		<item>うつわ</item>
+		<item>かこ.う</item>
+		<item>かた.い</item>
+		<item>かた</item>
+		<item> </item>
+		<item>しお</item>
+		<item> </item>
+		<item>か.わる</item>
+		<item> </item>
+		<item>うしな.う|な.くす</item>
+		<item>このむ|すき|よ.い|い.い</item>
+		<item> </item>
+		<item>まご</item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item>す|す.くう</item>
+		<item>さ.す|さ.し</item>
+		<item>まれ</item>
+		<item>むしろ</item>
+		<item>おび</item>
+		<item>そこ</item>
+		<item> </item>
+		<item> </item>
+		<item>た.てる|た.て</item>
+		<item>みち|さしわたし|ただちに|こみち</item>
+		<item>あだ|いたずら</item>
+		<item>え.る|う.る</item>
+		<item>かなら.ず</item>
+		<item> </item>
+		<item>いと.しい|め.でる|かな.しい|まな</item>
+		<item>な.る|な.す</item>
+		<item>いくさ|たたか.う|わなな.く|おのの.く|そよぐ</item>
+		<item>お.る</item>
+		<item>あ.げる|こぞ.る</item>
+		<item>あらた.める</item>
+		<item>すく.う</item>
+		<item>やぶ.れる</item>
+		<item>ち.る|ばら</item>
+		<item> </item>
+		<item>はた</item>
+		<item> </item>
+		<item> </item>
+		<item>もっと.も|つま</item>
+		<item>のぞ.む|のぞ.み</item>
+		<item>ひつじ|ま.だ|いま.だ</item>
+		<item>すえ</item>
+		<item>ぶだ</item>
+		<item> </item>
+		<item>たば|つか</item>
+		<item>まつ</item>
+		<item>は.てる|は.たす</item>
+		<item>は.える|さか.える</item>
+		<item>つくえ</item>
+		<item>うめ</item>
+		<item>かせ</item>
+		<item>きわ.み|き.まる</item>
+		<item>しるべ|しるし</item>
+		<item>はた</item>
+		<item>か.ける|か.く</item>
+		<item> </item>
+		<item>そこな.う|のこ.る</item>
+		<item>そ.ぐ|ころ.す</item>
+		<item> </item>
+		<item>うじ</item>
+		<item>たみ</item>
+		<item>もと.める</item>
+		<item>なお.る|おさ.める</item>
+		<item>のり</item>
+		<item>な.く</item>
+		<item>あさ.い</item>
+		<item>あ.びる</item>
+		<item>きよ.い|きよ.まる</item>
+		<item>み.らる|み.つ|み.たす</item>
+		<item>あさ.る</item>
+		<item>あかり|ひ|ともしび|とも.す</item>
+		<item>な.い</item>
+		<item>しか.り|さ|しか</item>
+		<item>や.く</item>
+		<item>て.らす</item>
+		<item>あつ.い</item>
+		<item>まき</item>
+		<item> </item>
+		<item>う.む|う.まれる</item>
+		<item>まと</item>
+		<item>はぶ.く|かえり.みる</item>
+		<item>いわ.う</item>
+		<item> </item>
+		<item>たね|-ぐさ</item>
+		<item>つ.もる</item>
+		<item>きそ.う|せ.る</item>
+		<item>わら.う|え.む</item>
+		<item>くだ</item>
+		<item>ふし|のっと</item>
+		<item>こな|こ</item>
+		<item> </item>
+		<item>つづ.まる|つづ.やか</item>
+		<item>ゆ.わえる|ゆ.う|むす.ぶ</item>
+		<item>たま.う|たも.う</item>
+		<item>つぐ.ない|つづ.く|つづ.ける</item>
+		<item>お.く</item>
+		<item>ふ.ける|お.いる</item>
+		<item> </item>
+		<item>すじ</item>
+		<item>はらわた</item>
+		<item> </item>
+		<item> </item>
+		<item>い.い|よ.い</item>
+		<item>わざ|のり|う.える</item>
+		<item>め</item>
+		<item>はなぶさ</item>
+		<item>な</item>
+		<item>まち</item>
+		<item>ころも|きめ</item>
+		<item>かなめ|い.る</item>
+		<item>おぼ.える|さと.る|さ.ます|さ.める</item>
+		<item>しめ.す|み.る</item>
+		<item>くん.する|よ.む|おし.える</item>
+		<item>ため.す|こころ.みる</item>
+		<item>と.く</item>
+		<item> </item>
+		<item> </item>
+		<item>かたど.る</item>
+		<item>たから</item>
+		<item>たくわ.える|た.める</item>
+		<item>つい.える|つい.やす</item>
+		<item>ほ.める</item>
+		<item> </item>
+		<item>わ</item>
+		<item>いな.む|や.める</item>
+		<item>ほと.り|おた.り</item>
+		<item>つら.ねる|つ.れる|つら.なる</item>
+		<item>-たち</item>
+		<item>えら.ぶ</item>
+		<item>こうり</item>
+		<item>はか.る</item>
+		<item>しるす</item>
+		<item>かがみ</item>
+		<item>かか.わる|せき|からくり|かんめき</item>
+		<item>おか</item>
+		<item> </item>
+		<item>しず.か|しず.まる</item>
+		<item> </item>
+		<item>ねが.う</item>
+		<item>たぐ.い</item>
+		<item>と.ぶ</item>
+		<item>めし</item>
+		<item>やしな.う</item>
+		<item>ため.す|ためし|あかし|しるし</item>
+		<item>ひさ.しい</item>
+		<item>ほとけ</item>
+		<item>かり</item>
+		<item>くだん</item>
+		<item>まか.す</item>
+		<item>に.る|ひ.る</item>
+		<item>あま.る|あんま.り</item>
+		<item>おたい</item>
+		<item>たも.つ</item>
+		<item>おさ.める|おさ.まる</item>
+		<item>たわら</item>
+		<item> </item>
+		<item>そな.える|そな.わる</item>
+		<item> </item>
+		<item>ふたた.び</item>
+		<item> </item>
+		<item>わか.る</item>
+		<item> </item>
+		<item> </item>
+		<item>のっと.る</item>
+		<item>なら.う|ききめ|き.く</item>
+		<item>つと.め</item>
+		<item>いきお.い|はずみ</item>
+		<item>あつ.い|あか</item>
+		<item> </item>
+		<item>-べ.き|-べ.し</item>
+		<item>いとな.む</item>
+		<item>ちな.み|よ.る</item>
+		<item>まる.い|かたまり</item>
+		<item>お.す|へ.す</item>
+		<item>あ.る</item>
+		<item>なら.す</item>
+		<item>もと|もとい</item>
+		<item>むく.いる</item>
+		<item>さかい</item>
+		<item>はか</item>
+		<item>ふ.える|ま.す|ふ.やす|ま.し</item>
+		<item>ゆめ|くら.い</item>
+		<item>つま</item>
+		<item>よめ</item>
+		<item>いれ.る</item>
+		<item>よ.る|よ.せる</item>
+		<item>とみ|とむ</item>
+		<item>みちび.く</item>
+		<item>い.る|お.る</item>
+		<item>やから|つく|さかん</item>
+		<item>ぬの</item>
+		<item>もろもろ|なら.う</item>
+		<item>とこ-|つね</item>
+		<item>みき</item>
+		<item>ついで|つい.で</item>
+		<item>あらそ.う|わきま.える|はなびら|わ.ける</item>
+		<item>は.る</item>
+		<item>さき.に|い.く|いにしえ|ゆ.く</item>
+		<item>また</item>
+		<item> </item>
+		<item>こころざ.す|こころざ.し</item>
+		<item>こた.える|まさに|あた.る</item>
+		<item>こころよ.い</item>
+		<item>さが</item>
+		<item> </item>
+		<item>なさ.け</item>
+		<item>わざ.と</item>
+		<item>な.れる|な.らす</item>
+		<item>とど.める|ささ.げる|こ.らす|たす.ける|う.ける|つい.で</item>
+		<item>わざ</item>
+		<item>まね.く</item>
+		<item>さず.かる|さず.ける</item>
+		<item>と.る</item>
+		<item>つ.ぐ</item>
+		<item>さ.げる</item>
+		<item>そこな.う|そこ.ねる</item>
+		<item>ささ.える|つか.える|か.う</item>
+		<item>まん|まつりごと</item>
+		<item>ゆえ|ふる.い|もと</item>
+		<item>かたき|かな.う|あだ</item>
+		<item>ことわ.る|さだ.める|た.つ</item>
+		<item>ふる.い|もと</item>
+		<item>やさ.しい|やす.い</item>
+		<item>あば.れる|あば.く</item>
+		<item>えだ|すじ</item>
+		<item>えだ</item>
+		<item> </item>
+		<item>ただ.す|いた.る</item>
+		<item>さくら</item>
+		<item>しら.べる</item>
+		<item>かま.う|かま.える</item>
+		<item>たけ.し</item>
+		<item>くら.べる</item>
+		<item>なが.い</item>
+		<item>かわ</item>
+		<item> </item>
+		<item>こ.む|ま.ざる|ま.じる</item>
+		<item>へ.る|へ.らす</item>
+		<item>はか.る</item>
+		<item>ひと.しい|なぞら.える|じゅん.じる|みずもり|のり</item>
+		<item> </item>
+		<item>いさぎよ.い</item>
+		<item>わざわ.い</item>
+		<item>も|やす|も.す|も.える</item>
+		<item> </item>
+		<item>おか.す</item>
+		<item> </item>
+		<item>ひと.り</item>
+		<item>ひき.いる</item>
+		<item>あらわ.す|うつ.つ</item>
+		<item>るうぶる|とど.まる|と.まる</item>
+		<item>はぶ.く|はか.る|はかりごと|りゃく.す|おさ.める|ほぼ</item>
+		<item>ま.す</item>
+		<item>まなこ|め</item>
+		<item>やぶ.る|やぶ.れる</item>
+		<item>たし.か|たしか.める</item>
+		<item>しめ.す</item>
+		<item> </item>
+		<item> </item>
+		<item>うつ.る|うつ.す</item>
+		<item>ほど</item>
+		<item> </item>
+		<item>きず.く</item>
+		<item> </item>
+		<item>もと</item>
+		<item>はか.る|たていと|へ.る|のり|た.つ</item>
+		<item>ほび.る|す.べる</item>
+		<item>た.やす|た.える|た.つ</item>
+		<item>わた</item>
+		<item>ふさ|すべ.て</item>
+		<item>あ.む</item>
+		<item> </item>
+		<item>お.る|お.り</item>
+		<item>つみ</item>
+		<item>むら.がる|む.れる|むら</item>
+		<item> </item>
+		<item>たがや.す</item>
+		<item> </item>
+		<item>こ.やし|ふと.る|こえ|こ.える|こ.やす</item>
+		<item>よ.く</item>
+		<item>おこ.る|おこ.す</item>
+		<item>した</item>
+		<item>やど.る</item>
+		<item>すべ</item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item>さと.る|と.く|と.かす|ほど.く|わか.る</item>
+		<item>もう.ける</item>
+		<item>ゆる.す|ゆる.せる|もと</item>
+		<item>あかし</item>
+		<item> </item>
+		<item> </item>
+		<item>あやま.る</item>
+		<item>し.る|しる.す</item>
+		<item>まも.る</item>
+		<item>ゆた.か|とよ</item>
+		<item>たから</item>
+		<item>まず.しい</item>
+		<item>せ.める</item>
+		<item>か.す</item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item>たす.ける|たた.える</item>
+		<item>わりぶ|もと|ただ.す|たち</item>
+		<item> </item>
+		<item>の.べる</item>
+		<item>まよ.う</item>
+		<item>ひ.く|しりぞ.ける|ど.く|の.く|の.ける</item>
+		<item>さか.らう|さか.さ</item>
+		<item>つく.る|つく.り</item>
+		<item>す.ぎる|あやま.ち|よ.ぎる</item>
+		<item>かな.う</item>
+		<item>す.い</item>
+		<item>あらがね</item>
+		<item>あかがね</item>
+		<item>すき|ぜに</item>
+		<item>ぶせ.ぐ</item>
+		<item>かぎ.る</item>
+		<item>けわ.しい</item>
+		<item>きわ</item>
+		<item>まじ.る|まじ.える</item>
+		<item>あら.す</item>
+		<item>あず.がる|あず.ける</item>
+		<item>えり</item>
+		<item>ひたい</item>
+		<item>か.う</item>
+		<item>なら.ぶ|なみ</item>
+		<item>みだ.れる|みだ.す</item>
+		<item>ちち|ち</item>
+		<item>な.い|ほる.ぼす|ほる.ぶ</item>
+		<item>ひと</item>
+		<item>とも|えな.える</item>
+		<item> </item>
+		<item>ね|あたい</item>
+		<item>きず|いた.む|いた.める</item>
+		<item>やさし.い|まさ.る|すぐ.れる</item>
+		<item>むら|なかま</item>
+		<item>ふみ</item>
+		<item>お.る|ところ</item>
+		<item>きざ.む|きざ.み</item>
+		<item>わ.る|サ.ク</item>
+		<item>つく.る|きず|けず.しける|はじ.める</item>
+		<item> </item>
+		<item>つと.める|いそ.しむ</item>
+		<item>あぶ.ない|あや.ぶむ|あや.うい</item>
+		<item>たまご</item>
+		<item>きび.しい|いつくし|おごそ.か|いか.めしい</item>
+		<item>おさ.む|おさ.める</item>
+		<item>きさき</item>
+		<item>いや|いな</item>
+		<item>す.う</item>
+		<item>よ.ぶ</item>
+		<item>よし.とする|よ.く|よ.い|い.い</item>
+		<item>こま.る</item>
+		<item>た.れ|たら.す|なんなんと.す</item>
+		<item>しろ</item>
+		<item> </item>
+		<item>かな.でる</item>
+		<item>ぶる.う</item>
+		<item>すがた</item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item>むね</item>
+		<item> </item>
+		<item>たから</item>
+		<item>のたま.う</item>
+		<item>ひそか</item>
+		<item> </item>
+		<item>もっぱ.ら</item>
+		<item>さ.す|う.つ|い.る</item>
+		<item>はた|まさ|ひきい.る|もって</item>
+		<item>たっと.い|とうと.ぶ|たっと.ぶ|とっと.い</item>
+		<item>つ.く</item>
+		<item> </item>
+		<item>とど.く</item>
+		<item> </item>
+		<item> </item>
+		<item>おのれ|つちのと|な</item>
+		<item>ま.き|ま.く</item>
+		<item>とばり</item>
+		<item>ひ.る|ほ.す</item>
+		<item>おさな.い</item>
+		<item>やくしょ</item>
+		<item>すわ.る|そぞろに|まします|おわす</item>
+		<item>の.べる|の.びる|の.ばす</item>
+		<item> </item>
+		<item>したが.う|より</item>
+		<item>わす.れる</item>
+		<item> </item>
+		<item> </item>
+		<item>われ|わ</item>
+		<item> </item>
+		<item>にな.う|かつ.ぐ</item>
+		<item>おが.む|おろが.む</item>
+		<item>ひろ.がる|ひろ.める</item>
+		<item>す.てる</item>
+		<item>さが.す|さぐ.る</item>
+		<item>お.す</item>
+		<item>ふる.う</item>
+		<item>あやつ.る|みさお</item>
+		<item>うやま.う</item>
+		<item>うつ.る|は.える|うつ.す</item>
+		<item> </item>
+		<item>あたた.かい|あたた.まる</item>
+		<item>く.らす|く.れる</item>
+		<item>ほが.らか|あき.らか</item>
+		<item>つくえ</item>
+		<item> </item>
+		<item>そ.める|し.める|じ.みる</item>
+		<item>かぶ</item>
+		<item> </item>
+		<item> </item>
+		<item>はか.る|かり|おもり</item>
+		<item>き</item>
+		<item>ほ.しい|ほっ.する</item>
+		<item> </item>
+		<item>そう|-ぞい</item>
+		<item>いずみ</item>
+		<item>あ.らう</item>
+		<item> </item>
+		<item>わたし|す.む|すく|な.す</item>
+		<item>みなもと</item>
+		<item>うしお|しお</item>
+		<item>はげ.しい</item>
+		<item>はい</item>
+		<item>う.れる</item>
+		<item>かた</item>
+		<item> </item>
+		<item>こと|け</item>
+		<item>うたが.る</item>
+		<item>いた.い|いた.む</item>
+		<item> </item>
+		<item>さか.ん|も.る|さか.る</item>
+		<item> </item>
+		<item>み.る</item>
+		<item>すな</item>
+		<item> </item>
+		<item>わたし|わたくし</item>
+		<item>かく.す|ひそ.か|ひ.める</item>
+		<item> </item>
+		<item>あな</item>
+		<item>まど|けむだし|てんまど</item>
+		<item>すじ</item>
+		<item> </item>
+		<item>わりぶ|もと|ただ.す|たち</item>
+		<item> </item>
+		<item> </item>
+		<item>くれない|あか.い|べに</item>
+		<item>おさ.める|おさ.まる</item>
+		<item> </item>
+		<item>きぬ</item>
+		<item>たて</item>
+		<item>ちぢ.れる|ちぢ.む|ちぢ.らす|ちぢ.まる</item>
+		<item> </item>
+		<item> </item>
+		<item>ひじり</item>
+		<item> </item>
+		<item>そむ.く|せい|そむ.ける</item>
+		<item>むな-|むね</item>
+		<item>のうずる</item>
+		<item>はら</item>
+		<item>はらわた</item>
+		<item>のぞ.む</item>
+		<item>いた.る</item>
+		<item>わか.い|も.しくは|ごと.し</item>
+		<item>あらわ.す|いちじる.しい</item>
+		<item>む.れる|むら.す</item>
+		<item>かく.れる|おさ.める|くら</item>
+		<item>こ|かいこ</item>
+		<item>おお.いい</item>
+		<item>さば.く|たつ</item>
+		<item>よそお.い|よそお.う</item>
+		<item>うら</item>
+		<item>おぎな.う</item>
+		<item>み.る</item>
+		<item>み.る</item>
+		<item>う.つ</item>
+		<item>おとず.れる|たず.ねる|と.う</item>
+		<item>わけ</item>
+		<item> </item>
+		<item> </item>
+		<item>みと.める|したた.める</item>
+		<item> </item>
+		<item>まこと</item>
+		<item>あや.まる</item>
+		<item> </item>
+		<item>もろ</item>
+		<item>いまし.める</item>
+		<item>たっと.い|とうと.ぶ|たっと.ぶ|とうと.い</item>
+		<item> </item>
+		<item>のこ.す</item>
+		<item> </item>
+		<item>さと</item>
+		<item>はり</item>
+		<item>はがね</item>
+		<item>し.める|し.まる|と.じる|た.てる</item>
+		<item> </item>
+		<item>お.りる|くだ.る|お.ろす</item>
+		<item> </item>
+		<item>のぞ.く|-よ.け</item>
+		<item>さわ.る</item>
+		<item>むずか.しい|かた.い</item>
+		<item>かわ</item>
+		<item>いただき|いただく</item>
+		<item>ほね</item>
+		<item>たけ</item>
+		<item>あた.える</item>
+		<item>か.つ</item>
+		<item>おか</item>
+		<item>ひのえ</item>
+		<item>に</item>
+		<item>とぼ.しい|とも.しい</item>
+		<item>きのと|おと</item>
+		<item>わか.く|かわ.かす</item>
+		<item>お.わる</item>
+		<item>たが.い|かたみ.に</item>
+		<item>い</item>
+		<item>つ.ぐ</item>
+		<item>うけ.る|すすめ.る</item>
+		<item>あずまや|とど.まる</item>
+		<item>たす.ける|すけ</item>
+		<item>やまびと|せんにん</item>
+		<item>あおぐ|おおせ|あおる</item>
+		<item>くわだ.てる|たくら.む</item>
+		<item>ふ.せる|ふ.す</item>
+		<item>きる|うつ|そむ.く</item>
+		<item> </item>
+		<item>とまな.う</item>
+		<item>のば.す|の.べる|の.す</item>
+		<item>うかが.う</item>
+		<item>ただ.し</item>
+		<item> </item>
+		<item> </item>
+		<item>あわ.せる</item>
+		<item>さむらい|はべ.る</item>
+		<item>よ.る</item>
+		<item>あなど.る|あな.ずる</item>
+		<item> </item>
+		<item>おか.す</item>
+		<item>うなが.す</item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item>たお.す|たお.れる</item>
+		<item>なら.う</item>
+		<item> </item>
+		<item>つま.しい|つづまやか</item>
+		<item>えら.い</item>
+		<item>かたよ-る</item>
+		<item> </item>
+		<item>たま</item>
+		<item>にせ|いつわ.る</item>
+		<item>はた|かたわ.ら|わき</item>
+		<item>すぐ.れる</item>
+		<item>かさ</item>
+		<item>もよお.す|もよう.す</item>
+		<item> </item>
+		<item>かた.げる|かたむ.く|かたむ.ける</item>
+		<item>しもべ</item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item>つぐな.う</item>
+		<item>み.なす|あ.てる</item>
+		<item>か.つ</item>
+		<item>まめか.れる</item>
+		<item>か.ねる</item>
+		<item>おか.す</item>
+		<item> </item>
+		<item>かんむり</item>
+		<item> </item>
+		<item>こお.る|こご.える|こご.る|い.てる</item>
+		<item>こ.る|こ.らす</item>
+		<item>およ.そ|すべ.て|おうよ.そ</item>
+		<item> </item>
+		<item>でこ</item>
+		<item>へこ.む|ぼこ|くお.む</item>
+		<item>やいば|き.る|は</item>
+		<item>か.る</item>
+		<item> </item>
+		<item>いた.る</item>
+		<item>さ.す|とげ|さし|さ.さる</item>
+		<item>けず.る|はつ.る|そ.ぐ</item>
+		<item> </item>
+		<item> </item>
+		<item>つるぎ</item>
+		<item>けず.る|かる</item>
+		<item>あま.る|あまつさえ</item>
+		<item>おと.る</item>
+		<item>はげ.ます|はげ.む</item>
+		<item> </item>
+		<item>みことのり|いまし.める</item>
+		<item> </item>
+		<item>つの.る</item>
+		<item>すす.める</item>
+		<item>いさお</item>
+		<item> </item>
+		<item>もんめ|め</item>
+		<item>たくみ</item>
+		<item>ひき</item>
+		<item>かくま.う</item>
+		<item>ます</item>
+		<item>いや.しめる|いや.しい|いや.しむ</item>
+		<item> </item>
+		<item>うらな.い|し.める</item>
+		<item>かえ.って|しりぞ.ける|しりぞ.く</item>
+		<item>おろし|おろ.す</item>
+		<item> </item>
+		<item> </item>
+		<item>また</item>
+		<item>およ.ぶ|およ.ばす</item>
+		<item>ふたつ|たぐい|ならぶ</item>
+		<item>シュク</item>
+		<item>ついで|つい.ず</item>
+		<item>さけ.ぶ</item>
+		<item>め.し|め.す</item>
+		<item>よし</item>
+		<item> </item>
+		<item>は.く|つ.く</item>
+		<item> </item>
+		<item>ふく.める|ふく.む</item>
+		<item>ふ.く</item>
+		<item> </item>
+		<item>く.れる|くれ</item>
+		<item>さ.く</item>
+		<item>かな.しい|あわ.れ</item>
+		<item>し.る|さば.く|あき.らか|さとい</item>
+		<item>そそ.る|そそのか.す</item>
+		<item>くちびる</item>
+		<item>から</item>
+		<item>ただ</item>
+		<item>さと.す|ひら.く</item>
+		<item>わめ.く</item>
+		<item> </item>
+		<item>も</item>
+		<item> </item>
+		<item> </item>
+		<item>なげ.く|なげ.かわしい</item>
+		<item>しょく.する|たの.む</item>
+		<item>ふ.く</item>
+		<item>おど.かす</item>
+		<item>とら.われる</item>
+		<item>かこ.い</item>
+		<item> </item>
+		<item> </item>
+		<item>つぼ</item>
+		<item>かき</item>
+		<item>うも.れる|うず.める|い.ける|う.まる</item>
+		<item>と.る</item>
+		<item>つちか.う</item>
+		<item>ほ.る|ほ.り</item>
+		<item>かた.い</item>
+		<item>お.ちる|くず.れる|くず.す</item>
+		<item>つつみ</item>
+		<item>こた.える|た.える|こ.らえる|たま.る</item>
+		<item> </item>
+		<item>とりで</item>
+		<item>かたまり|つちくれ</item>
+		<item>でく</item>
+		<item> </item>
+		<item>ぬ.る|まみ.れる</item>
+		<item>つか</item>
+		<item> </item>
+		<item>お.つ|お.ちる</item>
+		<item>すみ</item>
+		<item> </item>
+		<item> </item>
+		<item>かべ</item>
+		<item> </item>
+		<item>こわ.れる|こわ.す|やぶ.る</item>
+		<item>つち</item>
+		<item>さかん</item>
+		<item>ひとつ</item>
+		<item>くし|めずら.しい|あや.しい|く.しき</item>
+		<item>まつ.る|ほう.ずる|たてまつ.る</item>
+		<item>ちぎ.る</item>
+		<item>はし.る</item>
+		<item>おくまる|おく|くま</item>
+		<item>すす.める</item>
+		<item>うば.う</item>
+		<item>やつ|やっこ</item>
+		<item>ごと.し</item>
+		<item>きさき</item>
+		<item>みだ.りに</item>
+		<item>はら.む|みごも.る</item>
+		<item>たえ</item>
+		<item> </item>
+		<item>さまた.げる</item>
+		<item> </item>
+		<item>ひめ</item>
+		<item> </item>
+		<item>おど.かす|おど.す|おど.し</item>
+		<item>むすめ|こ</item>
+		<item> </item>
+		<item> </item>
+		<item>ばあ|ばば</item>
+		<item> </item>
+		<item>むこ</item>
+		<item>なこうど</item>
+		<item>よめ|い.く|とつ.ぐ|ゆ.く</item>
+		<item>きらう|いや</item>
+		<item> </item>
+		<item>むすめ</item>
+		<item>あな</item>
+		<item> </item>
+		<item>よろ.しい|よろ.しく</item>
+		<item> </item>
+		<item>うたげ</item>
+		<item>よい</item>
+		<item>さみ.しい|さび.しい|さび.れる</item>
+		<item>ひろ.い|くつろ.ぐ|ゆる.やか</item>
+		<item>ね.る|い.ぬ|みためや|や.める|ね.かす</item>
+		<item> </item>
+		<item>むし.ろ</item>
+		<item>つまび.らか|つぶさ.に</item>
+		<item> </item>
+		<item>ことぶき|ことぶ.く|ことぼ.ぐ</item>
+		<item> </item>
+		<item> </item>
+		<item>ひろ|たず.ねる</item>
+		<item>なお</item>
+		<item>あま</item>
+		<item>つ.く|さかづき|つ.くす|つか|つ.きる|ことごと.く</item>
+		<item>お</item>
+		<item> </item>
+		<item>かが.む|かが.める</item>
+		<item>は.く</item>
+		<item> </item>
+		<item> </item>
+		<item>みさき</item>
+		<item>たけ</item>
+		<item>とうげ</item>
+		<item>はざま</item>
+		<item>みね|ね</item>
+		<item>たた.る|あが.める</item>
+		<item>さき|さい|みさき</item>
+		<item>くず.れる|くず.す</item>
+		<item>めぐ.る|めぐ.り</item>
+		<item>うま.い|たく.む|たく.み</item>
+		<item> </item>
+		<item>ほ</item>
+		<item>みかど</item>
+		<item> </item>
+		<item>ずきん|おお.う</item>
+		<item>はば</item>
+		<item>ぬさ</item>
+		<item>まぼろし</item>
+		<item>くら.い|しろ.い|かす.か|ふか.い</item>
+		<item>いく.つ|いく.ら</item>
+		<item>とこ|ゆか</item>
+		<item> </item>
+		<item> </item>
+		<item>すた.れる|すた.る</item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item>そえ|ふた.つ</item>
+		<item>とむら.う|とぶら.う</item>
+		<item>つる</item>
+		<item> </item>
+		<item>たま|ひ.く|ただ.す|はし.く|はず.む|はじ.きゆみ</item>
+		<item>いろど.る</item>
+		<item>ほ.る</item>
+		<item> </item>
+		<item>かげ</item>
+		<item>かれ|かの</item>
+		<item> </item>
+		<item>おもむ.ろに</item>
+		<item>み-|おん-</item>
+		<item> </item>
+		<item>かす.か</item>
+		<item>しろし</item>
+		<item> </item>
+		<item>い.み|い.む|い.まわしい</item>
+		<item>しの.ばせる|しの.ぶ</item>
+		<item>いそが.しい|せわ.しい|おそ.れる|うれえるさま</item>
+		<item>いか.る|おこ.る</item>
+		<item>こわ.い|こわ.がる|おそ.れる|お.じる</item>
+		<item>なま.ける|おこた.る</item>
+		<item>あや.しい|あや.しむ</item>
+		<item>こい|こ.う|こい.しい</item>
+		<item>こわ.い|おそ.ろしい</item>
+		<item>つわね|つね</item>
+		<item>はじ|はず.かしい|は.じらう|は.じる</item>
+		<item>うら.み|うら.めしい</item>
+		<item>うやうや.しい</item>
+		<item>めぐ.む|めぐ.み</item>
+		<item>くや.しい|く.いる|く.やむ</item>
+		<item>さと.る</item>
+		<item> </item>
+		<item>わずら.う</item>
+		<item>よろこ.び|よろこ.ばす</item>
+		<item>なや.み|なや.ましい</item>
+		<item>いた.む</item>
+		<item>まど.う</item>
+		<item>お.しい|お.しむ</item>
+		<item>いた.む|みじ.め|むご.い</item>
+		<item> </item>
+		<item>うれ.い|うれ.える</item>
+		<item>たの.しい|たの.しむ</item>
+		<item>おろ.か</item>
+		<item>いつく.しむ</item>
+		<item>あわ.てる|あわ.ただしい</item>
+		<item>つつし|つつし.み|つつし.む</item>
+		<item>した.う</item>
+		<item> </item>
+		<item> </item>
+		<item>おもんばか.る|おもんばく.る</item>
+		<item>なぐさ.む|なぐさ.める</item>
+		<item>よろこ.ぶ</item>
+		<item>うれ.い|う.い|うれ.える|う.き</item>
+		<item>にく.む|にく.い|にく.らしい</item>
+		<item>いきどう.る</item>
+		<item>いこ.う|いこ.い</item>
+		<item> </item>
+		<item>うら.む</item>
+		<item>ねんご.ろ</item>
+		<item>なつ.かしい|ふところ|おも.う|いだ.く</item>
+		<item>こ.らす|こ.らしめる|こ.りる</item>
+		<item>か.かる|か.ける</item>
+		<item>いまし.める</item>
+		<item>たわむ.れる|じゃ.れる|ざ.れる</item>
+		<item>もど.る|もど.す</item>
+		<item>ふさ</item>
+		<item>おうぎ</item>
+		<item>とびら</item>
+		<item>はら.う|-はら.い</item>
+		<item>あつか.う|こ.く</item>
+		<item>たす.ける</item>
+		<item> </item>
+		<item> </item>
+		<item>おさ.える</item>
+		<item>あらが.う</item>
+		<item>ぬ.く|ね.かる|ね.ける</item>
+		<item>えら.ぶ</item>
+		<item> </item>
+		<item>だ.く|かか.える|いだ.く</item>
+		<item> </item>
+		<item> </item>
+		<item>お.す|お.さえる</item>
+		<item>ひき-</item>
+		<item> </item>
+		<item> </item>
+		<item>こば.む</item>
+		<item>ひら.く</item>
+		<item>かか.わる</item>
+		<item>つたな.い</item>
+		<item>よ.る</item>
+		<item>くく.る</item>
+		<item> </item>
+		<item>いど.む</item>
+		<item>はさ.まる|はさ.む|わきばさ.む|さしはさ.む</item>
+		<item>ふ.る|ぶ.る|ふ.るう</item>
+		<item>はさ.む|さ.す</item>
+		<item>つか.まえる|と.る|と.らわれる|とら.える</item>
+		<item>さが.す</item>
+		<item>す.える|す.わる</item>
+		<item>は.く</item>
+		<item>てのひら|たなごこる</item>
+		<item> </item>
+		<item>ほ.る</item>
+		<item>か.ける|か.かる|か.かり</item>
+		<item>ひか.え|ひか.える</item>
+		<item>お.く</item>
+		<item>かか.げる</item>
+		<item>えが.く|か.く</item>
+		<item>あ.げる|あ.がる</item>
+		<item>か.える</item>
+		<item>にぎ.る</item>
+		<item> </item>
+		<item>ゆ.る|うご.く|ゆ.らぐ|ゆ.さぶる</item>
+		<item> </item>
+		<item> </item>
+		<item>たずさ.える|たずさ.わる</item>
+		<item>しぼ.る</item>
+		<item>と.る|おさ.める|かね.る</item>
+		<item>つ.む</item>
+		<item>ま.する|す.る|さ.する</item>
+		<item>う.つ</item>
+		<item> </item>
+		<item>と.る|つま.む</item>
+		<item> </item>
+		<item> </item>
+		<item>す.れる|こす.る|こす.れる</item>
+		<item>まが.い|もど.き</item>
+		<item>せ.める</item>
+		<item>さとい</item>
+		<item>あ.えず|あ.えて|あ.えない</item>
+		<item>し.く</item>
+		<item>あたる|ひと.しい|ひと.しく|はやい|そろ.う</item>
+		<item>ものいみ|いつ.く|つつし.む|とき|い.む|いわ.う</item>
+		<item> </item>
+		<item>なな.め|はす</item>
+		<item> </item>
+		<item>しりぞ.ける</item>
+		<item>ほどこ.す</item>
+		<item> </item>
+		<item>すで.に</item>
+		<item>うま.い|むね</item>
+		<item> </item>
+		<item> </item>
+		<item>のぼ.る</item>
+		<item>これ|ここ|この</item>
+		<item>あまねし|あまね.く</item>
+		<item> </item>
+		<item>あかつき|さと.る</item>
+		<item>ひま|いとま</item>
+		<item>こよみ|りゃく</item>
+		<item>しばら.く</item>
+		<item>くも.る</item>
+		<item>さら|ふ.かす|ふ.ける</item>
+		<item>へや|とまがら|つかさ</item>
+		<item>か.える|か.わる</item>
+		<item> </item>
+		<item>あけ</item>
+		<item>ほう|ほお|えのき</item>
+		<item>く.ちる</item>
+		<item>すぎ</item>
+		<item>さかずき</item>
+		<item> </item>
+		<item>わく</item>
+		<item>とぼそ|からくり</item>
+		<item>か.れる|か.らす</item>
+		<item>か.かる|か.ける</item>
+		<item>がら|つか.え</item>
+		<item>なにがし|それがし</item>
+		<item>やわら|やわ.らかい</item>
+		<item>やぎ|やなぎ</item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item>もも</item>
+		<item>くわ</item>
+		<item>かけはし</item>
+		<item>す.てる</item>
+		<item>ご</item>
+		<item>たな|-だな</item>
+		<item>むね</item>
+		<item> </item>
+		<item>たかどの</item>
+		<item>おうむ.ね</item>
+		<item>ふね</item>
+		<item>てすり</item>
+		<item>おた.う|は.く</item>
+		<item>おざむ.く</item>
+		<item> </item>
+		<item>よろこ.ぶ</item>
+		<item>とせ|よわい|とし</item>
+		<item> </item>
+		<item>こと</item>
+		<item>ふ.える|ふ.やす</item>
+		<item>なぐ.る</item>
+		<item>から|がら</item>
+		<item>との|-どの</item>
+		<item>しる|つゆ</item>
+		<item>あせ</item>
+		<item>よご.れる|けが.らわしい|きたな.い</item>
+		<item>え</item>
+		<item>しず.める|しず.む</item>
+		<item>おき|おきつ|ちゅう.する|わく</item>
+		<item>ない|おば.れる|しず.む</item>
+		<item>さわ|つや|うるお.す|うるお.い</item>
+		<item>わ.かす|わ.く</item>
+		<item>ぬま</item>
+		<item>いわ.んや|おもむき|まし.て</item>
+		<item>と.もる|と.める</item>
+		<item> </item>
+		<item>あわ</item>
+		<item>どる</item>
+		<item> </item>
+		<item>ほら</item>
+		<item>つ</item>
+		<item> </item>
+		<item>きよ.い|きよ.める</item>
+		<item>はま</item>
+		<item>うら</item>
+		<item> </item>
+		<item>う.かれる|う.かべる|む|う.く|う.かぶ</item>
+		<item>ひた.る|ひた.す</item>
+		<item>なみだ</item>
+		<item>はて</item>
+		<item>すず.しい|ひや.す|まことに|うす.い</item>
+		<item>しと.やか</item>
+		<item>あわ.い</item>
+		<item>そ.える|も.える|も.う|そ.う</item>
+		<item>かわ.く</item>
+		<item>わた.る</item>
+		<item>しぶ.る|しぶ.い</item>
+		<item>たに|たにがわ</item>
+		<item>わた.す|わた.る</item>
+		<item>うず</item>
+		<item>いりえ</item>
+		<item>しめ.す|しめ.る|うるお.す|うるお.う</item>
+		<item>みぞ</item>
+		<item>と.く|と.ける|と.かす</item>
+		<item>ほろ.ばす|ほろ.ぶ|ほろ.びる</item>
+		<item> </item>
+		<item>すべ.る|なめ.らか</item>
+		<item>たき</item>
+		<item>とどこお.る</item>
+		<item>したた.る|しずく</item>
+		<item>ただよ.う</item>
+		<item>うるし</item>
+		<item>も.らす|も.る|も.れる</item>
+		<item> </item>
+		<item>みがりに</item>
+		<item>つ.ける|つ.かる</item>
+		<item>やや</item>
+		<item>もぐ.る|かく.れる|ひそ.む|くぐ.る</item>
+		<item>かた|-がた</item>
+		<item>うろお.す|うる.む|うるお.う</item>
+		<item>す.ます|す.む</item>
+		<item>にご.す|にご.る</item>
+		<item>こ.い</item>
+		<item>みだ.りに|みだ.りがましい</item>
+		<item>ゆす.ぐ|すす.ぐ</item>
+		<item>せ</item>
+		<item>いろり</item>
+		<item>たく|-だ.き</item>
+		<item>ほのお</item>
+		<item>つく.る|たり|な.す|な.る|ため|す.る</item>
+		<item>はげ.しい</item>
+		<item>こ.がれる|こ.げる|こ.がす|おせ.る</item>
+		<item>けむ.い|けむ.る</item>
+		<item>わずら.わす|わすら.う</item>
+		<item>に.える|に.る|に.やす</item>
+		<item>はしゃ.ぐ</item>
+		<item>は.ぜる</item>
+		<item> </item>
+		<item> </item>
+		<item>いけにえ</item>
+		<item>くるお.しい|くる.う</item>
+		<item>か.る|か.り</item>
+		<item>せま.い|せば.める|さ</item>
+		<item> </item>
+		<item>か.る|かり</item>
+		<item>ねこ</item>
+		<item>たてもつ.る</item>
+		<item>なお</item>
+		<item>さる</item>
+		<item> </item>
+		<item>けだもの|けもの</item>
+		<item>え.る</item>
+		<item> </item>
+		<item>めずら.しい|たから</item>
+		<item>たま</item>
+		<item>こと</item>
+		<item>わ</item>
+		<item> </item>
+		<item>かめ</item>
+		<item>うま.い|あま.い|あま.える|あま.やかす</item>
+		<item>はなは.だ|はなは.だしい</item>
+		<item>きのえ</item>
+		<item>ほとり|あぜ|くる</item>
+		<item> </item>
+		<item>せ|うね</item>
+		<item>たた.み|たた.む|かさ.なる</item>
+		<item>うと.い|まば.ら|うと.む</item>
+		<item> </item>
+		<item>つか.れる|つか.らす</item>
+		<item>はや.い</item>
+		<item> </item>
+		<item> </item>
+		<item>し.れる|おろか</item>
+		<item> </item>
+		<item> </item>
+		<item>いや.す|い.える</item>
+		<item>くせ|くせ.に</item>
+		<item>みんな|みな</item>
+		<item> </item>
+		<item>めす.み|めす.む</item>
+		<item> </item>
+		<item> </item>
+		<item>めくら</item>
+		<item>たて</item>
+		<item>ねむ.い|ねむ.る</item>
+		<item>なが.める</item>
+		<item> </item>
+		<item> </item>
+		<item>またた.く|まじろ.ぐ</item>
+		<item>ほこ</item>
+		<item>た.める</item>
+		<item>くだ.ける|くだ.く</item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item>かた.い</item>
+		<item> </item>
+		<item>いしぶみ</item>
+		<item>みが.く|す.る</item>
+		<item> </item>
+		<item>いしずえ</item>
+		<item>いの.る</item>
+		<item> </item>
+		<item>きざ.し|つまび.らか|よい|さいわ.い</item>
+		<item>しずか|ゆず.る</item>
+		<item>わざわい</item>
+		<item>ひい.でる</item>
+		<item> </item>
+		<item> </item>
+		<item>はか.る|とな.える|たた.える|かな.う|あ.げる|ほめ.る</item>
+		<item>おくて|おでる|いとけない|おさない</item>
+		<item>いね|いな-</item>
+		<item>かせ.ぐ</item>
+		<item>わら|したがき</item>
+		<item>ほ</item>
+		<item>おだ.やか</item>
+		<item> </item>
+		<item>つ.く</item>
+		<item>ひそ.か|めす.む</item>
+		<item> </item>
+		<item>きわ.まる|きわ.める|きわ.み</item>
+		<item>かま</item>
+		<item>いせ|たつ</item>
+		<item>はた|はし|は|はな</item>
+		<item> </item>
+		<item>つつ</item>
+		<item> </item>
+		<item> </item>
+		<item>あつ.い</item>
+		<item> </item>
+		<item> </item>
+		<item>いき</item>
+		<item>つぶ</item>
+		<item>あら.い</item>
+		<item>ねば.る</item>
+		<item>つつし.む</item>
+		<item> </item>
+		<item>かて</item>
+		<item>ただ.す</item>
+		<item> </item>
+		<item>まぎ.れる|まぎ.らわす|まぎ.らわしい</item>
+		<item>つむ.ぐ</item>
+		<item> </item>
+		<item>むらさき</item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item>し.める|しぼ.る|し.まる</item>
+		<item>から.まる|から.む</item>
+		<item>まま-|つ.ぐ</item>
+		<item> </item>
+		<item>つな</item>
+		<item>あみ</item>
+		<item>し.める|し.まる</item>
+		<item>いとぐら|お</item>
+		<item>し.める|し.まる|し.まり</item>
+		<item>ゆる.める|ゆる.む|ゆる.い|ゆる.やか</item>
+		<item>めき|よこいと</item>
+		<item>よすが|ふらど.る|えにし|へり|ゆかり|ふら</item>
+		<item>ただ.す|なわ</item>
+		<item>しば.る</item>
+		<item>ぬ.う</item>
+		<item>しげ.く|しげ.る</item>
+		<item> </item>
+		<item>つくろ.う</item>
+		<item>きめ|まゆ</item>
+		<item>く.る</item>
+		<item>かま</item>
+		<item>ばっ.する</item>
+		<item>まか.り-|や.める</item>
+		<item>うすもの</item>
+		<item>おきな</item>
+		<item>ひるかえ.る|ひるかえ.す</item>
+		<item>つばさ</item>
+		<item>たえ.る</item>
+		<item> </item>
+		<item>ゆる.す|き.く</item>
+		<item>はだ</item>
+		<item>あやか.る</item>
+		<item>きも</item>
+		<item> </item>
+		<item>かた</item>
+		<item> </item>
+		<item>がえんじ.る</item>
+		<item>きも</item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item>あぶら</item>
+		<item>おど.かす|おど.す|おびや.かす</item>
+		<item>あし</item>
+		<item>ぬ.げる|ぬ.ぐ</item>
+		<item>ふく.れる|は.れる|ふく.らむ</item>
+		<item>くさ.らす|くさ.る|くさ.れ|くさ.す</item>
+		<item>うで</item>
+		<item>こし</item>
+		<item>はだ</item>
+		<item> </item>
+		<item>ふく.れる|ふく.らむ</item>
+		<item>にお.い|くさ.い|にお.う</item>
+		<item>いた.す</item>
+		<item> </item>
+		<item>まい|ま.う</item>
+		<item>ふな-|ふね|-ぶね</item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item>いも</item>
+		<item>シ</item>
+		<item>かんば.しい</item>
+		<item>なえ|なわ-</item>
+		<item>しげ.る</item>
+		<item>くき</item>
+		<item>すき.む|あ.れる|あ.らす|あら.い</item>
+		<item>おこそ.か|ほうき</item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item>はな</item>
+		<item>ほうむ.る</item>
+		<item>たくわ.える</item>
+		<item>うす.れる|すすき|うす.い|うす.まる|うす.らぐ</item>
+		<item>すす.める</item>
+		<item>たきぎ|まき</item>
+		<item>かお.る</item>
+		<item> </item>
+		<item>も</item>
+		<item>しいた.げる</item>
+		<item>むな.しい|うつ.ろ</item>
+		<item>とりに|とりく</item>
+		<item>はか.る|たの.しむ|おそれ|おもんばか.る|あやま.る</item>
+		<item>か</item>
+		<item>へび</item>
+		<item>ほたる</item>
+		<item>えびす</item>
+		<item>と.かす|と.ける</item>
+		<item>つ.く</item>
+		<item> </item>
+		<item>おとろ.える</item>
+		<item> </item>
+		<item>ふくろ</item>
+		<item>かぶ.せる|おお.う|こうむ.る</item>
+		<item>さ.く|さ.ける|-ぎれ</item>
+		<item> </item>
+		<item>はだか</item>
+		<item> </item>
+		<item>ほ.める</item>
+		<item>えり</item>
+		<item>おそ.う|かさ.ね</item>
+		<item>くつがえ.る|くつがえ.す|おお.う</item>
+		<item>はたがしら</item>
+		<item>さわ|ふ.れる|さわ.る</item>
+		<item> </item>
+		<item>かこつ.ける|かこ.つ</item>
+		<item> </item>
+		<item>うった.える</item>
+		<item>み.る</item>
+		<item>いつわ.る</item>
+		<item>みことのり</item>
+		<item>うた.う|よ.む</item>
+		<item>つ.める|つ.む|つ.まる</item>
+		<item> </item>
+		<item>くわ.しい|つまび.らく</item>
+		<item>ほこ.る</item>
+		<item>ほま.れ|ほ.める</item>
+		<item>ちか.う</item>
+		<item>いぎな.う|さそ.う</item>
+		<item>こ.う|う.ける</item>
+		<item>さと.す</item>
+		<item>はか.る</item>
+		<item> </item>
+		<item>はか.る|はかりごと|たばか.る</item>
+		<item> </item>
+		<item> </item>
+		<item> </item>
+		<item>うた.う|うた.い</item>
+		<item>つつし.む</item>
+		<item> </item>
+		<item>ゆず.る</item>
+		<item>ぶた</item>
+		<item>えら.い</item>
+		<item>さだ</item>
+		<item>みつ.ぐ</item>
+		<item> </item>
+		<item>ぬ.く|ぬき|つらぬ.く</item>
+		<item>まかな.う</item>
+		<item> </item>
+		<item> </item>
+		<item>たま.う|たまわ.る|たも.う</item>
+		<item> </item>
+		<item>かしこ.い</item>
+		<item> </item>
+		<item> </item>
+		<item>おく.る</item>
+		<item> </item>
+		<item>おもむ.く</item>
+		<item>こ.す|こ.える</item>
+		<item>こ.す|こ.える</item>
+		<item>おもむ.く|おもむき</item>
+		<item>へだ.たる|けずめ</item>
+		<item>あと</item>
+		<item>と.ぶ|は.ねる</item>
+		<item>ふ.む</item>
+		<item>おど.る</item>
+		<item>ふ.む|ふ.まえる</item>
+		<item>おど.る</item>
+		<item> </item>
+		<item>のき</item>
+		<item>やわ.らかい|やわ.らか</item>
+		<item> </item>
+		<item>くら.べる</item>
+		<item>の.せる|の.る</item>
+		<item>かがや.く</item>
+		<item>やから|やかい|ともがら</item>
+		<item>くさび</item>
+		<item>から.い|つら.い|かのと</item>
+		<item>はずかし.める</item>
+		<item>こ.む|こ.み|こ.める</item>
+		<item> </item>
+		<item>むか.える</item>
+		<item>せま.る</item>
+		<item> </item>
+		<item>に.げる|のが.れる|にがす</item>
+		<item>す.く|とう.す|す.ける|す.かす</item>
+		<item> </item>
+		<item>かわ.る|たがいに</item>
+		<item>みち</item>
+		<item>い.く|ゆ.く</item>
+		<item> </item>
+		<item>そ.らす|そ.れる|はぐ.れる</item>
+		<item>と.げる|つい.に</item>
+		<item>おく.れる|おそ.い|おく.らす</item>
+		<item>お.う</item>
+		<item>おまね.く</item>
+		<item>ちが.い|ちが.う|たが.える</item>
+		<item>つか.う|や.る|つた.わす</item>
+		<item>あ.う|あ.わせる</item>
+		<item>さえぎ.る</item>
+		<item> </item>
+		<item>うつ.る|うつ.す|みやこがえ</item>
+		<item>さ.ける|よ.ける</item>
+		<item>かえ.る</item>
+		<item>くに</item>
+		<item>よこし.ま</item>
+		<item>やしき</item>
+		<item> </item>
+		<item>おとこ</item>
+		<item>くるわ</item>
+		<item>く.む</item>
+		<item>よ|よ.う|よ.い</item>
+		<item>す</item>
+		<item> </item>
+		<item>シュウ|トウ|シュ</item>
+		<item> </item>
+		<item>ひど.い</item>
+		<item>しこ|みにく.い</item>
+		<item>かも.す</item>
+		<item>ゆる.す|す.てる|とく</item>
+		<item>つ.り|つ.る</item>
+		<item>にぶ.る|なまく.ら|なま.る|にぶ.い</item>
+		<item>すず</item>
+		<item>なまり</item>
+		<item>ハツ</item>
+		<item>つつ</item>
+		<item> </item>
+		<item> </item>
+		<item>するど.い</item>
+		<item>い.る</item>
+		<item>つむ|おもり</item>
+		<item> </item>
+		<item>ね.る</item>
+		<item> </item>
+		<item>きた.える</item>
+		<item>くさり|とざ.す</item>
+		<item>しず.まる|しず.める|おさえ</item>
+		<item>かね</item>
+		<item>かんが.みる|かがみ</item>
+		<item> </item>
+		<item> </item>
+		<item>けみ.する</item>
+		<item>たたか.う|あらそ.う</item>
+		<item>はば.む</item>
+		<item>つ.ける|つ.く</item>
+		<item> </item>
+		<item>おとしい.る|おとしい.れる</item>
+		<item> </item>
+		<item>かげ.る|かげ</item>
+		<item>ひ.ねる</item>
+		<item>みささぎ</item>
+		<item> </item>
+		<item>すみ</item>
+		<item> </item>
+		<item>まにまに|したが.う</item>
+		<item>へだ.たる|へだ.てる</item>
+		<item>かく.し|かく.す|かか.す|かく.れる|よ.る</item>
+		<item>となり|とな.る</item>
+		<item>しもべ|したが.う</item>
+		<item> </item>
+		<item>おん|おす</item>
+		<item>みや.び</item>
+		<item>やと.う</item>
+		<item>めん|めす</item>
+		<item>はな.れる|はな.す</item>
+		<item> </item>
+		<item>こぼ.す|こぼ.れる|ぜろ</item>
+		<item>かみなり|いかずら|いかづら</item>
+		<item> </item>
+		<item>ふる.う|ふる.える</item>
+		<item>たま</item>
+		<item>しま</item>
+		<item>きり</item>
+		<item>つゆ</item>
+		<item>くつ</item>
+		<item> </item>
+		<item>ひび.く</item>
+		<item>うなじ</item>
+		<item>かたく</item>
+		<item>わか.つ</item>
+		<item>しき.りに</item>
+		<item>たよ.る|たの.む|たの.もしい</item>
+		<item>あらわ.れる|あきらか</item>
+		<item>かえり.みる</item>
+		<item>う.える</item>
+		<item>あ.かす|あ.きる|あ.く</item>
+		<item>かざ.る|かざ.り</item>
+		<item>う.える</item>
+		<item>か|かおり|かお.る|か</item>
+		<item> </item>
+		<item>かけ.る|か.る</item>
+		<item> </item>
+		<item> </item>
+		<item>さわ.ぐ|さわ.がしい|うれい</item>
+		<item>あが.る|のぼ.る</item>
+		<item>おどろ.かす|おどろ.く</item>
+		<item> </item>
+		<item>かみ</item>
+		<item>おに</item>
+		<item>たましい|たま</item>
+		<item> </item>
+		<item> </item>
+		<item>あざや.か</item>
+		<item>くじら</item>
+		<item>にわとり|とり</item>
+		<item>うるわし.い|うら.らか</item>
+		<item>あさ</item>
+		<item>だま.る|もだ.す</item>
+		<item>つづみ</item>
+		<item>よわい|よし</item>
+	</string-array>
+</resources>
